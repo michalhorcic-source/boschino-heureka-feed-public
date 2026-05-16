@@ -10,7 +10,7 @@ const OUT_FILE = `${OUT_DIR}/heureka.xml`;
 const MIN_PRICE = 499.99;
 
 const CATEGORY_NAMESPACE = "heureka";
-const CATEGORY_KEY = "categoryText";
+const CATEGORY_KEY = "categorytext";
 
 const token = process.env.SHOPIFY_ADMIN_TOKEN;
 
@@ -19,6 +19,10 @@ if (!token) {
 }
 
 const endpoint = `https://${SHOP}/admin/api/${API_VERSION}/graphql.json`;
+
+function sleep(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
 
 function xmlEscape(value) {
   return String(value ?? "")
@@ -44,9 +48,25 @@ function gidNumber(gid) {
 
 function priceToHeureka(price) {
   const n = Number(price);
-  if (!Number.isFinite(n) || n <= 0) return null;
+
+  if (!Number.isFinite(n) || n <= 0) {
+    return null;
+  }
 
   return n.toFixed(2);
+}
+
+function hasLetter(value) {
+  return /\p{L}/u.test(String(value ?? ""));
+}
+
+function titleFromHandle(handle) {
+  return String(handle ?? "")
+    .split("-")
+    .filter((part) => !/^\d+$/.test(part))
+    .join(" ")
+    .replace(/\s+/g, " ")
+    .trim();
 }
 
 function categoryTextFromMetafield(product) {
@@ -62,35 +82,62 @@ function categoryTextFromMetafield(product) {
 function isEligibleVariant(variant) {
   const price = Number(variant.price);
 
-  if (!Number.isFinite(price)) return false;
+  if (!Number.isFinite(price)) {
+    return false;
+  }
 
-  // 1. Price musí být větší než 499,99 Kč
-  if (price <= MIN_PRICE) return false;
+  // Cena musí být větší než 499,99 Kč.
+  if (price <= MIN_PRICE) {
+    return false;
+  }
 
-  // 2. Dostupnost přesně "skladem"
-  // inventoryQuantity > 1 = skladem
-  // inventoryQuantity === 1 = poslední kus skladem, vyloučeno
-  // inventoryPolicy === CONTINUE bez skladu = lze objednat, vyloučeno
-  if (variant.inventoryQuantity > 1) return true;
+  // Skladem nebo poslední kus skladem.
+  if (variant.inventoryQuantity > 0) {
+    return true;
+  }
 
+  // Lze objednat.
+  if (variant.inventoryPolicy === "CONTINUE") {
+    return true;
+  }
+
+  // Nelze objednat.
   return false;
 }
 
 function deliveryDate(variant) {
-  if (variant.inventoryQuantity > 1) return "0";
+  // Skladem / poslední kus skladem.
+  if (variant.inventoryQuantity > 0) {
+    return "0";
+  }
+
+  // Lze objednat.
+  if (variant.inventoryPolicy === "CONTINUE") {
+    return "30";
+  }
 
   return null;
 }
 
 function productName(product, variant) {
-  const productTitle = product.title ?? "";
-  const variantTitle = variant.title ?? "";
+  const productTitle = String(product.title ?? "").trim();
+  const variantTitle = String(variant.title ?? "").trim();
 
-  if (!variantTitle || variantTitle === "Default Title") {
-    return productTitle;
+  let name = productTitle;
+
+  if (variantTitle && variantTitle !== "Default Title" && hasLetter(variantTitle)) {
+    name = `${productTitle} ${variantTitle}`.trim();
   }
 
-  return `${productTitle} ${variantTitle}`;
+  if (!hasLetter(name)) {
+    name = titleFromHandle(product.handle);
+  }
+
+  if (!hasLetter(name)) {
+    return null;
+  }
+
+  return name;
 }
 
 function imageUrl(product, variant) {
@@ -106,29 +153,108 @@ function productUrl(product, variant) {
   return `${STOREFRONT_DOMAIN}/products/${product.handle}?variant=${encodeURIComponent(variantId)}`;
 }
 
-async function shopifyGraphql(query, variables = {}) {
-  const res = await fetch(endpoint, {
-    method: "POST",
-    headers: {
-      "Content-Type": "application/json; charset=utf-8",
-      "X-Shopify-Access-Token": token,
-    },
-    body: JSON.stringify({ query, variables }),
-  });
+async function shopifyGraphql(query, variables = {}, options = {}) {
+  const maxRetries = options.maxRetries ?? 10;
 
-  const json = await res.json();
+  for (let attempt = 1; attempt <= maxRetries; attempt += 1) {
+    const res = await fetch(endpoint, {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json; charset=utf-8",
+        "X-Shopify-Access-Token": token,
+      },
+      body: JSON.stringify({ query, variables }),
+    });
 
-  if (!res.ok || json.errors) {
+    let json;
+
+    try {
+      json = await res.json();
+    } catch (error) {
+      if (attempt < maxRetries) {
+        const waitMs = Math.min(30000, 2000 * attempt);
+        console.warn(
+          `Shopify response JSON parse failed. Attempt ${attempt}/${maxRetries}. Waiting ${waitMs}ms.`
+        );
+        await sleep(waitMs);
+        continue;
+      }
+
+      throw error;
+    }
+
+    if (res.ok && !json.errors) {
+      const throttle = json.extensions?.cost?.throttleStatus;
+
+      if (throttle) {
+        const currentlyAvailable = Number(throttle.currentlyAvailable ?? 0);
+        const restoreRate = Number(throttle.restoreRate ?? 100);
+
+        if (currentlyAvailable < 300) {
+          const waitMs = Math.ceil(((300 - currentlyAvailable) / restoreRate) * 1000);
+
+          if (waitMs > 0) {
+            console.log(
+              `Shopify throttle buffer low: ${currentlyAvailable}. Waiting ${waitMs}ms.`
+            );
+            await sleep(waitMs);
+          }
+        }
+      }
+
+      return json.data;
+    }
+
+    const isThrottled =
+      Array.isArray(json.errors) &&
+      json.errors.some((error) => error?.extensions?.code === "THROTTLED");
+
+    if (isThrottled && attempt < maxRetries) {
+      const cost = json.extensions?.cost;
+      const requested = Number(cost?.requestedQueryCost ?? 100);
+      const throttle = cost?.throttleStatus;
+      const currentlyAvailable = Number(throttle?.currentlyAvailable ?? 0);
+      const restoreRate = Number(throttle?.restoreRate ?? 100);
+
+      const missing = Math.max(0, requested - currentlyAvailable);
+      const waitMs = Math.max(
+        1500,
+        Math.ceil((missing / restoreRate) * 1000) + 1000
+      );
+
+      console.warn(
+        `Shopify GraphQL throttled. Attempt ${attempt}/${maxRetries}. ` +
+        `Requested=${requested}, available=${currentlyAvailable}, restoreRate=${restoreRate}. ` +
+        `Waiting ${waitMs}ms.`
+      );
+
+      await sleep(waitMs);
+      continue;
+    }
+
+    const isTransientHttpError = res.status === 429 || res.status >= 500;
+
+    if (isTransientHttpError && attempt < maxRetries) {
+      const waitMs = Math.min(30000, 2000 * attempt);
+
+      console.warn(
+        `Shopify HTTP ${res.status}. Attempt ${attempt}/${maxRetries}. Waiting ${waitMs}ms.`
+      );
+
+      await sleep(waitMs);
+      continue;
+    }
+
     console.error(JSON.stringify(json, null, 2));
     throw new Error(`Shopify GraphQL error: HTTP ${res.status}`);
   }
 
-  return json.data;
+  throw new Error("Shopify GraphQL error after max retries");
 }
 
 const query = `
 query GetVariants($cursor: String) {
-  productVariants(first: 100, after: $cursor) {
+  productVariants(first: 50, after: $cursor) {
     pageInfo {
       hasNextPage
       endCursor
@@ -171,6 +297,8 @@ query GetVariants($cursor: String) {
 `;
 
 let cursor = null;
+let hasNextPage = true;
+
 let totalVariants = 0;
 let included = 0;
 let skipped = 0;
@@ -178,10 +306,11 @@ let skippedInactive = 0;
 let skippedNotEligible = 0;
 let skippedMissingCategoryText = 0;
 let skippedMissingRequiredData = 0;
+let skippedInvalidName = 0;
 
 const items = [];
 
-do {
+while (hasNextPage) {
   const data = await shopifyGraphql(query, { cursor });
   const connection = data.productVariants;
 
@@ -217,7 +346,13 @@ do {
     const name = productName(product, variant);
     const description = stripHtml(product.descriptionHtml);
 
-    if (!price || !url || !name || !delivery) {
+    if (!name) {
+      skipped += 1;
+      skippedInvalidName += 1;
+      continue;
+    }
+
+    if (!price || !url || !delivery) {
       skipped += 1;
       skippedMissingRequiredData += 1;
       continue;
@@ -245,12 +380,17 @@ do {
   }
 
   cursor = connection.pageInfo.endCursor;
-} while (cursor);
+  hasNextPage = Boolean(connection.pageInfo.hasNextPage);
+
+  console.log(
+    `Processed variants: ${totalVariants}; included: ${included}; skipped: ${skipped}; next: ${hasNextPage}`
+  );
+}
 
 const generatedAt = new Date().toISOString();
 
 const xml = `<?xml version="1.0" encoding="utf-8"?>
-<!-- Generated at ${generatedAt}; total variants: ${totalVariants}; included: ${included}; skipped: ${skipped}; min price: ${MIN_PRICE}; availability: skladem only; categoryText: metafield ${CATEGORY_NAMESPACE}.${CATEGORY_KEY} -->
+<!-- Generated at ${generatedAt}; total variants: ${totalVariants}; included: ${included}; skipped: ${skipped}; min price: ${MIN_PRICE}; availability: in stock or orderable; categoryText: metafield ${CATEGORY_NAMESPACE}.${CATEGORY_KEY} -->
 <SHOP>
 ${items.join("\n")}
 </SHOP>
@@ -266,4 +406,5 @@ console.log(`Skipped: ${skipped}`);
 console.log(`Skipped inactive products: ${skippedInactive}`);
 console.log(`Skipped not eligible by price/availability: ${skippedNotEligible}`);
 console.log(`Skipped missing CategoryText metafield: ${skippedMissingCategoryText}`);
+console.log(`Skipped invalid product name: ${skippedInvalidName}`);
 console.log(`Skipped missing required data: ${skippedMissingRequiredData}`);
