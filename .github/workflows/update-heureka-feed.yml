@@ -2,18 +2,22 @@ name: Update Heureka XML feed
 
 on:
   schedule:
-    # GitHub cron bezi v UTC.
-    # Workflow se spusti kazdou hodinu a uvnitr zkontroluje cas Europe/Prague.
     - cron: "0 * * * *"
-
   workflow_dispatch:
 
 permissions:
   contents: write
 
+concurrency:
+  group: heureka-feed
+  cancel-in-progress: false
+
 jobs:
   update-heureka-feed:
     runs-on: ubuntu-latest
+
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
     steps:
       - name: Check schedule window
@@ -27,18 +31,23 @@ jobs:
           fi
 
           HOUR=$(TZ="Europe/Prague" date +"%H")
+          MINUTE=$(TZ="Europe/Prague" date +"%M")
+
+          echo "Europe/Prague time: ${HOUR}:${MINUTE}"
 
           if [ "$HOUR" -ge 6 ] && [ "$HOUR" -le 22 ] && [ $((10#$HOUR % 2)) -eq 0 ]; then
             echo "run=true" >> "$GITHUB_OUTPUT"
-            echo "Scheduled run at Europe/Prague hour: $HOUR"
+            echo "Scheduled run allowed"
           else
             echo "run=false" >> "$GITHUB_OUTPUT"
-            echo "Skipping scheduled run at Europe/Prague hour: $HOUR"
+            echo "Skipping scheduled run"
           fi
-          
+
       - name: Checkout repository
         if: steps.timecheck.outputs.run == 'true'
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Node.js
         if: steps.timecheck.outputs.run == 'true'
@@ -53,24 +62,39 @@ jobs:
         run: |
           node scripts/generate-heureka-feed.mjs
 
-      - name: Commit updated heureka.xml
-        if: steps.timecheck.outputs.run == 'true'
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          echo "Generated files:"
+          ls -lah
+          ls -lah public || true
 
           if [ ! -f public/heureka.xml ]; then
             echo "public/heureka.xml was not generated"
             exit 1
           fi
 
+      - name: Copy feed to repository root
+        if: steps.timecheck.outputs.run == 'true'
+        run: |
           cp public/heureka.xml heureka.xml
 
-          if git diff --quiet -- heureka.xml; then
+          echo "Root feed file:"
+          ls -lah heureka.xml
+
+          echo "First lines:"
+          head -n 5 heureka.xml
+
+      - name: Commit updated heureka.xml
+        if: steps.timecheck.outputs.run == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git status
+          git add heureka.xml
+
+          if git diff --cached --quiet; then
             echo "No changes to commit"
             exit 0
           fi
 
-          git add heureka.xml
           git commit -m "Update Heureka XML feed"
           git push
