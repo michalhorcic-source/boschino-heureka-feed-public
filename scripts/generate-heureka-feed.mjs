@@ -12,6 +12,9 @@ const MIN_PRICE = 499.99;
 const CATEGORY_NAMESPACE = "heureka";
 const CATEGORY_KEY = "categorytext";
 
+const SALES_VOUCHER_NAMESPACE = "custom";
+const SALES_VOUCHER_KEY = "sales_voucher";
+
 const token = process.env.SHOPIFY_ADMIN_TOKEN;
 
 if (!token) {
@@ -79,6 +82,16 @@ function categoryTextFromMetafield(product) {
   return String(value).trim();
 }
 
+function salesVoucherFromMetafield(product) {
+  const value = product.salesVoucher?.value;
+
+  if (!value || !String(value).trim()) {
+    return null;
+  }
+
+  return String(value).trim();
+}
+
 function isEligibleVariant(variant) {
   const price = Number(variant.price);
 
@@ -96,12 +109,11 @@ function isEligibleVariant(variant) {
     return true;
   }
 
-  // Lze objednat.
+  // Lze objednat / skladem v centrálním skladu.
   if (variant.inventoryPolicy === "CONTINUE") {
     return true;
   }
 
-  // Nelze objednat.
   return false;
 }
 
@@ -111,7 +123,7 @@ function deliveryDate(variant) {
     return "0";
   }
 
-  // Lze objednat.
+  // Lze objednat / skladem v centrálním skladu.
   if (variant.inventoryPolicy === "CONTINUE") {
     return "30";
   }
@@ -282,6 +294,9 @@ query GetVariants($cursor: String) {
           categoryText: metafield(namespace: "${CATEGORY_NAMESPACE}", key: "${CATEGORY_KEY}") {
             value
           }
+          salesVoucher: metafield(namespace: "${SALES_VOUCHER_NAMESPACE}", key: "${SALES_VOUCHER_KEY}") {
+            value
+          }
           featuredMedia {
             preview {
               image {
@@ -345,6 +360,7 @@ while (hasNextPage) {
     const delivery = deliveryDate(variant);
     const name = productName(product, variant);
     const description = stripHtml(product.descriptionHtml);
+    const salesVoucher = salesVoucherFromMetafield(product);
 
     if (!name) {
       skipped += 1;
@@ -372,7 +388,8 @@ while (hasNextPage) {
     <CATEGORYTEXT>${xmlEscape(categoryText)}</CATEGORYTEXT>
     <MANUFACTURER>${xmlEscape(product.vendor || "Bosch")}</MANUFACTURER>${variant.barcode ? `
     <EAN>${xmlEscape(variant.barcode)}</EAN>` : ""}
-    <DELIVERY_DATE>${xmlEscape(delivery)}</DELIVERY_DATE>
+    <DELIVERY_DATE>${xmlEscape(delivery)}</DELIVERY_DATE>${salesVoucher ? `
+    ${salesVoucher}` : ""}
     <ITEMGROUP_ID>${xmlEscape(itemGroupId)}</ITEMGROUP_ID>
   </SHOPITEM>`);
 
@@ -390,7 +407,7 @@ while (hasNextPage) {
 const generatedAt = new Date().toISOString();
 
 const xml = `<?xml version="1.0" encoding="utf-8"?>
-<!-- Generated at ${generatedAt}; total variants: ${totalVariants}; included: ${included}; skipped: ${skipped}; min price: ${MIN_PRICE}; availability: in stock or orderable; categoryText: metafield ${CATEGORY_NAMESPACE}.${CATEGORY_KEY} -->
+<!-- Generated at ${generatedAt}; total variants: ${totalVariants}; included: ${included}; skipped: ${skipped}; min price: ${MIN_PRICE}; availability: in stock or orderable; categoryText: metafield ${CATEGORY_NAMESPACE}.${CATEGORY_KEY}; salesVoucher: metafield ${SALES_VOUCHER_NAMESPACE}.${SALES_VOUCHER_KEY} -->
 <SHOP>
 ${items.join("\n")}
 </SHOP>
