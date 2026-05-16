@@ -4,31 +4,13 @@ const SHOP = "vvircm-fz.myshopify.com";
 const STOREFRONT_DOMAIN = "https://boschino.cz";
 const API_VERSION = "2026-04";
 
-// Generujeme nejdřív do public/heureka.xml.
-// Workflow ho potom zkopíruje do kořene repozitáře jako heureka.xml.
 const OUT_DIR = "public";
 const OUT_FILE = `${OUT_DIR}/heureka.xml`;
 
 const MIN_PRICE = 499.99;
 
-// Shopify product tag musí být například:
-// CategoryText: Heureka.cz | Bílé zboží | Myčky nádobí | Příslušenství k myčkám nádobí
-//
-// Podporované tvary:
-// CategoryText: ...
-// categoryText: ...
-// CATEGORYTEXT: ...
-// CategoryText=...
-// categoryText=...
-// CATEGORYTEXT=...
-const CATEGORYTEXT_TAG_PREFIXES = [
-  "CategoryText:",
-  "categoryText:",
-  "CATEGORYTEXT:",
-  "CategoryText=",
-  "categoryText=",
-  "CATEGORYTEXT=",
-];
+const CATEGORY_NAMESPACE = "heureka";
+const CATEGORY_KEY = "categoryText";
 
 const token = process.env.SHOPIFY_ADMIN_TOKEN;
 
@@ -67,21 +49,14 @@ function priceToHeureka(price) {
   return n.toFixed(2);
 }
 
-function categoryTextFromTags(product) {
-  const tags = product.tags ?? [];
+function categoryTextFromMetafield(product) {
+  const value = product.categoryText?.value;
 
-  for (const tag of tags) {
-    const value = String(tag ?? "").trim();
-
-    for (const prefix of CATEGORYTEXT_TAG_PREFIXES) {
-      if (value.startsWith(prefix)) {
-        const categoryText = value.slice(prefix.length).trim();
-        return categoryText || null;
-      }
-    }
+  if (!value || !String(value).trim()) {
+    return null;
   }
 
-  return null;
+  return String(value).trim();
 }
 
 function isEligibleVariant(variant) {
@@ -92,8 +67,7 @@ function isEligibleVariant(variant) {
   // 1. Price musí být větší než 499,99 Kč
   if (price <= MIN_PRICE) return false;
 
-  // 2. Dostupnost musí být přesně "skladem".
-  //
+  // 2. Dostupnost přesně "skladem"
   // inventoryQuantity > 1 = skladem
   // inventoryQuantity === 1 = poslední kus skladem, vyloučeno
   // inventoryPolicy === CONTINUE bez skladu = lze objednat, vyloučeno
@@ -103,8 +77,6 @@ function isEligibleVariant(variant) {
 }
 
 function deliveryDate(variant) {
-  // Do feedu vstupují jen produkty přesně "skladem",
-  // takže Heureka DELIVERY_DATE = 0.
   if (variant.inventoryQuantity > 1) return "0";
 
   return null;
@@ -181,7 +153,9 @@ query GetVariants($cursor: String) {
           descriptionHtml
           status
           onlineStoreUrl
-          tags
+          categoryText: metafield(namespace: "${CATEGORY_NAMESPACE}", key: "${CATEGORY_KEY}") {
+            value
+          }
           featuredMedia {
             preview {
               image {
@@ -228,7 +202,7 @@ do {
       continue;
     }
 
-    const categoryText = categoryTextFromTags(product);
+    const categoryText = categoryTextFromMetafield(product);
 
     if (!categoryText) {
       skipped += 1;
@@ -276,7 +250,7 @@ do {
 const generatedAt = new Date().toISOString();
 
 const xml = `<?xml version="1.0" encoding="utf-8"?>
-<!-- Generated at ${generatedAt}; total variants: ${totalVariants}; included: ${included}; skipped: ${skipped}; min price: ${MIN_PRICE}; availability: skladem only -->
+<!-- Generated at ${generatedAt}; total variants: ${totalVariants}; included: ${included}; skipped: ${skipped}; min price: ${MIN_PRICE}; availability: skladem only; categoryText: metafield ${CATEGORY_NAMESPACE}.${CATEGORY_KEY} -->
 <SHOP>
 ${items.join("\n")}
 </SHOP>
@@ -291,5 +265,5 @@ console.log(`Included: ${included}`);
 console.log(`Skipped: ${skipped}`);
 console.log(`Skipped inactive products: ${skippedInactive}`);
 console.log(`Skipped not eligible by price/availability: ${skippedNotEligible}`);
-console.log(`Skipped missing CategoryText tag: ${skippedMissingCategoryText}`);
+console.log(`Skipped missing CategoryText metafield: ${skippedMissingCategoryText}`);
 console.log(`Skipped missing required data: ${skippedMissingRequiredData}`);
