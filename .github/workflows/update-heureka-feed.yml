@@ -2,7 +2,7 @@ name: Update Heureka XML feed
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0 */2 * * *"
   workflow_dispatch:
 
 permissions:
@@ -53,7 +53,7 @@ jobs:
         if: steps.timecheck.outputs.run == 'true'
         uses: actions/setup-node@v4
         with:
-          node-version: "20"
+          node-version: "24"
 
       - name: Generate Heureka XML feed
         if: steps.timecheck.outputs.run == 'true'
@@ -98,3 +98,29 @@ jobs:
 
           git commit -m "Update Heureka XML feed"
           git push
+
+      - name: Send failure email
+        if: failure()
+        uses: dawidd6/action-send-mail@v6
+        with:
+          server_address: smtp.gmail.com
+          server_port: 587
+          secure: false
+          username: michal.horcic@mirelumi.cz
+          password: kiciqadqcgncrmdk
+          subject: "CHYBA: Update Heureka XML feed"
+          to: michal.horcic@mirelumi.cz
+          from: Boschino GitHub Actions <michal.horcic@mirelumi.cz>
+          body: |
+            Workflow "Update Heureka XML feed" skončil chybou.
+
+            Repository: ${{ github.repository }}
+            Branch: ${{ github.ref_name }}
+            Run number: ${{ github.run_number }}
+            Commit: ${{ github.sha }}
+            Event: ${{ github.event_name }}
+
+            Detail běhu:
+            https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
+
+            Zkontroluj log kroku, který selhal.
