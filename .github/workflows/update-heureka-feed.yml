@@ -128,10 +128,33 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
 
+  check-heureka-conversions:
+    needs: deploy-pages
+    runs-on: ubuntu-latest
+
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+
+      - name: Check Heureka conversions report
+        env:
+          HEUREKA_REPORTS_API_KEY: ${{ secrets.HEUREKA_REPORTS_API_KEY }}
+        run: |
+          node scripts/check-heureka-conversions.mjs
+
   send-failure-email:
     needs:
       - update-heureka-feed
       - deploy-pages
+      - check-heureka-conversions
     if: failure()
     runs-on: ubuntu-latest
 
