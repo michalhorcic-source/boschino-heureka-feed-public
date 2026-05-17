@@ -20,6 +20,11 @@ jobs:
   update-heureka-feed:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
+
     env:
       FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
@@ -116,6 +121,7 @@ jobs:
     runs-on: ubuntu-latest
 
     permissions:
+      contents: read
       pages: write
       id-token: write
 
@@ -131,6 +137,9 @@ jobs:
   check-heureka-conversions:
     needs: deploy-pages
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: read
 
     env:
       FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
@@ -157,6 +166,9 @@ jobs:
       - check-heureka-conversions
     if: failure()
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: read
 
     steps:
       - name: Send failure email
