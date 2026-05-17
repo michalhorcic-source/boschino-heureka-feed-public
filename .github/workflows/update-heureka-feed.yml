@@ -2,7 +2,9 @@ name: Update Heureka XML feed
 
 on:
   schedule:
-    - cron: "0 */2 * * *"
+    # GitHub cron běží v UTC.
+    # V letním čase GMT+2 to odpovídá Praze: 06:17 až 22:17 každé 2 hodiny.
+    - cron: "17 4,6,8,10,12,14,16,18,20 * * *"
   workflow_dispatch:
 
 permissions:
@@ -20,44 +22,18 @@ jobs:
       FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
     steps:
-      - name: Check schedule window
-        id: timecheck
-        shell: bash
-        run: |
-          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
-            echo "run=true" >> "$GITHUB_OUTPUT"
-            echo "Manual run - bypassing schedule window"
-            exit 0
-          fi
-
-          HOUR=$(TZ="Europe/Prague" date +"%H")
-          MINUTE=$(TZ="Europe/Prague" date +"%M")
-
-          echo "Europe/Prague time: ${HOUR}:${MINUTE}"
-
-          if [ "$HOUR" -ge 6 ] && [ "$HOUR" -le 22 ] && [ $((10#$HOUR % 2)) -eq 0 ]; then
-            echo "run=true" >> "$GITHUB_OUTPUT"
-            echo "Scheduled run allowed"
-          else
-            echo "run=false" >> "$GITHUB_OUTPUT"
-            echo "Skipping scheduled run"
-          fi
-
       - name: Checkout repository
-        if: steps.timecheck.outputs.run == 'true'
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup Node.js
-        if: steps.timecheck.outputs.run == 'true'
         uses: actions/setup-node@v4
         with:
           node-version: "24"
 
       - name: Generate Heureka XML feed
-        if: steps.timecheck.outputs.run == 'true'
         env:
           SHOPIFY_ADMIN_TOKEN: ${{ secrets.SHOPIFY_ADMIN_TOKEN }}
         run: |
@@ -73,7 +49,6 @@ jobs:
           fi
 
       - name: Copy feed to repository root
-        if: steps.timecheck.outputs.run == 'true'
         run: |
           cp public/heureka.xml heureka.xml
 
@@ -83,25 +58,38 @@ jobs:
           echo "First lines:"
           head -n 5 heureka.xml
 
+          echo "File hash:"
+          sha256sum heureka.xml
+
       - name: Commit and push updated Heureka XML feed
-        if: steps.timecheck.outputs.run == 'true'
         shell: bash
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git status
+          echo "Current branch:"
+          git branch --show-current
+
+          echo "Git status before add:"
+          git status --short
+
           git add heureka.xml
 
+          echo "Git diff cached:"
+          git diff --cached --stat || true
+
           if git diff --cached --quiet; then
-            echo "No changes to commit"
+            echo "No changes to commit - heureka.xml is identical to the current repository version."
+            echo "Therefore pages-build-deployment will not run."
             exit 0
           fi
 
           git commit -m "Update Heureka XML feed"
 
-          # Push do main spustí následný GitHub Pages build and deployment.
+          echo "Pushing updated heureka.xml to ${{ github.ref_name }}"
           git push origin HEAD:${{ github.ref_name }}
+
+          echo "Push completed. GitHub Pages build should start automatically."
 
       - name: Send failure email
         if: failure()
