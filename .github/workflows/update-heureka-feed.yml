@@ -3,7 +3,7 @@ name: Update Heureka XML feed
 on:
   schedule:
     # GitHub cron běží v UTC.
-    # V letním čase GMT+2 to odpovídá Praze: 06:17 až 22:17 každé 2 hodiny.
+    # V letním čase GMT+2 odpovídá Praze: 06:17 až 22:17 každé 2 hodiny.
     - cron: "17 4,6,8,10,12,14,16,18,20 * * *"
   workflow_dispatch:
 
@@ -63,11 +63,14 @@ jobs:
           echo "File hash:"
           sha256sum heureka.xml
 
-      - name: Commit updated Heureka XML feed
+      - name: Commit and push updated Heureka XML feed
         shell: bash
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          echo "Current branch:"
+          git branch --show-current
 
           echo "Git status before add:"
           git status --short
@@ -84,7 +87,24 @@ jobs:
           fi
 
           git commit -m "Update Heureka XML feed"
-          git push origin HEAD:${{ github.ref_name }}
+
+          for attempt in 1 2 3; do
+            echo "Push attempt ${attempt}/3"
+
+            git fetch origin ${{ github.ref_name }}
+            git rebase origin/${{ github.ref_name }}
+
+            if git push origin HEAD:${{ github.ref_name }}; then
+              echo "Push completed."
+              exit 0
+            fi
+
+            echo "Push failed, retrying after short delay..."
+            sleep 5
+          done
+
+          echo "Push failed after 3 attempts."
+          exit 1
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
@@ -95,6 +115,10 @@ jobs:
     needs: update-heureka-feed
     runs-on: ubuntu-latest
 
+    permissions:
+      pages: write
+      id-token: write
+
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -103,3 +127,36 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+  send-failure-email:
+    needs:
+      - update-heureka-feed
+      - deploy-pages
+    if: failure()
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Send failure email
+        uses: dawidd6/action-send-mail@v6
+        with:
+          server_address: smtp.gmail.com
+          server_port: 587
+          secure: false
+          username: michal.horcic@mirelumi.cz
+          password: ${{ secrets.SMTP_PASSWORD }}
+          subject: "CHYBA: Update Heureka XML feed"
+          to: michal.horcic@mirelumi.cz
+          from: Boschino GitHub Actions <michal.horcic@mirelumi.cz>
+          body: |
+            Workflow "Update Heureka XML feed" skončil chybou.
+
+            Repository: ${{ github.repository }}
+            Branch: ${{ github.ref_name }}
+            Run number: ${{ github.run_number }}
+            Commit: ${{ github.sha }}
+            Event: ${{ github.event_name }}
+
+            Detail běhu:
+            https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
+
+            Zkontroluj log kroku, který selhal.
