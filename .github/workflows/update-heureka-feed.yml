@@ -9,9 +9,11 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 concurrency:
-  group: heureka-feed
+  group: heureka-feed-and-pages
   cancel-in-progress: false
 
 jobs:
@@ -61,14 +63,11 @@ jobs:
           echo "File hash:"
           sha256sum heureka.xml
 
-      - name: Commit and push updated Heureka XML feed
+      - name: Commit updated Heureka XML feed
         shell: bash
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          echo "Current branch:"
-          git branch --show-current
 
           echo "Git status before add:"
           git status --short
@@ -80,39 +79,27 @@ jobs:
 
           if git diff --cached --quiet; then
             echo "No changes to commit - heureka.xml is identical to the current repository version."
-            echo "Therefore pages-build-deployment will not run."
+            echo "Continuing to Pages deploy with current files."
             exit 0
           fi
 
           git commit -m "Update Heureka XML feed"
-
-          echo "Pushing updated heureka.xml to ${{ github.ref_name }}"
           git push origin HEAD:${{ github.ref_name }}
 
-          echo "Push completed. GitHub Pages build should start automatically."
-
-      - name: Send failure email
-        if: failure()
-        uses: dawidd6/action-send-mail@v6
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
         with:
-          server_address: smtp.gmail.com
-          server_port: 587
-          secure: false
-          username: michal.horcic@mirelumi.cz
-          password: ${{ secrets.SMTP_PASSWORD }}
-          subject: "CHYBA: Update Heureka XML feed"
-          to: michal.horcic@mirelumi.cz
-          from: Boschino GitHub Actions <michal.horcic@mirelumi.cz>
-          body: |
-            Workflow "Update Heureka XML feed" skončil chybou.
+          path: .
 
-            Repository: ${{ github.repository }}
-            Branch: ${{ github.ref_name }}
-            Run number: ${{ github.run_number }}
-            Commit: ${{ github.sha }}
-            Event: ${{ github.event_name }}
+  deploy-pages:
+    needs: update-heureka-feed
+    runs-on: ubuntu-latest
 
-            Detail běhu:
-            https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
 
-            Zkontroluj log kroku, který selhal.
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
