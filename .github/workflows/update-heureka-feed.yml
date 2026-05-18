@@ -1,197 +1,83 @@
-name: Update Heureka XML feed
+name: Generate Heureka XML feed
 
 on:
   schedule:
-    # GitHub cron běží v UTC.
-    # V letním čase GMT+2 odpovídá Praze: 06:17 až 22:17 každé 2 hodiny.
-    - cron: "17 4,6,8,10,12,14,16,18,20 * * *"
+    - cron: "0 * * * *"
   workflow_dispatch:
 
 permissions:
-  contents: write
-  pages: write
-  id-token: write
+  contents: read
 
 concurrency:
-  group: heureka-feed-and-pages
+  group: heureka-feed
   cancel-in-progress: false
 
 jobs:
-  update-heureka-feed:
+  generate-and-publish:
     runs-on: ubuntu-latest
 
-    permissions:
-      contents: write
-      pages: write
-      id-token: write
-
-    env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Check local Prague schedule
+        id: schedule
+        shell: bash
+        run: |
+          HOUR="$(TZ=Europe/Prague date +'%H')"
+          MINUTE="$(TZ=Europe/Prague date +'%M')"
 
-      - name: Setup Node.js
+          echo "Local Prague time: ${HOUR}:${MINUTE}"
+
+          if [ "${MINUTE}" != "00" ]; then
+            echo "run_feed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          if [ "${HOUR}" -ge 6 ] && [ "${HOUR}" -le 22 ] && [ $((10#$HOUR % 2)) -eq 0 ]; then
+            echo "run_feed=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "run_feed=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Checkout private repository
+        if: steps.schedule.outputs.run_feed == 'true' || github.event_name == 'workflow_dispatch'
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        if: steps.schedule.outputs.run_feed == 'true' || github.event_name == 'workflow_dispatch'
         uses: actions/setup-node@v4
         with:
-          node-version: "24"
+          node-version: 20
 
-      - name: Generate Heureka XML feed
+      - name: Generate Heureka XML
+        if: steps.schedule.outputs.run_feed == 'true' || github.event_name == 'workflow_dispatch'
         env:
           SHOPIFY_ADMIN_TOKEN: ${{ secrets.SHOPIFY_ADMIN_TOKEN }}
         run: |
           node scripts/generate-heureka-feed.mjs
 
-          echo "Generated files:"
-          ls -lah
-          ls -lah public || true
+      - name: Checkout public feed repository
+        if: steps.schedule.outputs.run_feed == 'true' || github.event_name == 'workflow_dispatch'
+        uses: actions/checkout@v4
+        with:
+          repository: michalhorcic-source/boschino-heureka-feed-public
+          token: ${{ secrets.PUBLIC_FEED_REPO_TOKEN }}
+          path: public-feed-repo
 
-          if [ ! -f public/heureka.xml ]; then
-            echo "public/heureka.xml was not generated"
-            exit 1
-          fi
-
-      - name: Copy feed to repository root
-        run: |
-          cp public/heureka.xml heureka.xml
-
-          echo "Root feed file:"
-          ls -lah heureka.xml
-
-          echo "First lines:"
-          head -n 5 heureka.xml
-
-          echo "File hash:"
-          sha256sum heureka.xml
-
-      - name: Commit and push updated Heureka XML feed
+      - name: Publish Heureka XML to public repository
+        if: steps.schedule.outputs.run_feed == 'true' || github.event_name == 'workflow_dispatch'
         shell: bash
         run: |
+          cp public/heureka.xml public-feed-repo/heureka.xml
+
+          cd public-feed-repo
+
           git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          echo "Current branch:"
-          git branch --show-current
-
-          echo "Git status before add:"
-          git status --short
+          git config user.email "github-actions[bot]@users.noreply.github.com"
 
           git add heureka.xml
 
-          echo "Git diff cached:"
-          git diff --cached --stat || true
-
           if git diff --cached --quiet; then
-            echo "No changes to commit - heureka.xml is identical to the current repository version."
-            echo "Continuing to Pages deploy with current files."
-            exit 0
+            echo "No changes to publish."
+          else
+            git commit -m "Update Heureka XML feed"
+            git push
           fi
-
-          git commit -m "Update Heureka XML feed"
-
-          for attempt in 1 2 3; do
-            echo "Push attempt ${attempt}/3"
-
-            git fetch origin ${{ github.ref_name }}
-            git rebase origin/${{ github.ref_name }}
-
-            if git push origin HEAD:${{ github.ref_name }}; then
-              echo "Push completed."
-              exit 0
-            fi
-
-            echo "Push failed, retrying after short delay..."
-            sleep 5
-          done
-
-          echo "Push failed after 3 attempts."
-          exit 1
-
-      - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: .
-
-  deploy-pages:
-    needs: update-heureka-feed
-    runs-on: ubuntu-latest
-
-    permissions:
-      contents: read
-      pages: write
-      id-token: write
-
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
-
-  check-heureka-conversions:
-    needs: deploy-pages
-    runs-on: ubuntu-latest
-
-    permissions:
-      contents: read
-
-    env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: "24"
-
-      - name: Check Heureka conversions report
-        env:
-          HEUREKA_REPORTS_API_KEY: ${{ secrets.HEUREKA_REPORTS_API_KEY }}
-        run: |
-          node scripts/check-heureka-conversions.mjs
-
-  send-failure-email:
-    needs:
-      - update-heureka-feed
-      - deploy-pages
-      - check-heureka-conversions
-    if: failure()
-    runs-on: ubuntu-latest
-
-    permissions:
-      contents: read
-
-    steps:
-      - name: Send failure email
-        uses: dawidd6/action-send-mail@v6
-        with:
-          server_address: smtp.gmail.com
-          server_port: 587
-          secure: false
-          username: michal.horcic@mirelumi.cz
-          password: ${{ secrets.SMTP_PASSWORD }}
-          subject: "CHYBA: Update Heureka XML feed"
-          to: michal.horcic@mirelumi.cz
-          from: Boschino GitHub Actions <michal.horcic@mirelumi.cz>
-          body: |
-            Workflow "Update Heureka XML feed" skončil chybou.
-
-            Repository: ${{ github.repository }}
-            Branch: ${{ github.ref_name }}
-            Run number: ${{ github.run_number }}
-            Commit: ${{ github.sha }}
-            Event: ${{ github.event_name }}
-
-            Detail běhu:
-            https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
-
-            Zkontroluj log kroku, který selhal.
