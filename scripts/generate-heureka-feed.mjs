@@ -125,7 +125,7 @@ function deliveryDate(variant) {
 
   // Lze objednat / skladem v centrálním skladu.
   if (variant.inventoryPolicy === "CONTINUE") {
-    return "30";
+    return "7";
   }
 
   return null;
