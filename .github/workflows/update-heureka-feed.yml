@@ -16,11 +16,20 @@ jobs:
   generate-and-publish:
     runs-on: ubuntu-latest
 
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
     steps:
       - name: Check local Prague schedule
         id: schedule
         shell: bash
         run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "run_feed=true" >> "$GITHUB_OUTPUT"
+            echo "Manual run - generating feed now"
+            exit 0
+          fi
+
           HOUR="$(TZ=Europe/Prague date +'%H')"
           MINUTE="$(TZ=Europe/Prague date +'%M')"
 
@@ -28,34 +37,49 @@ jobs:
 
           if [ "${MINUTE}" != "00" ]; then
             echo "run_feed=false" >> "$GITHUB_OUTPUT"
+            echo "Skipping - minute is not 00"
             exit 0
           fi
 
           if [ "${HOUR}" -ge 6 ] && [ "${HOUR}" -le 22 ] && [ $((10#$HOUR % 2)) -eq 0 ]; then
             echo "run_feed=true" >> "$GITHUB_OUTPUT"
+            echo "Scheduled run allowed"
           else
             echo "run_feed=false" >> "$GITHUB_OUTPUT"
+            echo "Skipping - outside schedule window"
           fi
 
       - name: Checkout private repository
-        if: steps.schedule.outputs.run_feed == 'true' || github.event_name == 'workflow_dispatch'
+        if: steps.schedule.outputs.run_feed == 'true'
         uses: actions/checkout@v4
 
       - name: Set up Node.js
-        if: steps.schedule.outputs.run_feed == 'true' || github.event_name == 'workflow_dispatch'
+        if: steps.schedule.outputs.run_feed == 'true'
         uses: actions/setup-node@v4
         with:
           node-version: 20
 
       - name: Generate Heureka XML
-        if: steps.schedule.outputs.run_feed == 'true' || github.event_name == 'workflow_dispatch'
+        if: steps.schedule.outputs.run_feed == 'true'
         env:
           SHOPIFY_ADMIN_TOKEN: ${{ secrets.SHOPIFY_ADMIN_TOKEN }}
         run: |
           node scripts/generate-heureka-feed.mjs
 
+          echo "Generated files:"
+          ls -lah
+          ls -lah public || true
+
+          if [ ! -f public/heureka.xml ]; then
+            echo "public/heureka.xml was not generated"
+            exit 1
+          fi
+
+          echo "First lines of generated feed:"
+          head -n 5 public/heureka.xml
+
       - name: Checkout public feed repository
-        if: steps.schedule.outputs.run_feed == 'true' || github.event_name == 'workflow_dispatch'
+        if: steps.schedule.outputs.run_feed == 'true'
         uses: actions/checkout@v4
         with:
           repository: michalhorcic-source/boschino-heureka-feed-public
@@ -63,7 +87,7 @@ jobs:
           path: public-feed-repo
 
       - name: Publish Heureka XML to public repository
-        if: steps.schedule.outputs.run_feed == 'true' || github.event_name == 'workflow_dispatch'
+        if: steps.schedule.outputs.run_feed == 'true'
         shell: bash
         run: |
           cp public/heureka.xml public-feed-repo/heureka.xml
@@ -73,11 +97,15 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
+          echo "Repository status before commit:"
+          git status
+
           git add heureka.xml
 
           if git diff --cached --quiet; then
             echo "No changes to publish."
-          else
-            git commit -m "Update Heureka XML feed"
-            git push
+            exit 0
           fi
+
+          git commit -m "Update Heureka XML feed"
+          git push
