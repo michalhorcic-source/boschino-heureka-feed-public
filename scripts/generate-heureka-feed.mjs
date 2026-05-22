@@ -388,11 +388,11 @@ while (hasNextPage) {
     <CATEGORYTEXT>${xmlEscape(categoryText)}</CATEGORYTEXT>
     <MANUFACTURER>${xmlEscape(product.vendor || "Bosch")}</MANUFACTURER>${variant.barcode ? `
     <EAN>${xmlEscape(variant.barcode)}</EAN>` : ""}
-    <DELIVERY_DATE>${xmlEscape(delivery)}</DELIVERY_DATE>${salesVoucher ? `
+    <DELIVERY_DATE>${xmlEscape(delivery)}</DELIVERY_DATE>
+    <SPECIAL_SERVICE>${xmlEscape("Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.")}</SPECIAL_SERVICE>${salesVoucher ? `
     ${salesVoucher}` : ""}
     <ITEMGROUP_ID>${xmlEscape(itemGroupId)}</ITEMGROUP_ID>
   </SHOPITEM>`);
-
     included += 1;
   }
 
