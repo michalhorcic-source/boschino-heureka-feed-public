@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
 
 concurrency:
   group: heureka-feed
@@ -49,9 +49,11 @@ jobs:
             echo "Skipping - outside schedule window"
           fi
 
-      - name: Checkout private repository
+      - name: Checkout repository
         if: steps.schedule.outputs.run_feed == 'true'
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Node.js
         if: steps.schedule.outputs.run_feed == 'true'
@@ -78,28 +80,26 @@ jobs:
           echo "First lines of generated feed:"
           head -n 5 public/heureka.xml
 
-      - name: Checkout public feed repository
-        if: steps.schedule.outputs.run_feed == 'true'
-        uses: actions/checkout@v4
-        with:
-          repository: michalhorcic-source/boschino-heureka-feed-public
-          token: ${{ secrets.PUBLIC_FEED_REPO_TOKEN }}
-          path: public-feed-repo
-
-      - name: Publish Heureka XML to public repository
+      - name: Copy Heureka XML to repository root
         if: steps.schedule.outputs.run_feed == 'true'
         shell: bash
         run: |
-          cp public/heureka.xml public-feed-repo/heureka.xml
+          cp public/heureka.xml heureka.xml
 
-          cd public-feed-repo
+          echo "Root feed file:"
+          ls -lah heureka.xml
 
+          echo "First lines of root feed:"
+          head -n 5 heureka.xml
+
+      - name: Commit updated heureka.xml
+        if: steps.schedule.outputs.run_feed == 'true'
+        shell: bash
+        run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          echo "Repository status before commit:"
           git status
-
           git add heureka.xml
 
           if git diff --cached --quiet; then
