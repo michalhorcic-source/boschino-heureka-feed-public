@@ -2,7 +2,7 @@ name: Generate Heureka XML feed
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "5 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -40,18 +40,14 @@ jobs:
 
           echo "Local Prague time: ${HOUR}:${MINUTE}"
 
-          if [ "${MINUTE}" != "00" ]; then
-            echo "run_feed=false" >> "$GITHUB_OUTPUT"
-            echo "Skipping - minute is not 00"
-            exit 0
-          fi
-
+          # GitHub scheduled workflows are not guaranteed to start exactly at the cron minute.
+          # Therefore we validate only the Prague hour, not the exact minute.
           if [ "${HOUR}" -ge 6 ] && [ "${HOUR}" -le 22 ] && [ $((10#$HOUR % 2)) -eq 0 ]; then
             echo "run_feed=true" >> "$GITHUB_OUTPUT"
-            echo "Scheduled run allowed"
+            echo "Scheduled run allowed for Prague even hour"
           else
             echo "run_feed=false" >> "$GITHUB_OUTPUT"
-            echo "Skipping - outside schedule window"
+            echo "Skipping - outside Prague schedule window"
           fi
 
       - name: Checkout repository
