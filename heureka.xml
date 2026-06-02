@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generated at 2026-06-02T10:37:25.034Z; total variants: 51851; included: 4123; skipped: 47728; min price: 499.99; availability: in stock or orderable; categoryText: metafield heureka.categorytext; salesVoucher: metafield custom.sales_voucher -->
+<!-- Generated at 2026-06-02T15:05:23.352Z; total variants: 51848; included: 4123; skipped: 47725; min price: 499.99; availability: in stock or orderable; categoryText: metafield heureka.categorytext; salesVoucher: metafield custom.sales_voucher -->
 <SHOP>
   <SHOPITEM>
     <ITEM_ID>56264244953419</ITEM_ID>
@@ -1509,7 +1509,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Police a šuplíky do lednic</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757522233998</EAN>
-    <DELIVERY_DATE>0</DELIVERY_DATE>
+    <DELIVERY_DATE>7</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15464898462027</ITEMGROUP_ID>
   </SHOPITEM>
@@ -50960,7 +50960,7 @@
     <CATEGORYTEXT>Heureka.cz | Bílé zboží | Malé spotřebiče | Kuchyňské roboty | Příslušenství ke kuchyňským robotům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757522125231</EAN>
-    <DELIVERY_DATE>0</DELIVERY_DATE>
+    <DELIVERY_DATE>7</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15510348529995</ITEMGROUP_ID>
   </SHOPITEM>
