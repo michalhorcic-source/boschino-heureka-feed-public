@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generated at 2026-06-03T14:53:01.791Z; total variants: 51850; included: 4131; skipped: 47719; min price: 499.99; availability: in stock or orderable; categoryText: metafield heureka.categorytext; salesVoucher: metafield custom.sales_voucher -->
+<!-- Generated at 2026-06-03T18:55:53.213Z; total variants: 51850; included: 4129; skipped: 47721; min price: 499.99; availability: in stock or orderable; categoryText: metafield heureka.categorytext; salesVoucher: metafield custom.sales_voucher -->
 <SHOP>
   <SHOPITEM>
     <ITEM_ID>56264244953419</ITEM_ID>
@@ -25010,7 +25010,7 @@
     <DESCRIPTION>Nosič do kuchyňského robotu – originální náhradní díl Tento originální náhradní díl s kódem 00619675 je nosič určený pro kuchyňské roboty. Jedná se o součástku, která může být vystavena opotřebení nebo mechanickému poškození během dlouhodobého používání. Nosič slouží jako držák nebo podpěrný prvek v konstrukci kuchyňského robotu. Jeho výměna může být nutná v případě, že je původní nosič poškozen, prasklý, nebo se uvolnil, což může vést k nestabilitě nebo nefunkčnosti zařízení. Porucha nosiče se často projevuje nadměrným vibrováním, hlučností nebo nesprávným uchopením nástavců. V takovém případě je doporučeno nosič vyměnit, aby nedošlo k dalšímu poškození robotu. Jako originální náhradní díl je tento nosič navržen přímo výrobcem kuchyňských robotů, aby přesně odpovídal konstrukčním parametrům a umožnil snadnou výměnu bez nutnosti dalších úprav. Použití originálního dílu zaručuje, že nosič bude dokonale padnout a zajistí bezpečný a spolehlivý provoz. Před objednáním doporučujeme ověřit kompatibilitu tohoto dílu s vaším konkrétním modelem kuchyňského robotu. Přehled kompatibilních spotřebičů naleznete níže na stránce.</DESCRIPTION>
     <URL>https://boschino.cz/products/00619675-nosic-do-kuchynskeho-robotu-bosch-siemens?variant=56264522957131</URL>
     <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/MCSA01664864_00619675_def.jpg?v=1769069166</IMGURL>
-    <PRICE_VAT>1164.00</PRICE_VAT>
+    <PRICE_VAT>849.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Domácí a osobní spotřebiče | Kuchyňské spotřebiče | Příslušenství ke kuchyňským spotřebičům | Příslušenství ke kuchyňským robotům | Ostatní příslušenství ke kuchyňským robotům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521661686</EAN>
@@ -29436,25 +29436,6 @@
     <ITEMGROUP_ID>15465082519883</ITEMGROUP_ID>
   </SHOPITEM>
   <SHOPITEM>
-    <ITEM_ID>56264561230155</ITEM_ID>
-    <PRODUCTNAME>17007019 Hadice do vysavače</PRODUCTNAME>
-    <PRODUCT>17007019 Hadice do vysavače</PRODUCT>
-    <DESCRIPTION>Hadice do vysavače Náhradní hadice do vysavače s kódem 17007019 je originální náhradní díl , který slouží k výměně opotřebované nebo poškozené původní hadice. Hadice je klíčovou součástí vysavače, protože zprostředkovává přenos sání od motoru k sací hubici. Během používání může hadice podléhat mechanickému opotřebení, které se projevuje prasklinami, lomy, ztrátou pružnosti nebo netěsností. Tyto poruchy vedou k úniku vzduchu a snížení sacího výkonu vysavače. V takových případech je nutná výměna hadice za novou. Hadice jsou obvykle vyrobeny z pružné pryže nebo plastu, které odolávají ohybu a zachovávají si tvar. S časem však materiál degraduje, zkřehne a praská, zejména v místech častého ohýbání. Poškozená hadice poznáte podle sníženého sacího výkonu, charakteristického hvizdu vzduchu nebo viditelných trhlin. Tato hadice je originální náhradní díl vyrobený podle specifikací výrobce vysavačů. Zajišťuje tak dokonalou kompatibilitu, snadnou instalaci a dlouhou životnost. Je navržena pro přesné usazení bez nutnosti jakýchkoliv úprav. Výměna hadice je obvykle jednoduchá: stará hadice se vyjme z násuvného nebo šroubovacího spojení a nová se nasadí na její místo. U originálních náhradních dílů je zaručeno, že budou přesně pasovat a netěsnosti nehrozí. Před objednáním je důležité ověřit, zda je tento díl kompatibilní s vaším konkrétním modelem vysavače. Přehled kompatibilních spotřebičů naleznete níže na stránce.</DESCRIPTION>
-    <URL>https://boschino.cz/products/17007019-hadice-do-vysavace-bosch-siemens?variant=56264561230155</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/saci-hadice-vysavacu-bosch-siemens-17007019.jpg.big_d42c27e0-3a0c-4472-87c3-a1b50d69f610.webp?v=1769070007</IMGURL>
-    <PRICE_VAT>610.00</PRICE_VAT>
-    <CATEGORYTEXT>Heureka.cz | Domácí a osobní spotřebiče | Úklidové spotřebiče | Příslušenství pro úklidové spotřebiče | Hadice na vysavače</CATEGORYTEXT>
-    <MANUFACTURER>BSH / Bosch</MANUFACTURER>
-    <EAN>8757521572807</EAN>
-    <DELIVERY_DATE>0</DELIVERY_DATE>
-    <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
-    <SALES_VOUCHER>
-<CODE>Jaro2026</CODE>
-<DESC>Sleva 10 % na Vámi oblíbené produkty po zadání kódu na pokladně do 31.5.2026!</DESC>
-</SALES_VOUCHER>
-    <ITEMGROUP_ID>15465082585419</ITEMGROUP_ID>
-  </SHOPITEM>
-  <SHOPITEM>
     <ITEM_ID>56264561295691</ITEM_ID>
     <PRODUCTNAME>18006700 Rám dveří do pračky</PRODUCTNAME>
     <PRODUCT>18006700 Rám dveří do pračky</PRODUCT>
@@ -30166,21 +30147,6 @@
     <DELIVERY_DATE>7</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15465091400011</ITEMGROUP_ID>
-  </SHOPITEM>
-  <SHOPITEM>
-    <ITEM_ID>56264580170059</ITEM_ID>
-    <PRODUCTNAME>00578039 Hadice do vysavače</PRODUCTNAME>
-    <PRODUCT>00578039 Hadice do vysavače</PRODUCT>
-    <DESCRIPTION>Originální náhradní hadice do vysavače Tento produkt, označený kódem 00578039 , je originální náhradní hadice určená k opravě domácích vysavačů. Zákazníci ji zpravidla pořizují v okamžiku, kdy původní hadice přestane plnit svou funkci. K čemu slouží náhrada hadice? Hadice je klíčovou součástí vysavače, která přenáší sací vzduch od příslušenství k motoru. Časem se může opotřebovat , prasknout nebo poškodit mechanickým namáháním (např. přejetí, zauzlování). To se projevuje výrazným poklesem sacího výkonu , nepříjemným hvízdáním způsobeným nasáváním vzduchu netěsností, nebo úplnou nefunkčností vysavače. Tato náhradní hadice je konstrukčním řešením, které přesně odpovídá původnímu dílu . Je navržena pro přesné usazení do vysavače, a umožňuje tak snadnou a rychlou výměnu bez nutnosti dalších úprav. Po instalaci obnoví těsnost sacího systému a plný výkon spotřebiče. Na co si dát pozor při výběru Před objednáním je zásadní ověřit kompatibilitu této hadice s konkrétním modelem vašeho vysavače. Hadice se mohou lišit průměrem, typem zakončení, délkou nebo způsobem uchycení. Použití nekompatibilního dílu může vést k netěsnosti nebo mechanickému poškození. Přehled kompatibilních spotřebičů naleznete níže na stránce.</DESCRIPTION>
-    <URL>https://boschino.cz/products/00578039-hadice-do-vysavace-bosch-siemens?variant=56264580170059</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/MCSA02026957_00578039_2_def.jpg?v=1769068986</IMGURL>
-    <PRICE_VAT>746.00</PRICE_VAT>
-    <CATEGORYTEXT>Heureka.cz | Domácí a osobní spotřebiče | Úklidové spotřebiče | Příslušenství pro úklidové spotřebiče | Hadice na vysavače</CATEGORYTEXT>
-    <MANUFACTURER>BSH / Bosch</MANUFACTURER>
-    <EAN>8757521572852</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
-    <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
-    <ITEMGROUP_ID>15465091498315</ITEMGROUP_ID>
   </SHOPITEM>
   <SHOPITEM>
     <ITEM_ID>56264581644619</ITEM_ID>
@@ -35392,7 +35358,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Vaření a ohřívání | Varné desky</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521799570</EAN>
-    <DELIVERY_DATE>0</DELIVERY_DATE>
+    <DELIVERY_DATE>7</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <SALES_VOUCHER>
 <CODE>Jaro2026</CODE>
@@ -59878,7 +59844,7 @@
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/20004515-dvere-mrazici-prihradky-bosch-siemens?variant=56453632590155</URL>
     <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/20004515.png?v=1775652128</IMGURL>
-    <PRICE_VAT>2164.00</PRICE_VAT>
+    <PRICE_VAT>1303.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Náhradní díly k velkým spotřebičům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757522219480</EAN>
