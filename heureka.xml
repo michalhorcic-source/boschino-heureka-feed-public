@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generated at 2026-06-12T12:30:50.488Z; total variants: 51854; included: 4101; skipped: 47753; min price: 499.99; availability: in stock or orderable; categoryText: metafield heureka.categorytext; salesVoucher: metafield custom.sales_voucher -->
+<!-- Generated at 2026-06-12T16:30:57.134Z; total variants: 51854; included: 4101; skipped: 47753; min price: 499.99; availability: in stock or orderable; categoryText: metafield heureka.categorytext; salesVoucher: metafield custom.sales_voucher -->
 <SHOP>
   <SHOPITEM>
     <ITEM_ID>56264244953419</ITEM_ID>
@@ -950,7 +950,7 @@
     <CATEGORYTEXT>Heureka.cz | Bílé zboží | Malé spotřebiče | Mixéry a šlehače | Příslušenství k mixérům a šlehačům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8517521588983</EAN>
-    <DELIVERY_DATE>0</DELIVERY_DATE>
+    <DELIVERY_DATE>7</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15464894267723</ITEMGROUP_ID>
   </SHOPITEM>
@@ -16983,7 +16983,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Vaření a ohřívání | Varné desky</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521598906</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15465004499275</ITEMGROUP_ID>
   </SHOPITEM>
@@ -20253,7 +20253,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Vaření a ohřívání | Varné desky</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>4058212273350</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15465028026699</ITEMGROUP_ID>
   </SHOPITEM>
@@ -35311,7 +35311,7 @@
     <CATEGORYTEXT>Heureka.cz | Bílé zboží | Malé spotřebiče | Mixéry a šlehače | Příslušenství k mixérům a šlehačům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521598814</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15493149098315</ITEMGROUP_ID>
   </SHOPITEM>
@@ -49034,7 +49034,7 @@
     <PRODUCT>00689317 Výparník</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/00689317-vyparnik-bosch-siemens?variant=56451738501451</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00689317.png?v=1775651106</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00689317-vyparnik-bosch-siemens.png?v=1781267414</IMGURL>
     <PRICE_VAT>3576.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Příslušenství pro lednice</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -49049,7 +49049,7 @@
     <PRODUCT>00579308 Turbo hubice</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/00579308-turbo-hubice-bosch-siemens?variant=56451775267147</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00579308.png?v=1775557853</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00579308-turbo-hubice-bosch-siemens.png?v=1781267671</IMGURL>
     <PRICE_VAT>970.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Domácí a osobní spotřebiče | Úklidové spotřebiče | Příslušenství pro úklidové spotřebiče | Hubice a kartáče k vysavačům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -49079,7 +49079,7 @@
     <PRODUCT>00577584 Kombinovaný rošt</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/00577584-kombinovany-rost-bosch-siemens?variant=56451821437259</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00577584.png?v=1775651117</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00577584-kombinovany-rost-bosch-siemens.png?v=1781267969</IMGURL>
     <PRICE_VAT>895.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Příslušenství pro trouby</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -49094,7 +49094,7 @@
     <PRODUCT>12007134 Hlava hořáku</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/12007134-hlava-horaku-bosch-siemens?variant=56451821994315</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/12007134.png?v=1775651117</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/12007134-hlava-horaku-bosch-siemens.png?v=1781268064</IMGURL>
     <PRICE_VAT>3106.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Náhradní díly k velkým spotřebičům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -49109,7 +49109,7 @@
     <PRODUCT>17000786 Long Life cirkulační sada do trouby</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/17000786-long-life-cirkulacni-sada-bosch-siemens?variant=56451823173963</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/17000786.png?v=1775651118</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/17000786-long-life-cirkulacni-sada-do-trouby-bosch-siemens.png?v=1781268196</IMGURL>
     <PRICE_VAT>10211.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Příslušenství pro trouby</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -49124,7 +49124,7 @@
     <PRODUCT>11021419 Topné těleso do pračky</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/11021419-topne-teleso-bosch-siemens?variant=56451825631563</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/11021419.png?v=1775651100</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/11021419-topne-teleso-do-pracky-bosch-siemens.png?v=1781268319</IMGURL>
     <PRICE_VAT>2795.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Bílé zboží | Pračky a sušičky | Příslušenství k pračkám</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -49139,7 +49139,7 @@
     <PRODUCT>11004992 Kovový tukový filtr do digestoře</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/11004992-kovovy-tukovy-filtr-bosch-siemens?variant=56451832152395</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/11004992_1.png?v=1775651106</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/11004992-kovovy-tukovy-filtr-do-digestore-bosch-siemens.png?v=1781268541</IMGURL>
     <PRICE_VAT>1591.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Příslušenství k digestořím</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -49154,7 +49154,7 @@
     <PRODUCT>00145828 Kompresor</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/00145828-kompresor-bosch-siemens?variant=56451832742219</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00145828.png?v=1775651112</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00145828-kompresor-bosch-siemens.png?v=1781268597</IMGURL>
     <PRICE_VAT>5355.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Příslušenství pro lednice</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -49169,7 +49169,7 @@
     <PRODUCT>00757306 Plynový kohout do sporáku</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/00757306-plynovy-kohout-bosch-siemens?variant=56451833823563</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00757306.png?v=1775651111</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00757306-plynovy-kohout-do-sporaku-bosch-siemens.png?v=1781268669</IMGURL>
     <PRICE_VAT>965.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Příslušenství ke sporákům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -49184,7 +49184,7 @@
     <PRODUCT>12011051 Magnetron do mikrovlnné trouby</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/12011051-magnetron-bosch-siemens?variant=56451842310475</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/12011051.png?v=1775651122</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/12011051-magnetron-do-mikrovlnne-trouby-bosch-siemens.png?v=1781269050</IMGURL>
     <PRICE_VAT>1672.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Bílé zboží | Mikrovlnné trouby | Příslušenství k mikrovlnným troubám</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -49199,7 +49199,7 @@
     <PRODUCT>11019692 Vodicí plech horkého vzduchu do trouby</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/11019692-vodici-plech-horkeho-vzduchu-bosch-siemens?variant=56451843227979</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/11019692.png?v=1775651120</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/11019692-vodici-plech-horkeho-vzduchu-do-trouby-bosch-siemens.png?v=1781269085</IMGURL>
     <PRICE_VAT>1329.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Příslušenství pro trouby</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -49214,7 +49214,7 @@
     <PRODUCT>00689736 Sklokeramická deska</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/00689736-sklokeramicka-deska-bosch-siemens?variant=56451843490123</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00689736.png?v=1775651117</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00689736-sklokeramicka-deska-bosch-siemens.png?v=1781269117</IMGURL>
     <PRICE_VAT>8315.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Náhradní díly k velkým spotřebičům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -49229,7 +49229,7 @@
     <PRODUCT>00689743 Sklokeramická deska</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/00689743-sklokeramicka-deska-bosch-siemens?variant=56451843522891</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00689743.png?v=1775651118</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00689743-sklokeramicka-deska-bosch-siemens.png?v=1781269136</IMGURL>
     <PRICE_VAT>15958.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Náhradní díly k velkým spotřebičům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -49244,7 +49244,7 @@
     <PRODUCT>00689708 Sklokeramická deska</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/00689708-sklokeramicka-deska-bosch-siemens?variant=56451844178251</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00689708.png?v=1775651120</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00689708-sklokeramicka-deska-bosch-siemens.png?v=1781269185</IMGURL>
     <PRICE_VAT>10934.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Náhradní díly k velkým spotřebičům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -49259,7 +49259,7 @@
     <PRODUCT>00716078 Sklokeramická deska</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/00716078-sklokeramicka-deska-bosch-siemens?variant=56451844768075</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00716078.png?v=1775651122</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00716078-sklokeramicka-deska-bosch-siemens.png?v=1781269223</IMGURL>
     <PRICE_VAT>5634.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Náhradní díly k velkým spotřebičům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -49274,7 +49274,7 @@
     <PRODUCT>00775379 Sklokeramická deska</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/00775379-sklokeramicka-deska-bosch-siemens?variant=56451844899147</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00775379.png?v=1775651121</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00775379-sklokeramicka-deska-bosch-siemens.png?v=1781269240</IMGURL>
     <PRICE_VAT>6083.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Náhradní díly k velkým spotřebičům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -49289,7 +49289,7 @@
     <PRODUCT>00689538 Sklokeramická deska</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/00689538-sklokeramicka-deska-bosch-siemens?variant=56451850699083</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00689538.png?v=1775651135</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00689538-sklokeramicka-deska-bosch-siemens.png?v=1781269668</IMGURL>
     <PRICE_VAT>9221.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Náhradní díly k velkým spotřebičům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -49304,7 +49304,7 @@
     <PRODUCT>00689537 Sklokeramická deska</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/00689537-sklokeramicka-deska-bosch-siemens?variant=56451850731851</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00689537.png?v=1775651135</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00689537-sklokeramicka-deska-bosch-siemens.png?v=1781269685</IMGURL>
     <PRICE_VAT>10468.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Náhradní díly k velkým spotřebičům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -49319,7 +49319,7 @@
     <PRODUCT>00689540 Sklokeramická deska</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/00689540-sklokeramicka-deska-bosch-siemens?variant=56451850797387</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00689540.png?v=1775651138</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00689540-sklokeramicka-deska-bosch-siemens.png?v=1781269702</IMGURL>
     <PRICE_VAT>8898.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Náhradní díly k velkým spotřebičům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -49334,7 +49334,7 @@
     <PRODUCT>00775071 Dveře mrazicí přihrádky</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/00775071-dvere-mrazici-prihradky-bosch-siemens?variant=56451851223371</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00775071.png?v=1775651136</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00775071-dvere-mrazici-prihradky-bosch-siemens.png?v=1781269757</IMGURL>
     <PRICE_VAT>3106.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Náhradní díly k velkým spotřebičům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -49349,7 +49349,7 @@
     <PRODUCT>00689551 Sklokeramická deska</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/00689551-sklokeramicka-deska-bosch-siemens?variant=56451851944267</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00689551.png?v=1775651139</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00689551-sklokeramicka-deska-bosch-siemens.png?v=1781269778</IMGURL>
     <PRICE_VAT>9265.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Náhradní díly k velkým spotřebičům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -49364,7 +49364,7 @@
     <PRODUCT>11019098 Vodící lišta koše do myčky nádobí</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/11019098-vodici-lista-kose-bosch-siemens?variant=56451853517131</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/11019098.png?v=1775651143</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/11019098-vodici-lista-kose-do-mycky-nadobi-bosch-siemens.png?v=1781269886</IMGURL>
     <PRICE_VAT>914.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Příslušenství k myčkám</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -49379,7 +49379,7 @@
     <PRODUCT>00712558 Dveře mrazicí přihrádky</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/00712558-dvere-mrazici-prihradky-bosch-siemens?variant=56451862921547</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00712558.png?v=1775651132</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00712558-dvere-mrazici-prihradky-bosch-siemens.png?v=1781270256</IMGURL>
     <PRICE_VAT>5397.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Náhradní díly k velkým spotřebičům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -49394,7 +49394,7 @@
     <PRODUCT>00689796 Sklokeramická deska</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/00689796-sklokeramicka-deska-bosch-siemens?variant=56451862987083</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00689796.png?v=1775651134</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00689796-sklokeramicka-deska-bosch-siemens.png?v=1781270279</IMGURL>
     <PRICE_VAT>8341.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Náhradní díly k velkým spotřebičům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -49409,7 +49409,7 @@
     <PRODUCT>00689772 Sklokeramická deska</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/00689772-sklokeramicka-deska-bosch-siemens?variant=56451865117003</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00689772.png?v=1775651142</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00689772-sklokeramicka-deska-bosch-siemens.png?v=1781270422</IMGURL>
     <PRICE_VAT>9222.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Náhradní díly k velkým spotřebičům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -49424,7 +49424,7 @@
     <PRODUCT>00575760 Skleněný pekáč</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/00575760-skleneny-pekac-bosch-siemens?variant=56451868754251</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00575760.png?v=1775651143</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00575760-skleneny-pekac-bosch-siemens.png?v=1781270467</IMGURL>
     <PRICE_VAT>800.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Příslušenství pro trouby</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -49439,7 +49439,7 @@
     <PRODUCT>12009059 Varná zóna Induktion</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/12009059-varna-zona-induktion-bosch-siemens?variant=56451876487499</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/12009059.png?v=1775651144</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/12009059-varna-zona-induktion-bosch-siemens.png?v=1781270873</IMGURL>
     <PRICE_VAT>1864.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Vaření a ohřívání | Varné desky</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -49454,7 +49454,7 @@
     <PRODUCT>00689612 Sklokeramická deska</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/00689612-sklokeramicka-deska-bosch-siemens?variant=56451876520267</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00689612.png?v=1775651144</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00689612-sklokeramicka-deska-bosch-siemens.png?v=1781270878</IMGURL>
     <PRICE_VAT>11201.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Náhradní díly k velkým spotřebičům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -49469,7 +49469,7 @@
     <PRODUCT>00689651 Sklokeramická deska</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/00689651-sklokeramicka-deska-bosch-siemens?variant=56451877110091</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00689651.png?v=1775651146</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00689651-sklokeramicka-deska-bosch-siemens.png?v=1781270918</IMGURL>
     <PRICE_VAT>5119.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Náhradní díly k velkým spotřebičům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -49484,7 +49484,7 @@
     <PRODUCT>00775066 Dveře mrazicí přihrádky</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/00775066-dvere-mrazici-prihradky-bosch-siemens?variant=56451877863755</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00775066.png?v=1775651145</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00775066-dvere-mrazici-prihradky-bosch-siemens.png?v=1781270998</IMGURL>
     <PRICE_VAT>1627.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Náhradní díly k velkým spotřebičům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -49499,7 +49499,7 @@
     <PRODUCT>11016643 Zásobník zmrazeného zboží do lednice/mrazáku</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/11016643-zasobnik-zmrazeneho-zbozi-bosch-siemens?variant=56451878322507</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/11016643.png?v=1775651148</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/11016643-zasobnik-zmrazeneho-zbozi-do-lednice-mrazaku-bosch-siemens.png?v=1781271026</IMGURL>
     <PRICE_VAT>1652.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Příslušenství pro lednice</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -49514,7 +49514,7 @@
     <PRODUCT>00145552 Kompresor</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/00145552-kompresor-bosch-siemens?variant=56451878355275</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00145552.png?v=1775651149</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00145552-kompresor-bosch-siemens.png?v=1781271031</IMGURL>
     <PRICE_VAT>3479.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Příslušenství pro lednice</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -49529,7 +49529,7 @@
     <PRODUCT>00689664 Sklokeramická deska</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/00689664-sklokeramicka-deska-bosch-siemens?variant=56451884613963</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00689664.png?v=1775651131</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00689664-sklokeramicka-deska-bosch-siemens.png?v=1781271359</IMGURL>
     <PRICE_VAT>16406.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Náhradní díly k velkým spotřebičům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -49559,7 +49559,7 @@
     <PRODUCT>00689543 Sklokeramická deska</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/00689543-sklokeramicka-deska-bosch-siemens?variant=56451888742731</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00689543.png?v=1775651141</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00689543-sklokeramicka-deska-bosch-siemens.png?v=1781271630</IMGURL>
     <PRICE_VAT>7632.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Náhradní díly k velkým spotřebičům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -49574,7 +49574,7 @@
     <PRODUCT>00716152 Sklokeramická deska</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/00716152-sklokeramicka-deska-bosch-siemens?variant=56451905519947</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00716152.png?v=1775651158</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00716152-sklokeramicka-deska-bosch-siemens.png?v=1781272098</IMGURL>
     <PRICE_VAT>40844.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Náhradní díly k velkým spotřebičům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -49589,7 +49589,7 @@
     <PRODUCT>00633115 Sada trysek do sporáku zkapalněný plyn</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/00633115-sada-trysek-zkapalneny-plyn-bosch-siemens?variant=56451910336843</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00633115.png?v=1775651163</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00633115-sada-trysek-zkapalneny-plyn-sporak-bosch-siemens.png?v=1781272354</IMGURL>
     <PRICE_VAT>603.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Příslušenství ke sporákům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -49604,7 +49604,7 @@
     <PRODUCT>00633116 Sada trysek do sporáku zemní plyn</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/00633116-sada-trysek-zemni-plyn-bosch-siemens?variant=56451910959435</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00633116.png?v=1775651165</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00633116-sada-trysek-zemni-plyn-sporak-bosch-siemens.png?v=1781272372</IMGURL>
     <PRICE_VAT>1848.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Příslušenství ke sporákům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -49619,7 +49619,7 @@
     <PRODUCT>12007144 Kroužek hořáku</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/12007144-krouzek-horaku-bosch-siemens?variant=56451914006859</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/12007144.png?v=1775651166</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/12007144-krouzek-horaku-bosch-siemens.png?v=1781272498</IMGURL>
     <PRICE_VAT>1322.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Náhradní díly k velkým spotřebičům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -49634,7 +49634,7 @@
     <PRODUCT>11009045 Varná zóna Induktion</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/11009045-varna-zona-induktion-bosch-siemens?variant=56451923149131</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/11009045.png?v=1775651159</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/11009045-varna-zona-induktion-bosch-siemens.png?v=1781273013</IMGURL>
     <PRICE_VAT>1807.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Vaření a ohřívání | Varné desky</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -49649,7 +49649,7 @@
     <PRODUCT>11009047 Varná zóna Induktion</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/11009047-varna-zona-induktion-bosch-siemens?variant=56451923214667</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/11009047.png?v=1775651159</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/11009047-varna-zona-induktion-bosch-siemens.png?v=1781273019</IMGURL>
     <PRICE_VAT>1735.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Vaření a ohřívání | Varné desky</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -49664,7 +49664,7 @@
     <PRODUCT>11009046 Varná zóna Induktion</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/11009046-varna-zona-induktion-bosch-siemens?variant=56451923411275</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/11009046.png?v=1775651158</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/11009046-varna-zona-induktion-bosch-siemens.png?v=1781273025</IMGURL>
     <PRICE_VAT>1681.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Vaření a ohřívání | Varné desky</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -49679,7 +49679,7 @@
     <PRODUCT>00773633 Sklokeramická deska</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/00773633-sklokeramicka-deska-bosch-siemens?variant=56451924754763</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00773633.png?v=1775651164</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00773633-sklokeramicka-deska-bosch-siemens.png?v=1781273118</IMGURL>
     <PRICE_VAT>4914.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Náhradní díly k velkým spotřebičům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -49694,7 +49694,7 @@
     <PRODUCT>12016525 Kroužek hořáku</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/12016525-krouzek-horaku-bosch-siemens?variant=56451925999947</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/12016525.png?v=1775651162</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/12016525-krouzek-horaku-bosch-siemens.png?v=1781273195</IMGURL>
     <PRICE_VAT>1848.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Náhradní díly k velkým spotřebičům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -49709,7 +49709,7 @@
     <PRODUCT>00577565 Teleskopický výtah</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/00577565-teleskopicky-vytah-bosch-siemens?variant=56451930685771</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00577565.png?v=1775651174</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00577565-teleskopicky-vytah-bosch-siemens.png?v=1781273338</IMGURL>
     <PRICE_VAT>3617.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Příslušenství pro trouby</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -49724,7 +49724,7 @@
     <PRODUCT>00776553 Topné těleso odtávání do lednice/mrazáku</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/00776553-topne-teleso-odtavani-bosch-siemens?variant=56451941466443</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00776553.png?v=1775651175</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00776553-topne-teleso-odtavani-do-lednice-mrazaku-bosch-siemens.png?v=1781274010</IMGURL>
     <PRICE_VAT>1643.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Příslušenství pro lednice</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -49739,7 +49739,7 @@
     <PRODUCT>00772652 Manžeta odolná proti tuku do pračky</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/00772652-manzeta-odolna-proti-tuku-bosch-siemens?variant=56451953590603</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00772652.png?v=1775651165</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00772652-manzeta-odolna-proti-tuku-do-pracky-bosch-siemens.png?v=1781274500</IMGURL>
     <PRICE_VAT>2396.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Bílé zboží | Pračky a sušičky | Příslušenství k pračkám</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -49754,7 +49754,7 @@
     <PRODUCT>00772654 Manžeta odolná proti tuku do pračky</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/00772654-manzeta-odolna-proti-tuku-bosch-siemens?variant=56451953983819</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00772654.png?v=1775651166</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00772654-manzeta-odolna-proti-tuku-do-pracky-bosch-siemens.png?v=1781274511</IMGURL>
     <PRICE_VAT>2775.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Bílé zboží | Pračky a sušičky | Příslušenství k pračkám</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -49769,7 +49769,7 @@
     <PRODUCT>00773826 Varná deska do varné desky</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/00773826-varna-deska-bosch-siemens?variant=56451957719371</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00773826.png?v=1775651173</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00773826-varna-deska-do-varne-desky-bosch-siemens.png?v=1781274677</IMGURL>
     <PRICE_VAT>6356.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Bílé zboží | Varné desky | Příslušenství k varným deskám</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -49784,7 +49784,7 @@
     <PRODUCT>11010055 Ostřikovací rameno nahoře do myčky nádobí</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/11010055-ostrikovaci-rameno-nahore-bosch-siemens?variant=56451962372427</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/11010055.png?v=1775651184</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/11010055-ostrikovaci-rameno-nahore-do-mycky-nadobi-bosch-siemens.png?v=1781274955</IMGURL>
     <PRICE_VAT>555.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Příslušenství k myčkám</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -49799,7 +49799,7 @@
     <PRODUCT>00713611 Dveře mrazicí přihrádky</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/00713611-dvere-mrazici-prihradky-bosch-siemens?variant=56451962798411</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00713611.png?v=1775651185</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00713611-dvere-mrazici-prihradky-bosch-siemens.png?v=1781274972</IMGURL>
     <PRICE_VAT>1594.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Náhradní díly k velkým spotřebičům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -49814,7 +49814,7 @@
     <PRODUCT>00773342 Sklokeramická deska</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/00773342-sklokeramicka-deska-bosch-siemens?variant=56451963617611</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00773342.png?v=1775651185</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00773342-sklokeramicka-deska-bosch-siemens.png?v=1781275057</IMGURL>
     <PRICE_VAT>7667.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Náhradní díly k velkým spotřebičům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -49829,7 +49829,7 @@
     <PRODUCT>11019008 Výrobník ledu do lednice/mrazáku</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/11019008-vyrobnik-ledu-bosch-siemens?variant=56451973644619</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/11019008.png?v=1775651201</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/11019008-vyrobnik-ledu-do-lednice-mrazaku-bosch-siemens.png?v=1781275587</IMGURL>
     <PRICE_VAT>23674.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Příslušenství pro lednice</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -49859,7 +49859,7 @@
     <PRODUCT>00771051 Sklokeramická deska</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/00771051-sklokeramicka-deska-bosch-siemens?variant=56451976986955</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00771051.png?v=1775651206</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00771051-sklokeramicka-deska-bosch-siemens.png?v=1781275783</IMGURL>
     <PRICE_VAT>5926.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Náhradní díly k velkým spotřebičům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -49904,7 +49904,7 @@
     <PRODUCT>00774951 Sklokeramická deska</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/00774951-sklokeramicka-deska-bosch-siemens?variant=56451983245643</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00774951.png?v=1775651187</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00774951-sklokeramicka-deska-bosch-siemens.png?v=1781276278</IMGURL>
     <PRICE_VAT>5119.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Náhradní díly k velkým spotřebičům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -49919,7 +49919,7 @@
     <PRODUCT>00634952 Mlecí ústrojí do kávovaru</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/00634952-mleci-ustroji-bosch-siemens?variant=56451999138123</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00634952.png?v=1775651199</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00634952-mleci-ustroji-do-kavovaru-bosch-siemens.png?v=1781277140</IMGURL>
     <PRICE_VAT>2273.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Bílé zboží | Kávovary | Příslušenství ke kávovarům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -49934,7 +49934,7 @@
     <PRODUCT>11002246 Výparník</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/11002246-vyparnik-bosch-siemens?variant=56452004086091</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/11002246.png?v=1775651208</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/11002246-vyparnik-bosch-siemens.png?v=1781277278</IMGURL>
     <PRICE_VAT>8390.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Příslušenství pro lednice</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -49949,7 +49949,7 @@
     <PRODUCT>00633186 Sada trysek do sporáku zkapalněný plyn</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/00633186-sada-trysek-zkapalneny-plyn-bosch-siemens?variant=56452030988619</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00633186.png?v=1775651225</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00633186-sada-trysek-zkapalneny-plyn-sporak-bosch-siemens.png?v=1781278488</IMGURL>
     <PRICE_VAT>1848.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Příslušenství ke sporákům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -49964,7 +49964,7 @@
     <PRODUCT>11003590 Zásobník na mléko do kávovaru</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/11003590-zasobnik-na-mleko-bosch-siemens?variant=56452031054155</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/11003590.png?v=1775651225</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/11003590-zasobnik-na-mleko-do-kavovaru-bosch-siemens.png?v=1781278500</IMGURL>
     <PRICE_VAT>770.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Bílé zboží | Kávovary | Příslušenství ke kávovarům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -49979,7 +49979,7 @@
     <PRODUCT>11003591 Zásobník na mléko do kávovaru</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/11003591-zasobnik-na-mleko-bosch-siemens?variant=56452031185227</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/11003591.png?v=1775651224</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/11003591-zasobnik-na-mleko-do-kavovaru-bosch-siemens.png?v=1781278506</IMGURL>
     <PRICE_VAT>602.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Bílé zboží | Kávovary | Příslušenství ke kávovarům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -49994,7 +49994,7 @@
     <PRODUCT>11008693 Motor ventilátoru do digestoře</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/11008693-motor-ventilatoru-bosch-siemens?variant=56452031578443</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/11008693.png?v=1775651227</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/11008693-motor-ventilatoru-do-digestore-bosch-siemens.png?v=1781278529</IMGURL>
     <PRICE_VAT>1462.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Příslušenství k digestořím</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -50009,7 +50009,7 @@
     <PRODUCT>00633110 Kroužek hořáku</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/00633110-krouzek-horaku-bosch-siemens?variant=56452034953547</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00633110.png?v=1775651234</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00633110-krouzek-horaku-bosch-siemens.png?v=1781278702</IMGURL>
     <PRICE_VAT>803.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Náhradní díly k velkým spotřebičům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -50024,7 +50024,7 @@
     <PRODUCT>00633112 Kroužek hořáku</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/00633112-krouzek-horaku-bosch-siemens?variant=56452035084619</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00633112.png?v=1775651234</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00633112-krouzek-horaku-bosch-siemens.png?v=1781278714</IMGURL>
     <PRICE_VAT>685.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Náhradní díly k velkým spotřebičům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -50039,7 +50039,7 @@
     <PRODUCT>00145824 Kompresor</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/00145824-kompresor-bosch-siemens?variant=56452036755787</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00145824.png?v=1775651242</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00145824-kompresor-bosch-siemens.png?v=1781278836</IMGURL>
     <PRICE_VAT>4161.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Příslušenství pro lednice</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -50054,7 +50054,7 @@
     <PRODUCT>12016506 Výparník</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/12016506-vyparnik-bosch-siemens?variant=56452039475531</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/12016506.png?v=1775651216</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/12016506-vyparnik-bosch-siemens.png?v=1781278991</IMGURL>
     <PRICE_VAT>3365.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Příslušenství pro lednice</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -50069,7 +50069,7 @@
     <PRODUCT>00773896 Sklokeramická deska</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/00773896-sklokeramicka-deska-bosch-siemens?variant=56452045898059</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00773896.png?v=1775651236</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00773896-sklokeramicka-deska-bosch-siemens.png?v=1781279408</IMGURL>
     <PRICE_VAT>5119.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Náhradní díly k velkým spotřebičům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -50084,7 +50084,7 @@
     <PRODUCT>00635090 Spařovací jednotka do kávovaru</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/00635090-sparovaci-jednotka-bosch-siemens?variant=56452046225739</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00635090.png?v=1775651236</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00635090-sparovaci-jednotka-do-kavovaru-bosch-siemens.png?v=1781279431</IMGURL>
     <PRICE_VAT>1937.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Bílé zboží | Kávovary | Příslušenství ke kávovarům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -50099,7 +50099,7 @@
     <PRODUCT>00145727 Kompresor</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/00145727-kompresor-bosch-siemens?variant=56452046750027</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00145727.png?v=1775651238</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00145727-kompresor-bosch-siemens.png?v=1781279489</IMGURL>
     <PRICE_VAT>5019.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Příslušenství pro lednice</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -50114,7 +50114,7 @@
     <PRODUCT>00774379 Varná deska</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/00774379-varna-deska-bosch-siemens?variant=56452046946635</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00774379.png?v=1775651237</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00774379-varna-deska-bosch-siemens.png?v=1781279513</IMGURL>
     <PRICE_VAT>3123.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Bílé zboží | Varné desky | Příslušenství k varným deskám</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -50129,7 +50129,7 @@
     <PRODUCT>00773256 Spodní koš na nádobí do myčky nádobí</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/00773256-spodni-kos-na-nadobi-bosch-siemens?variant=56452047274315</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00773256.png?v=1775651237</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00773256-spodni-kos-na-nadobi-bosch-siemens.png?v=1781279531</IMGURL>
     <PRICE_VAT>3757.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Příslušenství k myčkám</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -50144,7 +50144,7 @@
     <PRODUCT>00775620 Sklokeramická deska</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/00775620-sklokeramicka-deska-bosch-siemens?variant=56452047831371</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00775620.png?v=1775651238</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00775620-sklokeramicka-deska-bosch-siemens.png?v=1781279564</IMGURL>
     <PRICE_VAT>7934.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Náhradní díly k velkým spotřebičům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -50159,7 +50159,7 @@
     <PRODUCT>00579473 Smaltovaný plech na pečení</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/00579473-smaltovany-plech-na-peceni-bosch-siemens?variant=56452047929675</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00579473.png?v=1775651239</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00579473-smaltovany-plech-na-peceni-bosch-siemens.png?v=1781279570</IMGURL>
     <PRICE_VAT>1373.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Náhradní díly k velkým spotřebičům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -50174,7 +50174,7 @@
     <PRODUCT>12017506 Pasírovací nástavec</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/12017506-pasirovaci-nastavec-bosch-siemens?variant=56452053205323</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/12017506.png?v=1775651218</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/12017506-pasirovaci-nastavec-bosch-siemens.png?v=1781279917</IMGURL>
     <PRICE_VAT>566.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Domácí a osobní spotřebiče | Kuchyňské spotřebiče | Příslušenství ke kuchyňským spotřebičům | Příslušenství ke kuchyňským robotům | Ostatní příslušenství ke kuchyňským robotům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -50189,7 +50189,7 @@
     <PRODUCT>00634436 Plynový kohout do sporáku</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/00634436-plynovy-kohout-bosch-siemens?variant=56452053303627</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00634436.png?v=1775651220</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00634436-plynovy-kohout-do-sporaku-bosch-siemens.png?v=1781279922</IMGURL>
     <PRICE_VAT>792.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Příslušenství ke sporákům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -50204,7 +50204,7 @@
     <PRODUCT>00634437 Plynový kohout do sporáku</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/00634437-plynovy-kohout-bosch-siemens?variant=56452053369163</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00634437.png?v=1775651218</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00634437-plynovy-kohout-do-sporaku-bosch-siemens.png?v=1781279928</IMGURL>
     <PRICE_VAT>684.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Příslušenství ke sporákům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -50219,7 +50219,7 @@
     <PRODUCT>12010879 Mixér</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/12010879-mixer-bosch-siemens?variant=56452056744267</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/12010879.png?v=1775651228</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/12010879-mixer-bosch-siemens.png?v=1781280183</IMGURL>
     <PRICE_VAT>837.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Domácí a osobní spotřebiče | Kuchyňské spotřebiče | Příprava jídla | Malé kuchyňské spotřebiče | Mixování a šlehání | Mixéry</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -50234,7 +50234,7 @@
     <PRODUCT>00773353 Sklokeramická deska</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/00773353-sklokeramicka-deska-bosch-siemens?variant=56452057596235</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00773353.png?v=1775651230</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00773353-sklokeramicka-deska-bosch-siemens.png?v=1781280219</IMGURL>
     <PRICE_VAT>6665.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Náhradní díly k velkým spotřebičům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -50249,7 +50249,7 @@
     <PRODUCT>10000463 Knoflík plotny</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/10000463-knoflik-plotny-bosch-siemens?variant=56452060873035</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/10000463.png?v=1775651238</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/10000463-knoflik-plotny-bosch-siemens.png?v=1781280391</IMGURL>
     <PRICE_VAT>586.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Náhradní díly k velkým spotřebičům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -50264,7 +50264,7 @@
     <PRODUCT>17000175 CleanAir Plus cirkulační sada do trouby</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/17000175-cleanair-plus-cirkulacni-sada-bosch-siemens?variant=56452065493323</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/17000175.png?v=1775651253</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/17000175-cleanair-plus-cirkulacni-sada-do-trouby-bosch-siemens.png?v=1781280626</IMGURL>
     <PRICE_VAT>10851.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Příslušenství pro trouby</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -50279,7 +50279,7 @@
     <PRODUCT>17000625 Elektrická hubice do vysavače</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/17000625-elektricka-hubice-bosch-siemens?variant=56452065886539</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/17000625.png?v=1775651251</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/17000625-elektricka-hubice-do-vysavace-bosch-siemens.png?v=1781280667</IMGURL>
     <PRICE_VAT>1562.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Dům a zahrada | Úklid | Vysavače | Příslušenství k vysavačům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -50294,7 +50294,7 @@
     <PRODUCT>00773011 Sklokeramická deska</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/00773011-sklokeramicka-deska-bosch-siemens?variant=56452072374603</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00773011.png?v=1775651246</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00773011-sklokeramicka-deska-bosch-siemens.png?v=1781281044</IMGURL>
     <PRICE_VAT>4914.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Náhradní díly k velkým spotřebičům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -50309,7 +50309,7 @@
     <PRODUCT>00715712 Sklokeramická deska</PRODUCT>
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/00715712-sklokeramicka-deska-bosch-siemens?variant=56452072538443</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00715712.png?v=1775651244</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00715712-sklokeramicka-deska-bosch-siemens.png?v=1781281055</IMGURL>
     <PRICE_VAT>9845.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Náhradní díly k velkým spotřebičům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
