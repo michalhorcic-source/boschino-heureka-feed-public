@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generated at 2026-06-19T12:17:13.408Z; total variants: 51854; included: 4097; skipped: 47757; min price: 499.99; availability: in stock or orderable; categoryText: metafield heureka.categorytext; salesVoucher: metafield custom.sales_voucher -->
+<!-- Generated at 2026-06-19T16:16:24.666Z; total variants: 51854; included: 4096; skipped: 47758; min price: 499.99; availability: in stock or orderable; categoryText: metafield heureka.categorytext; salesVoucher: metafield custom.sales_voucher -->
 <SHOP>
   <SHOPITEM>
     <ITEM_ID>56264259961163</ITEM_ID>
@@ -10044,7 +10044,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Pračky a sušičky | Příslušenství k pračkám a sušičkám</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521736568</EAN>
-    <DELIVERY_DATE>0</DELIVERY_DATE>
+    <DELIVERY_DATE>7</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15464961474891</ITEMGROUP_ID>
   </SHOPITEM>
@@ -18351,7 +18351,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Vaření a ohřívání | Varné desky</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521715730</EAN>
-    <DELIVERY_DATE>0</DELIVERY_DATE>
+    <DELIVERY_DATE>7</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15465017573707</ITEMGROUP_ID>
   </SHOPITEM>
@@ -34701,21 +34701,6 @@
     <ITEMGROUP_ID>15493134483787</ITEMGROUP_ID>
   </SHOPITEM>
   <SHOPITEM>
-    <ITEM_ID>56385984135499</ITEM_ID>
-    <PRODUCTNAME>00629574 Ložisko do pračky 6206 Z</PRODUCTNAME>
-    <PRODUCT>00629574 Ložisko do pračky 6206 Z</PRODUCT>
-    <DESCRIPTION>Originální náhradní ložisko pro pračku Toto originální ložisko (kód 00629574 ) je mechanický náhradní díl určený pro výměnu opotřebovaného nebo poškozeného ložiska v bubnu pračky. Ložisko typu 6206 Z je součástí, která zajišťuje hladké otáčení bubnu a absorbuje radiální i axiální zatížení během pracího cyklu. K čemu slouží a kdy jej vyměnit? Ložisko se v pračkách opotřebovává v důsledku stálého působení vody, pracích prostředků a mechanického namáhání. Výměnu ložiska obvykle potřebujete, když se u pračky objeví jeden nebo více těchto problémů: Hluk při ždímání nebo během pracího cyklu – typické skřípění, vrzání nebo dunění. Nadměrné vibrace, které způsobují poskakování nebo přemisťování pračky. Ztuhlost nebo zadrhávání bubnu při ručním otáčení. Únik vody z oblasti bubnu v důsledku poškození ucpávky spojené s ložiskem. Tyto příznaky signalizují, že původní ložisko je opotřebované, zkorodované nebo mechanicky poškozené a je třeba jej vyměnit za nové . Proč volit originální náhradní díl? Originální náhradní ložisko je vyrobeno podle specifikací výrobce pračky, což zaručuje: Přesné rozměry a tolerance pro dokonalé usazení bez nutnosti dodatečných úprav. Stejnou odolnost vůči vodě, chemikáliím a opotřebení jako původní součást. Kompatibilitu s konstrukcí bubnu a přilehlými komponenty (těsnění, hřídel). Použití neoriginálního nebo nedostatečně kvalitního ložiska může vést k předčasné poruše, dalším škodám na pračce nebo snížení životnosti. Důležité upozornění před nákupem Ložisko 6206 Z je standardní typ, ale jeho kompatibilita závisí na konkrétním modelu a značce pračky. Před objednáním ověřte, zda je toto ložisko kompatibilní s vaším spotřebičem . V pračkách se mohou vyskytovat různé varianty uchycení, rozměrů nebo doplňkových prvků (jako jsou závěrné kroužky, těsnění). Přehled kompatibilních spotřebičů naleznete níže na stránce.</DESCRIPTION>
-    <URL>https://boschino.cz/products/00629574-lozisko-do-pracky-6206-z-bosch-siemens?variant=56385984135499</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00629574-lozisko-do-pracky-6206-z-bosch-siemens.jpg?v=1781142817</IMGURL>
-    <PRICE_VAT>559.00</PRICE_VAT>
-    <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Pračky a sušičky | Příslušenství k pračkám a sušičkám</CATEGORYTEXT>
-    <MANUFACTURER>BSH / Bosch</MANUFACTURER>
-    <EAN>8757521797156</EAN>
-    <DELIVERY_DATE>0</DELIVERY_DATE>
-    <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
-    <ITEMGROUP_ID>15493134811467</ITEMGROUP_ID>
-  </SHOPITEM>
-  <SHOPITEM>
     <ITEM_ID>56385985970507</ITEM_ID>
     <PRODUCTNAME>00645606 Tlumicí materiál do myčky nádobí</PRODUCTNAME>
     <PRODUCT>00645606 Tlumicí materiál do myčky nádobí</PRODUCT>
@@ -35850,7 +35835,7 @@
     <CATEGORYTEXT>Heureka.cz | Domácí a osobní spotřebiče | Úklidové spotřebiče | Příslušenství pro úklidové spotřebiče | Baterie do vysavačů</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521632600</EAN>
-    <DELIVERY_DATE>0</DELIVERY_DATE>
+    <DELIVERY_DATE>7</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15493226725707</ITEMGROUP_ID>
   </SHOPITEM>
