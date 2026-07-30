@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generated at 2026-07-30T14:15:30.521Z; total variants: 51883; included: 4206; skipped: 47677; min price: 499.99; availability: in stock or orderable; categoryText: metafield heureka.categorytext; salesVoucher: metafield custom.sales_voucher -->
+<!-- Generated at 2026-07-30T16:37:31.599Z; total variants: 51883; included: 4205; skipped: 47678; min price: 499.99; availability: in stock or orderable; categoryText: metafield heureka.categorytext; salesVoucher: metafield custom.sales_voucher -->
 <SHOP>
   <SHOPITEM>
     <ITEM_ID>56264259961163</ITEM_ID>
@@ -6294,7 +6294,7 @@
     <CATEGORYTEXT>Heureka.cz | Domácí a osobní spotřebiče | Úklidové spotřebiče | Příslušenství pro úklidové spotřebiče | Hubice a kartáče k vysavačům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>4242005482627</EAN>
-    <DELIVERY_DATE>0</DELIVERY_DATE>
+    <DELIVERY_DATE>7</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15464936997195</ITEMGROUP_ID>
   </SHOPITEM>
@@ -14470,7 +14470,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Náhradní díly k velkým spotřebičům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521718861</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <SALES_VOUCHER>
 <CODE>Jaro2026</CODE>
@@ -16983,7 +16983,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Pračky a sušičky | Příslušenství k pračkám a sušičkám</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521630170</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15464999092555</ITEMGROUP_ID>
   </SHOPITEM>
@@ -24060,21 +24060,6 @@
     <DELIVERY_DATE>7</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15465045131595</ITEMGROUP_ID>
-  </SHOPITEM>
-  <SHOPITEM>
-    <ITEM_ID>56264491630923</ITEM_ID>
-    <PRODUCTNAME>00361735 Víko do kuchyňského robotu</PRODUCTNAME>
-    <PRODUCT>00361735 Víko do kuchyňského robotu</PRODUCT>
-    <DESCRIPTION>00361735 - Víko do kuchyňského robotu O produktu Tento originální náhradní díl s kódem 00361735 je krycí víko určené pro kuchyňské roboty. Jedná se o původní součást od výrobce , která zaručuje dokonalé padnutí, funkčnost a bezpečnost spotřebiče. K čemu slouží a kdy je potřeba Víko je klíčovou součástí, která během provozu chrání obsah nádoby a zabraňuje rozstřiku. Časem se může opotřebovat , poškodit (praskliny, ulomené úchyty) nebo přestat těsnit . Tato netěsnost může vést k úniku tekutin a zhoršení výkonu mixování. Výměna tohoto dílu je nutná při viditelném poškození, ztrátě nebo když přestane spolehlivě držet. Náhradní víko obnovuje plnou funkčnost robotu a zajišťuje bezpečný provoz. Vlastnosti a instalace Díl je vyroben jako přímá náhrada za původní víko. Je konstrukčně shodné s originálem, což zaručuje přesné usazení bez nutnosti úprav . Instalace je intuitivní a zvládne ji uživatel sám bez specializovaného nářadí. Kompatibilita Toto víko je kompatibilní s vybranými modely kuchyňských robotů. Před objednáním důrazně doporučujeme ověřit shodu se svým spotřebičem. Úplný přehled kompatibilních modelů naleznete níže na stránce.</DESCRIPTION>
-    <URL>https://boschino.cz/products/00361735-viko-do-kuchynskeho-robotu-bosch-siemens?variant=56264491630923</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00361735-viko-do-kuchynskeho-robotu-bosch-siemens.jpg?v=1781139216</IMGURL>
-    <PRICE_VAT>564.00</PRICE_VAT>
-    <CATEGORYTEXT>Heureka.cz | Domácí a osobní spotřebiče | Kuchyňské spotřebiče | Příslušenství ke kuchyňským spotřebičům | Příslušenství ke kuchyňským robotům | Ostatní příslušenství ke kuchyňským robotům</CATEGORYTEXT>
-    <MANUFACTURER>BSH / Bosch</MANUFACTURER>
-    <EAN>8757521663123</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
-    <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
-    <ITEMGROUP_ID>15465045164363</ITEMGROUP_ID>
   </SHOPITEM>
   <SHOPITEM>
     <ITEM_ID>56264491827531</ITEM_ID>
@@ -42642,7 +42627,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Příslušenství k myčkám</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521725630</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15507218727243</ITEMGROUP_ID>
   </SHOPITEM>
