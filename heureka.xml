@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generated at 2026-08-14T10:13:28.721Z; total variants: 51930; included: 4206; skipped: 47724; min price: 499.99; availability: in stock or orderable; categoryText: metafield heureka.categorytext; salesVoucher: metafield custom.sales_voucher -->
+<!-- Generated at 2026-08-14T15:03:19.083Z; total variants: 51930; included: 4205; skipped: 47725; min price: 499.99; availability: in stock or orderable; categoryText: metafield heureka.categorytext; salesVoucher: metafield custom.sales_voucher -->
 <SHOP>
   <SHOPITEM>
     <ITEM_ID>56264259961163</ITEM_ID>
@@ -1464,7 +1464,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Police a šuplíky do lednic</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757522233998</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15464898462027</ITEMGROUP_ID>
   </SHOPITEM>
@@ -2886,7 +2886,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Pračky a sušičky | Příslušenství k pračkám a sušičkám</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8517521591952</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15464911372619</ITEMGROUP_ID>
   </SHOPITEM>
@@ -5528,7 +5528,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Vaření a ohřívání | Varné desky</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>4242005362851</EAN>
-    <DELIVERY_DATE>0</DELIVERY_DATE>
+    <DELIVERY_DATE>7</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15464932344139</ITEMGROUP_ID>
   </SHOPITEM>
@@ -7543,7 +7543,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Příslušenství pro lednice</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757522234117</EAN>
-    <DELIVERY_DATE>0</DELIVERY_DATE>
+    <DELIVERY_DATE>7</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15464944075083</ITEMGROUP_ID>
   </SHOPITEM>
@@ -9467,7 +9467,7 @@
     <CATEGORYTEXT>Heureka.cz | Domácí a osobní spotřebiče | Kuchyňské spotřebiče | Příslušenství ke kuchyňským spotřebičům | Příslušenství ke kuchyňským robotům | Metly a háky ke kuchyňským robotům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521798115</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15464955511115</ITEMGROUP_ID>
   </SHOPITEM>
@@ -10225,7 +10225,7 @@
     <CATEGORYTEXT>Heureka.cz | Domácí a osobní spotřebiče | Úklidové spotřebiče | Příslušenství pro úklidové spotřebiče | Hubice a kartáče k vysavačům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521792380</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15464960393547</ITEMGROUP_ID>
   </SHOPITEM>
@@ -10838,7 +10838,7 @@
     <CATEGORYTEXT>Heureka.cz | Dům a zahrada | Úklid | Vysavače | Příslušenství k vysavačům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521791420</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15464962883915</ITEMGROUP_ID>
   </SHOPITEM>
@@ -14925,9 +14925,9 @@
   </SHOPITEM>
   <SHOPITEM>
     <ITEM_ID>56264390771019</ITEM_ID>
-    <PRODUCTNAME>12012147 Nůž do kráječe</PRODUCTNAME>
-    <PRODUCT>12012147 Nůž do kráječe</PRODUCT>
-    <DESCRIPTION>Originální náhradní nůž do kráječe Tento originální náhradní nůž je určen k výměně opotřebované nebo poškozené čepele ve vašem kráječi. Kód dílu 12012147 zajišťuje, že se jedná o přesnou náhradu odpovídající konstrukčnímu řešení výrobce. Nůž do kráječe se typicky mění v okamžiku, kdy přestává řezat čistě a efektivně. Mezi nejčastější příznaky patří tupost čepele , opotřebení ostří nebo mechanické poškození (např. zářezy, zlomení). Používání tupého nože může vést k mačkání potravin namísto řezání a zvyšuje riziko úrazu. K čemu slouží výměna nože? Výměna původního nože za nový obnoví řezací schopnosti vašeho spotřebiče. Originální náhradní díl je navržen pro přesné usazení bez nutnosti jakýchkoliv úprav, čímž zaručuje bezproblémový chod kráječe. Před objednáním je nezbytné ověřit kompatibilitu tohoto nože s vaším konkrétním modelem kráječe . Přehled kompatibilních spotřebičů naleznete níže na stránce.</DESCRIPTION>
+    <PRODUCTNAME>12012147 Nůž k elektrickému kráječi</PRODUCTNAME>
+    <PRODUCT>12012147 Nůž k elektrickému kráječi</PRODUCT>
+    <DESCRIPTION>Kulatý nůž se 63 zuby do elektrického kráječe Bosch Siemens 170 mm 12012147 Originální kulatý nůž B/S/H/ 12012147 je určen pro vybrané elektrické kráječe potravin Bosch a Siemens podle přesného modelového označení spotřebiče. Jde o speciální nerezový řezný kotouč se 63 zuby, dodávaný bez krycí desky a s černým středovým knoflíkem. K čemu slouží a kdy je potřeba výměna? Kulatý nůž je hlavní pracovní částí elektrického kráječe. Při otáčení provádí řez potraviny posouvané proti řezné ploše a umožňuje vytvářet plátky v tloušťce nastavené konstrukcí konkrétního kráječe. Výměna je vhodná zejména tehdy, pokud je původní nůž výrazně tupý, mechanicky poškozený, deformovaný nebo má poškozené ozubení či středovou část, která zajišťuje jeho správné usazení a pohon. Vlastnosti originální náhradní díl B/S/H/ , speciální kulatý nůž do elektrického kráječe potravin, provedení se 63 zuby , materiál nože nerezová ocel , průměr přibližně 170 mm , celková výška přibližně 23 mm, hmotnost přibližně 218 g, černý středový knoflík, dodává se bez krycí desky, katalogové číslo 12012147 , dodává se jako 1 kus, nahrazuje katalogová čísla 12012078, 12010954, 00658711 a 00095288 . Provedení a rozměry Výrobce označuje díl jako speciální kulatý nůž do elektrického kráječe bez krycí desky. Řezná část je vyrobena z nerezové oceli a obvod nože má 63 zubů . Odborný katalog uvádí vnější průměr přibližně 170 mm , celkovou výšku přibližně 23 mm a hmotnost kolem 218 g . Součástí středu je také plastové ozubené kolo pohonu. Aktuální provedení 12012147 se může vzhledově mírně lišit od některých starších verzí: oproti staršímu noži 12012078 je vnější průměr nepatrně menší a plastové ozubené kolo mírně větší. Jde však o výrobcem určenou náhradu pro kompatibilní spotřebiče. Související díly Nůž se montuje do pohonného mechanismu elektrického kráječe a spolupracuje se středovým uložením, pohonem a ochrannými částmi konkrétního spotřebiče. Aktuální díl 12012147 nahrazuje starší katalogová čísla 12012078, 12010954, 00658711 a 00095288 . Pokud je některé z těchto čísel uvedeno na původním noži nebo v dokumentaci spotřebiče, je přesto nutné ověřit vhodnost podle úplného E-Nr kráječe. Doporučení k používání a údržbě Před vyjmutím, nasazením nebo čištěním nože vždy vypněte kráječ a odpojte jej od elektrické sítě. S řezným kotoučem manipulujte opatrně a držte jej pokud možno za středovou část, protože obvodové ostří je ostré. Po použití nůž očistěte způsobem uvedeným v návodu konkrétního kráječe. Před opětovnou montáží zkontrolujte správné usazení nože a stav středového pohonného mechanismu. Kompatibilita a značky Nůž 12012147 je v oficiálních a odborných katalozích doložen pro vybrané elektrické kráječe značek Bosch a Siemens . Použití zahrnuje různé výrobní varianty Bosch řad MAS a Siemens řad MS. Přesnou kompatibilitu vždy ověřte podle úplného E-Nr elektrického kráječe včetně výrobního indexu za lomítkem. Podobně velké kulaté nože se mohou lišit průměrem, středovým uložením, ozubeným kolem nebo konstrukcí krytu. Upozornění Katalogové číslo 12012147 označuje jeden kulatý nerezový nůž se 63 zuby a černým středovým knoflíkem. Krycí deska není součástí tohoto dílu. Nůž nahrazuje starší katalogová čísla 12012078, 12010954, 00658711 a 00095288 . Mírná konstrukční odlišnost oproti staršímu noži 12012078 není důvodem k záměně za jiný díl, pokud je kompatibilita potvrzena podle E-Nr. Před objednáním neporovnávejte nůž pouze podle průměru nebo vzhledu. Vždy ověřte kompatibilitu podle úplného E-Nr elektrického kráječe.</DESCRIPTION>
     <URL>https://boschino.cz/products/12012147-nuz-do-krajece-bosch-siemens?variant=56264390771019</URL>
     <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/12012147-nuz-do-krajece-bosch-siemens.jpg?v=1781136136</IMGURL>
     <PRICE_VAT>666.00</PRICE_VAT>
@@ -15492,21 +15492,6 @@
     <ITEMGROUP_ID>15464987853131</ITEMGROUP_ID>
   </SHOPITEM>
   <SHOPITEM>
-    <ITEM_ID>56264399847755</ITEM_ID>
-    <PRODUCTNAME>11018807 Víko dávkovače k pračce</PRODUCTNAME>
-    <PRODUCT>11018807 Víko dávkovače k pračce</PRODUCT>
-    <DESCRIPTION>Dávkovač pracího prostředku do pračky Tento dávkovač pracího prostředku do pračky je originální náhradní díl s kódem 11018807 . Je určen pro vybrané pračky Bosch, Siemens, Neff, Balay, Constructa, Gaggenau a další kompatibilní spotřebiče skupiny BSH. Dávkovač slouží k dávkování pracího prostředku, aviváže nebo dalších přípravků do pracího cyklu podle konstrukce konkrétní pračky. K čemu slouží a kdy je potřeba výměna? Dávkovač pracího prostředku je součást systému přívodu vody a dávkování detergentů. Při spuštění programu voda proudí přes příslušné komory dávkovače a odnáší prací prostředek nebo aviváž do vany pračky. Správně funkční dávkovač pomáhá zajistit, aby se prostředky dostaly do praní ve správné fázi programu a nezůstávaly zbytečně v zásuvce nebo v rozvodech. Výměnu tohoto dílu obvykle potřebujete v následujících situacích: Prací prostředek nebo aviváž zůstává v zásuvce a neodplavuje se správně do pračky. Z prostoru dávkovače vytéká voda, pěna nebo prací prostředek mimo určenou cestu. Původní dávkovač je prasklý, ulomený, zdeformovaný nebo mechanicky poškozený. Komory dávkovače jsou silně zanesené zbytky pracích prostředků, aviváže, vodního kamene nebo nečistot. Zásuvka nebo vnitřní část dávkovače nedrží správně v těle pračky, špatně se zasouvá nebo se zasekává. Servisní kontrola potvrdila závadu dávkovače, jeho těsnění, rozvodu vody nebo navazujícího dávkovacího systému. Vlastnosti a výhody Tento originální náhradní díl Bosch / Siemens je vyroben tak, aby odpovídal konstrukčnímu řešení výrobce kompatibilních praček. Díky tomu: Obnovuje správné dávkování pracího prostředku a aviváže do pracího cyklu. Je vhodný jako přímá náhrada za původní poškozený, netěsnící nebo zanesený dávkovač. U kompatibilních modelů umožňuje přesné usazení do původního prostoru bez nutnosti úprav. Pomáhá omezit únik vody nebo pracího prostředku z přední části pračky. Podporuje správné proplachování komor dávkovače během jednotlivých fází programu. Originální provedení je přizpůsobeno tvaru, uchycení a vodním cestám vybraných praček Bosch / Siemens. Provedení a použití Díl 11018807 je v katalozích náhradních dílů uváděn jako dávkovač pracího prostředku , dávkovač do pračky , zásuvka dávkovače , komora dávkovače , násypka pracího prostředku , zásobník pracího prostředku , detergent dispenser , dispenser drawer assembly , washing machine dispenser , soap drawer , Einspülschale , Waschmittelschublade , Dosierkammer nebo Waschmittelbehälter . U dílu se mohou objevit také nahrazovaná nebo související označení 00700311 a 11006040 . Související a náhradní díly Při závadě dávkovače doporučujeme zkontrolovat také stav zásuvky pracího prostředku, krytu dávkovače, přívodních hadiček, elektromagnetických ventilů, rozvodu vody do jednotlivých komor, těsnění, hadice mezi dávkovačem a vanou, čela pračky a filtru přívodu vody. Pokud je problém způsoben slabým tlakem vody, zaneseným sítkem přívodního ventilu, ucpanou hadicí, vadným elektromagnetickým ventilem nebo nadměrným pěněním, samotná výměna dávkovače nemusí závadu plně odstranit. Doporučení k používání a údržbě Dávkovač pravidelně čistěte podle návodu ke konkrétní pračce. Zbytky prášku, gelu, aviváže a vodního kamene mohou časem ucpat komory nebo zhoršit odplavování prostředků do pračky. Používejte doporučené množství pracího prostředku a nepřeplňujte komory nad vyznačenou úroveň. Pokud se v dávkovači tvoří usazeniny, zápach nebo plíseň, zásuvku vyjměte, omyjte vlažnou vodou a očistěte také prostor, do kterého se zasouvá. Doporučení k montáži Výměnu dávkovače doporučujeme provádět podle konstrukce konkrétní pračky. Před montáží spotřebič vypněte, odpojte od elektrické sítě a podle potřeby uzavřete přívod vody. Původní díl opatrně vyjměte nebo demontujte tak, aby nedošlo k poškození navazujících hadic, těsnění a plastových úchytů. Montážní prostor očistěte od zbytků pracích prostředků, vodního kamene a nečistot. Nový dávkovač usaďte rovně do původní pozice, zkontrolujte připojení hadic a po montáži proveďte krátký zkušební program bez prádla, při kterém ověříte těsnost a správné proplachování komor. Upozornění před objednáním Před objednáním si prosím ověřte kompatibilitu tohoto dávkovače pracího prostředku s konkrétním modelem vaší pračky Bosch / Siemens / Neff / Balay / Constructa / Gaggenau . Doporučujeme ověřovat podle označení modelu E-Nr. , protože tvar dávkovače, počet komor, připojení vodních cest, uchycení, čelní část zásuvky a kompatibilita s navazujícími hadicemi se mohou u jednotlivých modelů lišit.</DESCRIPTION>
-    <URL>https://boschino.cz/products/11018807-viko-davkovace-do-pracky-bosch-siemens?variant=56264399847755</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/11018807-davkovac-do-pracky-bosch-siemens.webp?v=1781136427</IMGURL>
-    <PRICE_VAT>4853.00</PRICE_VAT>
-    <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Pračky a sušičky | Příslušenství k pračkám a sušičkám</CATEGORYTEXT>
-    <MANUFACTURER>BSH / Bosch</MANUFACTURER>
-    <EAN>8757521666261</EAN>
-    <DELIVERY_DATE>0</DELIVERY_DATE>
-    <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
-    <ITEMGROUP_ID>15464987885899</ITEMGROUP_ID>
-  </SHOPITEM>
-  <SHOPITEM>
     <ITEM_ID>56264399880523</ITEM_ID>
     <PRODUCTNAME>12004140 Držáky na talíře k myčce nádobí</PRODUCTNAME>
     <PRODUCT>12004140 Držáky na talíře k myčce nádobí</PRODUCT>
@@ -15728,7 +15713,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Pračky a sušičky | Příslušenství k pračkám a sušičkám</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>4242003678336</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15464990310731</ITEMGROUP_ID>
   </SHOPITEM>
@@ -16517,9 +16502,9 @@
   </SHOPITEM>
   <SHOPITEM>
     <ITEM_ID>56264406532427</ITEM_ID>
-    <PRODUCTNAME>12028403 Mlecí ústrojí do kávovaru</PRODUCTNAME>
-    <PRODUCT>12028403 Mlecí ústrojí do kávovaru</PRODUCT>
-    <DESCRIPTION>Mlecí ústrojí do kávovaru – originální náhradní díl Toto mlecí ústrojí je klíčová součástka kávovarů, která se stará o drcení kávových zrn na požadovanou hrubost. Časem se však opotřebovává, což vede k nekvalitnímu mletí , zvýšené hlučnosti nebo úplné nefunkčnosti přístroje. Náhradní mlecí ústrojí kód 12028403 je originální náhradní díl , vyrobený tak, aby přesně odpovídal konstrukci a tolerancím původní součástky ve vašem spotřebiči. Je určen k přímé výměně opotřebovaného nebo poškozeného mlýnku. Kdy zvážit výměnu mlecího ústrojí? Výměnu tohoto dílu obvykle signalizují následující potíže: Nevyhovující hrubost mletí – káva je příliš hrubá nebo naopak jemná, ačkoli je nastavení mlýnku správné. Nerovnoměrné mletí – v mleté kávě jsou patrné větší částečky spolu s prachem. Zvýšená hlučnost – mlýnek vydává nezvyklé drnčivé, vrzavé nebo skřípavé zvuky. Pokles výkonu Úplné zastavení – mlecí mechanismus se neotáčí, i když je kávovar zapnutý. Tyto příznaky často ukazují na opotřebení mlecích kamenů, ložisek, převodů nebo dalších vnitřních komponent. Vlastnosti originálního náhradního dílu Toto mlecí ústrojí je navrženo jako přímá náhrada za původní díl ve vašem kávovaru. Zajišťuje: Dokonalé usazení – geometrie a rozměry odpovídají originálu, takže instalace nevyžaduje úpravy. Shodnou funkčnost – obnovuje původní výkon a kvalitu mletí, na kterou byl kávovar konstruován. Dlouhou životnost – použití kvalitních materiálů a přesné zpracování zaručuje odolnost proti opotřebení. Před zakoupením je nezbytné ověřit kompatibilitu tohoto dílu s konkrétním modelem vašeho kávovaru. Přehled kompatibilních spotřebičů naleznete níže na stránce. Uvedené technické parametry a rozměry jsou orientační. Pro potvrzení kompatibility vždy porovnejte kód 12028403 s údaji v manuálu vašeho spotřebiče nebo nás kontaktujte.</DESCRIPTION>
+    <PRODUCTNAME>12028403 Mlecí ústrojí ke kávovaru</PRODUCTNAME>
+    <PRODUCT>12028403 Mlecí ústrojí ke kávovaru</PRODUCT>
+    <DESCRIPTION>Kompletní mlýnek na kávu s motorem do kávovaru Bosch Siemens 12028403 Originální kompletní mlýnek B/S/H/ 12028403 je určen pro vybrané automatické kávovary Bosch a Siemens podle přesného modelového označení spotřebiče. Jde o kompletní mlecí jednotku provedení V6-1 typ A, verze 02, 90° s integrovaným pohonným motorem 230 V DC / 150 W. Mlýnek dávkuje a mele kávová zrna před jejich předáním do spařovací jednotky. K čemu slouží a kdy je potřeba výměna? Mlecí jednotka zpracovává kávová zrna na mletou kávu potřebnou pro přípravu nápoje. Pohonný motor roztáčí mlecí mechanismus a kompletní sestava spolupracuje se zásobníkem zrn a navazující cestou mleté kávy do spařovací jednotky. Výměna může být potřebná zejména tehdy, pokud se mlýnek nerozběhne, mele nepravidelně, vydává neobvyklé mechanické zvuky nebo diagnostika potvrdí opotřebení či závadu mlecí jednotky. Podobné projevy mohou mít i jiné příčiny, proto je před výměnou vhodné ověřit stav celého systému dávkování a mletí kávy. Vlastnosti originální náhradní díl B/S/H/ , kompletní mlýnek na kávová zrna s pohonným motorem, provedení V6-1 typ A, verze 02, 90°, pohonný motor 230 V DC / 150 W , určený pro vybrané automatické kávovary Bosch a Siemens, rozměry přibližně 153 × 112 × 95 mm , hmotnost přibližně 655 g, katalogové číslo 12028403 , dodává se jako 1 kompletní mlecí jednotka, nahrazuje starší katalogové číslo 12015632 . Provedení a rozměry Výrobce označuje díl jako kompletní mlýnek V6-1 typ A, verze 02, 90° s integrovaným pohonným motorem 230 V DC o příkonu 150 W. Odborné katalogy uvádějí celkové rozměry přibližně 153 mm délka × 112 mm šířka × 95 mm výška a hmotnost přibližně 655 g . Přesný materiál mlecích kamenů není v použitých spolehlivých podkladech jednoznačně specifikován, proto jej neuvádíme. Pro výběr náhradního mlýnku je rozhodující katalogové číslo a kompatibilita podle E-Nr kávovaru. Související díly Aktuální mlýnek 12028403 nahrazuje starší mlecí jednotku 12015632 . V rozkresu automatického kávovaru je mlýnek součástí sestavy zásobníku a mlecího systému a navazuje na další díly, například těsnění a části vedení mleté kávy. Konkrétní související součásti se mohou podle výrobní varianty kávovaru lišit. Jejich vhodnost proto vždy ověřujte samostatně podle úplného E-Nr spotřebiče. Doporučení k používání a údržbě Do zásobníku používejte kávová zrna vhodná pro automatické kávovary a zabraňte vniknutí cizích předmětů do mlecího mechanismu. Nastavení hrubosti mletí upravujte pouze způsobem uvedeným v návodu konkrétního kávovaru. Kompletní mlýnek je vnitřní elektromechanická část spotřebiče a není určen k běžnému rozebírání nebo opravám uživatelem. Před jakýmkoli servisním zásahem musí být kávovar odpojen od elektrické sítě. Kompatibilita a značky Mlýnek 12028403 je doložen pro vybrané automatické kávovary značek Bosch a Siemens . Použití je potvrzeno zejména u různých výrobních variant Bosch VeroCup a Siemens EQ.3 / EQ.300. Přesnou kompatibilitu vždy ověřte podle úplného E-Nr kávovaru včetně výrobního indexu za lomítkem. Jednotlivé výrobní varianty stejné řady mohou používat odlišné provedení mlýnku. Upozornění Katalogové číslo 12028403 označuje kompletní mlecí jednotku s pohonným motorem 230 V DC / 150 W . Díl nahrazuje starší katalogové číslo 12015632 . Nový originální mlýnek může obsahovat malé množství zbytků mleté kávy. Mlecí jednotky jsou při výrobě zkušebně nastaveny a kontrolovány s použitím kávových zrn; případné stopy kávy proto samy o sobě neznamenají, že byl díl použit. Jde o elektrickou a mechanickou součást uvnitř automatického kávovaru. Výměnu doporučujeme svěřit odbornému servisu a před objednáním vždy ověřit kompatibilitu podle úplného E-Nr spotřebiče.</DESCRIPTION>
     <URL>https://boschino.cz/products/12028403-mleci-ustroji-do-kavovaru-bosch-siemens?variant=56264406532427</URL>
     <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/12028403-mleci-ustroji-do-kavovaru-bosch-siemens.webp?v=1781136740</IMGURL>
     <PRICE_VAT>4395.00</PRICE_VAT>
@@ -17278,7 +17263,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Police a šuplíky do lednic</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521666926</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15465003221323</ITEMGROUP_ID>
   </SHOPITEM>
@@ -21146,7 +21131,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Police a šuplíky do lednic</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521656996</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15465028911435</ITEMGROUP_ID>
   </SHOPITEM>
@@ -24157,7 +24142,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Příslušenství k myčkám</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521646355</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15465047490891</ITEMGROUP_ID>
   </SHOPITEM>
@@ -26883,7 +26868,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Příslušenství pro lednice</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521652202</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15465066234187</ITEMGROUP_ID>
   </SHOPITEM>
@@ -27670,9 +27655,9 @@
   </SHOPITEM>
   <SHOPITEM>
     <ITEM_ID>56264547696971</ITEM_ID>
-    <PRODUCTNAME>00704420 Police dveří do lednice</PRODUCTNAME>
-    <PRODUCT>00704420 Police dveří do lednice</PRODUCT>
-    <DESCRIPTION>Originální náhradní police dveří do lednice Náhradní díl 00704420 je originální police dveří do lednice . Tento díl se prodává z důvodu opotřebení, mechanického poškození nebo rozbití původní police, která je často vystavena nárazu při nakládání potravin, opakovanému otvírání nebo může prasknout vlivem chladu a mechanického namáhání. K čemu slouží a kdy je potřeba výměna? Tato police je základní součástí vnitřního uspořádání lednice, která zajišťuje úložný prostor na dvířkách pro lahve, vejce nebo menší balení. Její výměna je nutná, pokud je původní díl: Rozbitý nebo prasklý – například po nárazu těžkého předmětu. Deformovaný – přestal držet svůj tvar a vypadává. Opotřebený – mechanismus uchycení je volný a police nedrží pevně. Výměna tohoto dílu obnoví plnou funkčnost dveří lednice a zabrání případnému vypadávání obsahu. Vlastnosti a výhody náhradního dílu Jedná se o originální náhradní díl , který je konstrukčně i materiálově shodný s dílem používaným výrobci spotřebičů. Je navržen pro přesné usazení do příslušného uchycení na dveřích lednice bez nutnosti jakýchkoliv úprav. Před instalací je doporučeno ověřit kompatibilitu tohoto náhradního dílu s konkrétním modelem vaší lednice . Přehled kompatibilních spotřebičů naleznete níže na stránce.</DESCRIPTION>
+    <PRODUCTNAME>00704420 Police dveří k lednici</PRODUCTNAME>
+    <PRODUCT>00704420 Police dveří k lednici</PRODUCT>
+    <DESCRIPTION>Horní dveřní přihrádka s výklopným víkem do chladničky Bosch Siemens 00704420 Originální horní dveřní přihrádka B/S/H/ 00704420 je určena pro vybrané chladničky a kombinované chladničky Bosch a Siemens podle přesného modelového označení spotřebiče. Jde o kompletní horní přihrádku s výklopným předním víkem, která se umisťuje do horní části vnitřní strany dveří chladicího prostoru. K čemu slouží a kdy je potřeba výměna? Horní dveřní přihrádka vytváří uzavíratelný úložný prostor ve dveřích chladničky. Výrobce ji označuje také jako kompletní přihrádku na mléčné výrobky. Výklopné víko umožňuje uložené potraviny zakrýt a přitom k nim zachovat snadný přístup. Výměna je vhodná zejména tehdy, pokud je původní přihrádka prasklá, deformovaná, má ulomené upevňovací části nebo je poškozené výklopné víko či jeho uchycení. Vlastnosti originální náhradní díl B/S/H/ , kompletní horní dveřní přihrádka chladničky, provedení s výklopným předním víkem, určená pro vybrané chladničky Bosch a Siemens, umístění v horní části dveří chladicího prostoru, transparentní plastové provedení, bílé boční části a bílá přední lišta, rozměry přibližně 470 × 123 × 110 mm , katalogové číslo 00704420 , dodává se jako 1 kompletní dveřní přihrádka. Provedení a rozměry Přihrádka je vyrobena z transparentního plastu a je doplněna bílými bočními částmi a bílou přední lištou. Přední část je výklopná a umožňuje otevření uzavřeného prostoru přihrádky. Odborný katalog uvádí rozměry přibližně 470 mm šířka × 123 mm hloubka × 110 mm výška . Pro správný výběr však nejsou samotné rozměry dostačující, protože podobné dveřní přihrádky se mohou lišit tvarem bočních úchytů, víkem nebo způsobem zavěšení do dveří. Související díly V odborných katalozích je s dílem 00704420 křížově uváděno také katalogové číslo 00704756 . Před objednáním podle některého z těchto čísel doporučujeme vždy ověřit aktuální vhodnost podle úplného E-Nr spotřebiče. Přihrádka je kompletní dveřní sestava s výklopným víkem. Ostatní dveřní police, spodní přihrádky a další části vnitřního vybavení chladničky jsou samostatné náhradní díly. Doporučení k používání a údržbě Při otevírání výklopného víka nepoužívejte nadměrnou sílu a přihrádku nepřetěžujte. Před vyjmutím z dveří je vhodné odstranit veškerý obsah, aby nebyly zbytečně namáhány boční upevňovací části. Přihrádku čistěte měkkou houbičkou nebo hadříkem a jemným prostředkem vhodným pro vnitřní vybavení chladniček. Vyvarujte se prudkých nárazů a použití abrazivních prostředků, které mohou transparentní plast poškrábat nebo poškodit. Kompatibilita a značky Přihrádka 00704420 je v ověřených katalozích doložena pro vybrané chladničky a kombinované chladničky značek Bosch a Siemens . Používá se u řady výrobních variant například z rodin KGV, KGN a KSV, konkrétní kompatibilita se však liší podle úplného označení spotřebiče. Přesnou kompatibilitu vždy ověřte podle úplného E-Nr chladničky včetně výrobního indexu za lomítkem. Stejná modelová řada může v různých výrobních variantách používat odlišné dveřní přihrádky. Upozornění Katalogové číslo 00704420 označuje jednu kompletní horní dveřní přihrádku s výklopným víkem. Nejedná se pouze o samostatné víko. Rozměry přihrádky jsou přibližně 470 × 123 × 110 mm . V odborných katalozích je s tímto dílem uváděno také číslo 00704756 . Před objednáním neporovnávejte díl pouze podle vzhledu, rozměrů nebo barvy. Vždy ověřte kompatibilitu podle úplného E-Nr chladničky.</DESCRIPTION>
     <URL>https://boschino.cz/products/00704420-police-dveri-do-lednice-bosch-siemens?variant=56264547696971</URL>
     <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00704420-police-dveri-do-lednice-bosch-siemens.webp?v=1781140606</IMGURL>
     <PRICE_VAT>689.00</PRICE_VAT>
@@ -29436,7 +29421,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Police a šuplíky do lednic</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521656330</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15465077899595</ITEMGROUP_ID>
   </SHOPITEM>
@@ -30882,7 +30867,7 @@
     <CATEGORYTEXT>Heureka.cz | Domácí a osobní spotřebiče | Úklidové spotřebiče | Příslušenství pro úklidové spotřebiče | Hadice na vysavače</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521572852</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15465091498315</ITEMGROUP_ID>
   </SHOPITEM>
@@ -33441,7 +33426,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Police a šuplíky do lednic</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521791376</EAN>
-    <DELIVERY_DATE>0</DELIVERY_DATE>
+    <DELIVERY_DATE>7</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15465108865355</ITEMGROUP_ID>
   </SHOPITEM>
@@ -34260,7 +34245,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Police a šuplíky do lednic</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521657900</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <SALES_VOUCHER>
 <CODE>Jaro2026</CODE>
@@ -36040,7 +36025,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Vaření a ohřívání | Varné desky</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521800955</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15493136122187</ITEMGROUP_ID>
   </SHOPITEM>
@@ -36917,7 +36902,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Pračky a sušičky | Příslušenství k pračkám a sušičkám</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521671937</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15493153161547</ITEMGROUP_ID>
   </SHOPITEM>
@@ -40400,7 +40385,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Příslušenství k myčkám</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521855870</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15506947506507</ITEMGROUP_ID>
   </SHOPITEM>
