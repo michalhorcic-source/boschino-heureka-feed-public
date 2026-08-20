@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generated at 2026-08-20T13:01:47.004Z; total variants: 51930; included: 4242; skipped: 47688; min price: 499.99; availability: in stock or orderable; categoryText: metafield heureka.categorytext; salesVoucher: metafield custom.sales_voucher -->
+<!-- Generated at 2026-08-20T14:47:13.376Z; total variants: 51930; included: 4241; skipped: 47689; min price: 499.99; availability: in stock or orderable; categoryText: metafield heureka.categorytext; salesVoucher: metafield custom.sales_voucher -->
 <SHOP>
   <SHOPITEM>
     <ITEM_ID>56264259961163</ITEM_ID>
@@ -8160,7 +8160,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Vaření a ohřívání | Varné desky</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521792144</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15464946762059</ITEMGROUP_ID>
   </SHOPITEM>
@@ -24717,7 +24717,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Police a šuplíky do lednic</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521657054</EAN>
-    <DELIVERY_DATE>0</DELIVERY_DATE>
+    <DELIVERY_DATE>7</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15465048801611</ITEMGROUP_ID>
   </SHOPITEM>
@@ -25719,7 +25719,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Příslušenství k myčkám</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521645990</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15465054404939</ITEMGROUP_ID>
   </SHOPITEM>
@@ -32388,7 +32388,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Příslušenství k digestořím</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8517521578472</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <SALES_VOUCHER>
 <CODE>Jaro2026</CODE>
@@ -34402,25 +34402,6 @@
 <DESC>Sleva 10 % na Vámi oblíbené produkty po zadání kódu na pokladně do 31.5.2026!</DESC>
 </SALES_VOUCHER>
     <ITEMGROUP_ID>15465112764747</ITEMGROUP_ID>
-  </SHOPITEM>
-  <SHOPITEM>
-    <ITEM_ID>56264613822795</ITEM_ID>
-    <PRODUCTNAME>00746674 Zásuvka do lednice</PRODUCTNAME>
-    <PRODUCT>00746674 Zásuvka do lednice</PRODUCT>
-    <DESCRIPTION>Zásuvka do lednice – originální náhradní díl Nabízený produkt s kódem 00746674 je originální náhradní zásuvka určená pro výměnu poškozeného nebo nefunkčního dílu v domácí lednici. Jedná se o plastový koš nebo přihrádku, která tvoří standardní součást vnitřního uspořádání chladniček a mrazniček. K čemu slouží a kdy je potřeba výměna? Tato zásuvka se nachází uvnitř lednice, typicky v zeleninové či chladicí zóně, a slouží k úhlednému uložení potravin. K její výměně obvykle dochází v situacích, kdy je původní díl fyzicky poškozen – například prasklý, ulomený nebo výrazně opotřebovaný. Opotřebení se často projevuje vznikem trhlin, sníženou pevností, problémy s vysouváním nebo ztrátou plynulého pohybu po vodících lištách. Poškozená zásuvka již nemusí spolehlivě držet obsah a může narušovat celkovou funkčnost a čistotu spotřebiče. Vlastnosti originálního náhradního dílu Dodávaná zásuvka je originální náhradní díl , který přesně odpovídá konstrukčnímu řešení a materiálovým specifikacím daného modelu lednice. Je navržen pro přesné usazení do původního prostoru, což zajišťuje dokonalou kompatibilitu s vodícími mechanismy a okolními částmi interiéru. Její instalace nevyžaduje žádné úpravy či dodatečné nástroje – stačí vyjmout starý, poškozený koš a na jeho místo zasunout nový. Výměnou za originální díl obnovíte plnou funkčnost a estetický vzhled vašeho spotřebiče. Nová zásuvka by měla zajistit hladké vysouvání, snadnou údržbu a odolnost vůči nízkým teplotám i vlhkosti, která je v chladničkách přirozeně přítomna. Důležitá poznámka ke kompatibilitě Před objednáním důrazně doporučujeme ověřit kompatibilitu tohoto dílu s konkrétním modelem vaší lednice . Náhradní díly jsou často specifické pro určité řady a typy spotřebičů. Přehled kompatibilních spotřebičů naleznete níže na stránce.</DESCRIPTION>
-    <URL>https://boschino.cz/products/00746674-zasuvka-do-lednice-bosch-siemens?variant=56264613822795</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00746674-zasuvka-do-lednice-bosch-siemens.webp?v=1781142418</IMGURL>
-    <PRICE_VAT>1708.00</PRICE_VAT>
-    <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Police a šuplíky do lednic</CATEGORYTEXT>
-    <MANUFACTURER>BSH / Bosch</MANUFACTURER>
-    <EAN>8757521657122</EAN>
-    <DELIVERY_DATE>0</DELIVERY_DATE>
-    <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
-    <SALES_VOUCHER>
-<CODE>Jaro2026</CODE>
-<DESC>Sleva 10 % na Vámi oblíbené produkty po zadání kódu na pokladně do 31.5.2026!</DESC>
-</SALES_VOUCHER>
-    <ITEMGROUP_ID>15465112830283</ITEMGROUP_ID>
   </SHOPITEM>
   <SHOPITEM>
     <ITEM_ID>56264613855563</ITEM_ID>
@@ -52389,7 +52370,7 @@
     <CATEGORYTEXT>Heureka.cz | Domácí a osobní spotřebiče | Kuchyňské spotřebiče | Příslušenství ke kuchyňským spotřebičům | Příslušenství ke kuchyňským robotům | Ostatní příslušenství ke kuchyňským robotům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8517521598463</EAN>
-    <DELIVERY_DATE>0</DELIVERY_DATE>
+    <DELIVERY_DATE>7</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15510312321355</ITEMGROUP_ID>
   </SHOPITEM>
