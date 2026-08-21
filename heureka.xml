@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generated at 2026-08-21T14:45:55.492Z; total variants: 51930; included: 4190; skipped: 47740; min price: 499.99; availability: in stock or orderable; categoryText: metafield heureka.categorytext; salesVoucher: metafield custom.sales_voucher -->
+<!-- Generated at 2026-08-21T16:45:26.428Z; total variants: 51930; included: 4190; skipped: 47740; min price: 499.99; availability: in stock or orderable; categoryText: metafield heureka.categorytext; salesVoucher: metafield custom.sales_voucher -->
 <SHOP>
   <SHOPITEM>
     <ITEM_ID>56264259961163</ITEM_ID>
@@ -6065,7 +6065,7 @@
     <CATEGORYTEXT>Heureka.cz | Domácí a osobní spotřebiče | Kuchyňské spotřebiče | Příslušenství ke kuchyňským spotřebičům | Příslušenství ke kuchyňským robotům | Ostatní příslušenství ke kuchyňským robotům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8517521594915</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15464935981387</ITEMGROUP_ID>
   </SHOPITEM>
@@ -16601,7 +16601,7 @@
     <CATEGORYTEXT>Heureka.cz | Domácí a osobní spotřebiče | Kuchyňské spotřebiče | Příprava nápojů | Kávovary a příprava kávy | Příslušenství ke kávovarům | Ostatní příslušenství pro kávovary</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521637049</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15464994439499</ITEMGROUP_ID>
   </SHOPITEM>
@@ -29860,7 +29860,7 @@
     <CATEGORYTEXT>Heureka.cz | Dům a zahrada | Úklid | Vysavače | Příslušenství k vysavačům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521664410</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15465080062283</ITEMGROUP_ID>
   </SHOPITEM>
@@ -30074,7 +30074,7 @@
     <CATEGORYTEXT>Heureka.cz | Domácí a osobní spotřebiče | Úklidové spotřebiče | Příslušenství pro úklidové spotřebiče | Hubice a kartáče k vysavačům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521571923</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15465082257739</ITEMGROUP_ID>
   </SHOPITEM>
