@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generated at 2026-08-23T08:41:20.770Z; total variants: 51930; included: 4193; skipped: 47737; min price: 499.99; availability: in stock or orderable; categoryText: metafield heureka.categorytext; salesVoucher: metafield custom.sales_voucher -->
+<!-- Generated at 2026-08-23T10:35:15.096Z; total variants: 51930; included: 4193; skipped: 47737; min price: 499.99; availability: in stock or orderable; categoryText: metafield heureka.categorytext; salesVoucher: metafield custom.sales_voucher -->
 <SHOP>
   <SHOPITEM>
     <ITEM_ID>56264259961163</ITEM_ID>
@@ -3085,7 +3085,7 @@
     <CATEGORYTEXT>Heureka.cz | Domácí a osobní spotřebiče | Úklidové spotřebiče | Příslušenství pro úklidové spotřebiče | Hubice a kartáče k vysavačům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8517521591402</EAN>
-    <DELIVERY_DATE>0</DELIVERY_DATE>
+    <DELIVERY_DATE>7</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15464912060747</ITEMGROUP_ID>
   </SHOPITEM>
@@ -5992,8 +5992,8 @@
   </SHOPITEM>
   <SHOPITEM>
     <ITEM_ID>56264320319819</ITEM_ID>
-    <PRODUCTNAME>17007968 HEPA filtr do vysavače BBZ153HF</PRODUCTNAME>
-    <PRODUCT>17007968 HEPA filtr do vysavače BBZ153HF</PRODUCT>
+    <PRODUCTNAME>17007968 HEPA filtr k vysavači</PRODUCTNAME>
+    <PRODUCT>17007968 HEPA filtr k vysavači</PRODUCT>
     <DESCRIPTION>17007968 HEPA filtr do vysavače Náhradní HEPA filtr 17007968 je originální náhradní díl určený k výměně opotřebovaného, poškozeného nebo nefunkčního filtru ve vysavači. K čemu slouží HEPA filtr a proč je potřeba jej vyměnit? HEPA (High Efficiency Particulate Air) filtr je finální filtrační stupeň, který zachytává i ty nejjemnější prachové částice, alergeny (jako jsou roztoči, pyly nebo plísně) a další mikročástice, které by jinak unikaly zpět do ovzduší. Tento filtr je klíčový pro kvalitu výstupního vzduchu z vysavače, zejména v domácnostech alergiků. Postupem času se však filtrační média ucpávají , opotřebovávají nebo mohou být mechanicky poškozena , což vede k několika problémům: Snižená sací výkonnost – vysavač má menší tah. Únik prachu a alergenů zpět do místnosti. Zvýšená hlučnost motorové jednotky. Přehřívání motoru v důsledku nedostatečného průtoku vzduchu. Výměna za nový originální filtr obnoví původní filtrační účinnost a pomůže udržet optimální chod vysavače. Specifikace a kompatibilita Filtr 17007968 je konstrukčně shodný s původním dílem výrobce. Je navržen pro přesné usazení do příslušného místa ve vysavači bez nutnosti jakýchkoliv úprav. Vzhledem k tomu, že se jedná o náhradní díl, důrazně doporučujeme ověřit kompatibilitu tohoto filtru s konkrétním modelem vašeho vysavače . Přehled kompatibilních spotřebičů naleznete níže na stránce. Orientační poznámka: HEPA filtry se obvykle vyměňují v intervalu 6–12 měsíců v závislosti na frekvenci používání vysavače a podmínkách v domácnosti.</DESCRIPTION>
     <URL>https://boschino.cz/products/17007968-hepa-filtr-do-vysavace-bosch-siemens?variant=56264320319819</URL>
     <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/17007968-hepa-filtr-do-vysavace-bosch-siemens-bbz153hf.jpg?v=1781134198</IMGURL>
