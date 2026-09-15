@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generated at 2026-09-15T04:33:49.129Z; total variants: 51988; included: 4033; skipped: 47955; min price: 499.99; availability: in stock or orderable; categoryText: metafield heureka.categorytext; salesVoucher: metafield custom.sales_voucher -->
+<!-- Generated at 2026-09-15T06:45:00.433Z; total variants: 51988; included: 4032; skipped: 47956; min price: 499.99; availability: in stock or orderable; categoryText: metafield heureka.categorytext; salesVoucher: metafield custom.sales_voucher -->
 <SHOP>
   <SHOPITEM>
     <ITEM_ID>56264259961163</ITEM_ID>
@@ -17927,21 +17927,6 @@
     <DELIVERY_DATE>7</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15465017344331</ITEMGROUP_ID>
-  </SHOPITEM>
-  <SHOPITEM>
-    <ITEM_ID>56264435564875</ITEM_ID>
-    <PRODUCTNAME>00662204 Modul do lednice</PRODUCTNAME>
-    <PRODUCT>00662204 Modul do lednice</PRODUCT>
-    <DESCRIPTION>Popis produktu Zboží s kódem 00662204 je originální náhradní díl typu modul do lednice. Tento modul slouží jako řídicí elektronika, která ovládá různé funkce lednice. Co je modul do lednice? Modul je elektronická deska, která řídí činnost kompresoru, ventilátorů, topných těles odmrazování a dalších komponent. Je to mozek lednice, který zajišťuje správnou teplotu a funkce. Kdy je potřeba výměna modulu? Výměnu modulu zvažte, pokud se u vaší lednice vyskytnou následující příznaky: Lednice přestane chladit nebo mrazit. Na displeji se objevují chybové kódy. Lednice nepřestává běžet a spotřeba energie je vysoká. Ovládací panel nereaguje. Nepravidelné cyklování kompresoru. Tyto problémy často souvisí s poruchou elektroniky. Původní modul může být poškozen vlivem stáří, přepětí v síti nebo vlhkosti. Proč zvolit originální náhradní díl? Originální modul je vyroben přímo výrobcem spotřebiče, což zaručuje: Přesnou shodu s původním dílem – rozměry, konektory a upevnění jsou identické. Dokonalou kompatibilitu s řídicím softwarem lednice. Spolehlivost a dlouhou životnost jako u původní součástky. Jednoduchou instalaci bez nutnosti úprav. Použití originálního dílu obnoví plnou funkčnost lednice a zabrání dalším poruchám. Kompatibilita Tento modul je kompatibilní s vybranými modely lednic různých značek. Před zakoupením ověřte, zda je modul vhodný pro vaši konkrétní lednici. Kompletní seznam kompatibilních spotřebičů naleznete níže na stránce v sekci „Kompatibilita“.</DESCRIPTION>
-    <URL>https://boschino.cz/products/00662204-modul-do-lednice-bosch-siemens?variant=56264435564875</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00662204-modul-do-lednice-bosch-siemens.jpg?v=1781137734</IMGURL>
-    <PRICE_VAT>4370.00</PRICE_VAT>
-    <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Příslušenství pro lednice</CATEGORYTEXT>
-    <MANUFACTURER>BSH / Bosch</MANUFACTURER>
-    <EAN>8757521653599</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
-    <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
-    <ITEMGROUP_ID>15465017508171</ITEMGROUP_ID>
   </SHOPITEM>
   <SHOPITEM>
     <ITEM_ID>56264435630411</ITEM_ID>
