@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generated at 2026-09-18T20:29:08.533Z; total variants: 51988; included: 4162; skipped: 47826; min price: 499.99; availability: in stock or orderable; categoryText: metafield heureka.categorytext; salesVoucher: metafield custom.sales_voucher -->
+<!-- Generated at 2026-09-19T04:31:37.443Z; total variants: 51988; included: 4161; skipped: 47827; min price: 499.99; availability: in stock or orderable; categoryText: metafield heureka.categorytext; salesVoucher: metafield custom.sales_voucher -->
 <SHOP>
   <SHOPITEM>
     <ITEM_ID>56264259961163</ITEM_ID>
@@ -777,7 +777,7 @@
     <DESCRIPTION>Řídící modul do chladničky – originální náhradní díl Řídící modul (také známý jako řídicí deska nebo elektronika) je srdcem moderní chladničky. Řídí veškeré funkce, od regulace teploty přes řízení kompresoru až po ovládání displeje a dalších prvků. Pokud tento modul selže, chladnička přestane správně fungovat. K čemu slouží tento náhradní díl? Tento originální náhradní díl s kódem 00640857 nahrazuje původní řídicí modul ve vaší chladničce. Je určen k výměně v případě, že ten původní je porouchaný, nefunkční nebo vykazuje závady . Jaké problémy výměna obvykle řeší? Chladnička nechladí nebo chladí nepřiměřeně. Nesprávná regulace teploty – potraviny se mrznou nebo naopak kazí. Kompresor běží nepřetržitě nebo naopak neběží vůbec. Displej nefunguje, bliká nebo zobrazuje chybové kódy. Ovládací tlačítka nereagují. Zařízení je úplně mrtvé (žádná reakce na napájení). Jedná se o originální náhradní díl , který je konstrukčně i funkčně identický s dílem použitým výrobcem spotřebiče. Zajišťuje tedy perfektní kompatibilitu a přesné usazení bez nutnosti jakýchkoli úprav . Důležité informace před objednáním Vzhledem k tomu, že se jedná o náhradní díl určený k výměně, je nezbytné ověřit kompatibilitu tohoto modulu (kód 00640857) s konkrétním modelem vaší chladničky . Před objednáním si prosím ověřte, zda tento kód odpovídá dílu uvedenému v technické dokumentaci vašeho spotřebiče nebo na původní vadné desce. Přehled kompatibilních spotřebičů naleznete níže na stránce. Instalaci by měl provádět odborně způsobilý servisní technik . Výměna elektronických součástí vyžaduje znalosti a dodržení bezpečnostních postupů.</DESCRIPTION>
     <URL>https://boschino.cz/products/00640857-ridici-modul-do-chladnicky-bosch-siemens?variant=56264272544075</URL>
     <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00640857-ridici-modul-do-chladnicky-bosch-siemens.jpg?v=1781133226</IMGURL>
-    <PRICE_VAT>2535.00</PRICE_VAT>
+    <PRICE_VAT>2789.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Příslušenství pro lednice</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8517521588853</EAN>
@@ -1993,7 +1993,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Příslušenství pro lednice</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521800290</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15464902263115</ITEMGROUP_ID>
   </SHOPITEM>
@@ -2901,7 +2901,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Pračky a sušičky | Příslušenství k pračkám a sušičkám</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8517521591952</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15464911372619</ITEMGROUP_ID>
   </SHOPITEM>
@@ -3021,7 +3021,7 @@
     <CATEGORYTEXT>Heureka.cz | Domácí a osobní spotřebiče | Úklidové spotřebiče | Příslušenství pro úklidové spotřebiče | Hubice a kartáče k vysavačům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8517521591402</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15464912060747</ITEMGROUP_ID>
   </SHOPITEM>
@@ -3667,7 +3667,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Pračky a sušičky | Příslušenství k pračkám a sušičkám</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521801020</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <SALES_VOUCHER>
 <CODE>Jaro2026</CODE>
@@ -4362,7 +4362,7 @@
     <CATEGORYTEXT>Heureka.cz | Domácí a osobní spotřebiče | Kuchyňské spotřebiče | Příslušenství ke kuchyňským spotřebičům | Příslušenství ke kuchyňským robotům | Mísy ke kuchyňským robotům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8517521592669</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15464921334091</ITEMGROUP_ID>
   </SHOPITEM>
@@ -4733,7 +4733,7 @@
     <DESCRIPTION>Sada hrnců do pečící trouby 3ks Tato sada tří hrnců představuje praktické a odolné originální příslušenství určené pro použití v běžných pečících troubách. Hrnce jsou navrženy tak, aby usnadnily přípravu pokrmů pečením a zapékáním, a jsou vhodné pro domácí i profesionální kuchyně. Vlastnosti a materiál Hrnce jsou konstruovány z kvalitního kovového materiálu, který je odolný vůči vysokým teplotám a zajišťuje rovnoměrné rozložení tepla. Jejich vnitřní povrch je obvykle opatřen nepřilnavou úpravou , která usnadňuje vaření a následné čištění. Sada obsahuje tři kusy s pravděpodobně odstupňovanými velikostmi pro různé kulinářské úkony. Použití a údržba Příslušenství je určeno pro standardní pečení v troubě. Před prvním použitím se doporučuje omýt horkou vodou s přídavkem saponátu. Během pečení nedochází k uvolňování nežádoucích látek, a hrnce jsou tak bezpečné pro kontakt s potravinami. Po použití stačí nechat vychladnout a umýt v myčce nádobí nebo ručně. Kompatibilita Jedná se o univerzální příslušenství, které by mělo být kompatibilní s většinou domácích pečících trub s klasickým vybavením. Před použitím je vhodné ověřit, zda se rozměry hrnců vejdou do vaší trouby, zejména pokud disponujete vestavěným roštem s omezenou výškou.</DESCRIPTION>
     <URL>https://boschino.cz/products/17004096-sada-hrncu-do-pecici-trouby-3ks-bosch-siemens?variant=56264311341387</URL>
     <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/17004096-sada-hrncu-do-pecici-trouby-3ks-bosch-siemens.webp?v=1781133968</IMGURL>
-    <PRICE_VAT>2525.00</PRICE_VAT>
+    <PRICE_VAT>2775.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Vaření a ohřívání | Varné desky</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>4242003867778</EAN>
@@ -5663,7 +5663,7 @@
     <DESCRIPTION>Popis produktu – Teleskopický vysuv do pečicí trouby Náhradní díl 17007173 je originální teleskopický vysouvací systém určený pro výměnu v pečicích troubách. Tento díl řeší časté problémy, jako je opotřebení, zlomení nebo nefunkčnost původního vysouvání, což se projevuje vikláním, zadrháváním nebo úplným zaseknutím roštu či plechu. Jedná se o přesnou konstrukční náhradu , která je navržena pro perfektní usazení do držáků v troubě bez nutnosti jakýchkoliv úprav. Po výměně obnoví plnou funkčnost a stabilitu vysouvání. K čemu slouží a co řeší Tento teleskopický vysuv tvoří základní mechanismus pro hladké vysouvání a zasouvání roštů a plechů v troubě. Jeho výměna je nezbytná v těchto případech: Mechanické opotřebení nebo poškození: Časem a intenzivním používáním může dojít k opotřebení kluzných drážek, deformaci nebo zlomení částí mechanismu. Nefunkčnost nebo zaseknutí: Vysuv přestane držet v poloze, propadá se nebo se zcela zablokuje, což znemožňuje bezpečné používání trouby. Hluk a viklání: Poškozený vysuv způsobuje nadměrný hluk a nestabilitu při manipulaci s nádobím, což představuje bezpečnostní riziko. Výměnou za tento originální díl obnovíte plynulý, tichý a bezpečný chod vysouvání ve vaší troubě. Důležité informace před nákupem Před objednáním si prosím ověřte kompatibilitu tohoto dílu (č. 17007173) s konkrétním modelem vaší pečicí trouby . Přehled kompatibilních spotřebičů naleznete níže na stránce. Jedná se výhradně o originální náhradní díl odpovídající specifikacím a konstrukci výrobce spotřebiče.</DESCRIPTION>
     <URL>https://boschino.cz/products/17007173-teleskopicky-vysuv-do-pecici-trouby-bosch-siemens?variant=56264317010251</URL>
     <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/17007173-teleskopicky-vysuv-do-pecici-trouby-bosch-siemens.webp?v=1781134129</IMGURL>
-    <PRICE_VAT>2770.00</PRICE_VAT>
+    <PRICE_VAT>3047.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Vaření a ohřívání | Varné desky</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>4242003912867</EAN>
@@ -6571,7 +6571,7 @@
     <DESCRIPTION>Vnitřní sklo dveří do trouby Toto vnitřní sklo dveří do trouby je originální náhradní díl s kódem 20004798 . Je určeno pro vybrané pečicí trouby Bosch, Siemens, Neff, Constructa, Balay, Junker, Pitsos a další kompatibilní spotřebiče skupiny BSH. Díl tvoří vnitřní skleněnou část dveří trouby a pomáhá oddělit pečicí prostor od vnější části dveřní sestavy. K čemu slouží a kdy je potřeba výměna? Vnitřní sklo dveří je umístěno na straně dveří směrem do pečicího prostoru. Je vystaveno vysokým teplotám, páře, mastnotě a běžnému tepelnému namáhání při pečení. Správně usazené a nepoškozené sklo je důležité pro bezpečný provoz trouby, tepelnou izolaci dveří a správné uzavření pečicího prostoru. Výměnu tohoto dílu obvykle potřebujete v následujících situacích: Původní vnitřní sklo je prasklé, rozbité, odštípnuté nebo jinak mechanicky poškozené. Sklo bylo poškozeno nárazem plechu, roštu, nádoby nebo při čištění dveří. Na skle jsou hluboké rýhy, vypálené skvrny nebo poškození po tepelném šoku. Dveře trouby netěsní správně nebo se sklo ve dveřní sestavě uvolnilo. Původní skleněný panel chybí nebo byl nahrazen nevhodným dílem. Servisní kontrola doporučuje výměnu vnitřního skla dveří s tímto kódem. Vlastnosti a výhody Tento originální náhradní díl Bosch / Siemens je vyroben tak, aby odpovídal konstrukčnímu řešení výrobce kompatibilních pečicích trub. Díky tomu: Obnovuje vnitřní skleněnou část dveří trouby. Pomáhá udržet správnou tepelnou izolaci a bezpečné oddělení pečicího prostoru. Je vhodné jako přímá náhrada za původní prasklé, rozbité nebo poškozené sklo. U kompatibilních modelů umožňuje přesné usazení bez nutnosti úprav. Borosilikátové / tepelně odolné provedení je určeno pro teplotní namáhání při provozu trouby. Provedení a použití Díl 20004798 je v katalozích náhradních dílů uváděn jako vnitřní sklo dveří trouby , vnitřní skleněný panel , vnitřní dveře trouby , sklo dveří trouby , interior door , inner door glass , door glass panel nebo Backofentür-Innenscheibe . Některé katalogy uvádějí použití pro 60cm trouby a provedení z borosilikátového skla . Související díly Při opravě dveří trouby doporučujeme zkontrolovat také stav vnějšího skla, meziskel, těsnění dveří, pantů, madla, zámku dveří, distančních prvků, šroubů a plastových nebo kovových držáků skla. Pokud je poškozený některý z navazujících dílů, nové vnitřní sklo nemusí správně držet nebo dveře nemusí správně těsnit. Doporučení k montáži Před výměnou vždy odpojte troubu od elektrické sítě a nechte ji zcela vychladnout. Se sklem manipulujte opatrně, nepokládejte jej na tvrdé hrany a při montáži jej neutahujte nadměrnou silou. Dosedací plochy dveří před montáží očistěte od mastnoty, připálenin a zbytků starého těsnění. Po montáži ověřte, že sklo sedí rovně, není v pnutí a dveře se plynule zavírají. Doporučení k používání a údržbě Vnitřní sklo čistěte až po vychladnutí trouby. Nepoužívejte ostré škrabky, agresivní chemii ani abrazivní prostředky, pokud nejsou výslovně povoleny výrobcem spotřebiče. Vyvarujte se prudkého ochlazení horkého skla studenou vodou, protože tepelný šok může způsobit jeho prasknutí. Upozornění před objednáním Před objednáním si prosím ověřte kompatibilitu tohoto vnitřního skla dveří s konkrétním modelem vaší trouby . U spotřebičů Bosch, Siemens, Neff, Constructa a Balay doporučujeme ověřovat podle označení modelu E-Nr. , protože rozměry skla, tvar hran, uchycení, počet skel ve dveřích a provedení dveřní sestavy se mohou u jednotlivých modelů lišit. Přehled kompatibilních spotřebičů naleznete níže na stránce.</DESCRIPTION>
     <URL>https://boschino.cz/products/20004798-vnitrni-sklo-do-pecici-trouby-bosch-siemens?variant=56264327758155</URL>
     <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/20004798-vnitrni-sklo-do-pecici-trouby-bosch-siemens.webp?v=1781134349</IMGURL>
-    <PRICE_VAT>3505.00</PRICE_VAT>
+    <PRICE_VAT>3856.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Vaření a ohřívání | Varné desky</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8517521596186</EAN>
@@ -7810,7 +7810,7 @@
     <DESCRIPTION>Buben s křížem do pračky Bosch Siemens 00215117 Originální buben s křížem do pračky Bosch Siemens 00215117 je kompletní náhradní sestava určená pro vybrané pračky s předním plněním. Výrobce dodává díl jako vnitřní buben společně s nosným křížem, který buben podpírá a přenáší jeho otáčení do uložení pračky. Vhodnost pro konkrétní spotřebič je nutné ověřit podle přesného E-Nr/modelového označení. K čemu slouží a kdy je potřeba výměna? Buben tvoří vnitřní prostor, do kterého se vkládá prádlo, a během praní a odstřeďování se otáčí uvnitř vany pračky. Nosný kříž na zadní straně bubnu zajišťuje jeho mechanické uložení a spojení s pohonem. Výměna celé sestavy může být potřebná při mechanickém poškození bubnu nebo kříže, například při prasknutí nosného kříže, poškození jeho uložení nebo výrazné deformaci bubnu. Vlastnosti originální náhradní díl B/S/H/, objednací kód 00215117 , kompletní vnitřní buben pračky včetně nosného kříže, výrobní označení Trommel + Kreuz , provedení B/S/H/ označené 600/900 rpm – Eurowasher , nahrazuje starší kódy 00710799 a 00236611 , určen pro vybrané pračky Bosch a Siemens, balení obsahuje 1 kompletní sestavu bubnu s křížem. Provedení a rozměry Díl 00215117 je dodáván jako kompletní sestava vnitřního bubnu s již osazeným nosným křížem . Oficiální katalog B/S/H/ uvádí provedení 600/900 rpm – Eurowasher. Přesné rozměry bubnu ani parametry hřídele nejsou v dostupných oficiálních produktových údajích uvedeny, proto nelze kompatibilitu určovat pouze podle rozměrů nebo vzhledu původního dílu. Související díly Buben s křížem pracuje uvnitř vany pračky a jeho uložení souvisí s ložisky, těsněním, řemenicí, hnacím řemenem a dalšími částmi pohonu. Při mechanickém poškození původního kříže je vhodné při opravě zkontrolovat také stav ložisek a dalších částí uložení bubnu. Konkrétní provedení těchto dílů se liší podle E-Nr pračky. Doporučení k používání a údržbě Při podezření na poškození bubnu nebo kříže doporučujeme před objednáním zkontrolovat vůli bubnu, stav ložisek a celý pohonný systém. Výměna kompletního bubnu vyžaduje rozsáhlejší demontáž pračky, proto je vhodné opravu svěřit odbornému servisu. Před zahájením práce musí být spotřebič odpojen od elektrické sítě a uzavřen přívod vody. Kompatibilita a značky Díl 00215117 je určen pro vybrané pračky Bosch a Siemens konstrukční platformy Eurowasher; použití je doloženo například u některých praček Bosch řad WFL a WAE a Siemens řad WH a WM. Nejde však o univerzální buben pro všechny pračky těchto značek. Před objednáním vždy ověřte kompatibilitu podle úplného E-Nr spotřebiče včetně indexu za lomítkem. Upozornění Originální kód 00215117 označuje kompletní buben s nosným křížem . Na trhu se mohou objevovat také samostatné neoriginální kříže uváděné jako náhrada pro tento kód; nejde však o totožný obsah originálního dílu B/S/H/. Před objednáním doporučujeme ověřit kód 00215117 podle přesného E-Nr/modelového označení pračky.</DESCRIPTION>
     <URL>https://boschino.cz/products/00215117-buben-do-pracky-bosch-siemens?variant=56264337752395</URL>
     <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00215117-buben-do-pracky-bosch-siemens.webp?v=1781134581</IMGURL>
-    <PRICE_VAT>3883.00</PRICE_VAT>
+    <PRICE_VAT>4271.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Pračky a sušičky | Příslušenství k pračkám a sušičkám</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521786853</EAN>
@@ -7855,7 +7855,7 @@
     <DESCRIPTION>Originální náhradní sklo do trouby Toto originální náhradní sklo do trouby (kód 00245457 ) je určeno k výměně poškozeného nebo rozbitého skla ve vaší troubě. Sklo v troubě je vystaveno vysokým teplotám a může dojít k jeho prasknutí či rozbití v důsledku mechanického nárazu nebo tepelného šoku. Tento originální náhradní díl přesně odpovídá konstrukci původního skla a zajišťuje bezpečný a spolehlivý provoz trouby. Kdy zvažovat výměnu skla? Výměnu skla doporučujeme v případě: Prasklého nebo rozbitého skla – ohrožuje bezpečnost a funkčnost trouby. Výrazného opotřebení nebo poškrábání , které ztěžuje kontrolu pečení. Netěsnosti dveří trouby způsobené poškozeným sklem. Poškozené sklo v troubě může vést k úniku tepla , což snižuje účinnost pečení a zvyšuje spotřebu energie. Navíc může dojít k bezpečnostnímu riziku , pokud jsou praskliny v blízkosti topných těles. Včasná výměna skla je tedy důležitá pro správnou funkci trouby i vaši bezpečnost. Vlastnosti náhradního dílu Toto sklo je originální náhradní díl vyrobený podle specifikací výrobce trouby. Je navrženo pro přesné usazení do dveří nebo vnitřního prostoru trouby (podle modelu) bez nutnosti jakýchkoliv úprav. Zachovává si všechny vlastnosti původního skla, včetně odolnosti vůči vysokým teplotám a tepelným rozdílům. Povrch skla je hladký a snadno se čistí. Důležité informace před objednáním Před objednáním si prosím ověřte, zda je tento díl kompatibilní s vaším spotřebičem. Přehled kompatibilních spotřebičů naleznete níže na stránce. Pokud si nejste jisti, doporučujeme vyhledat přesný model vaší trouby v manuálu nebo na typovém štítku. Rozměry tohoto skla jsou orientačně podobné původnímu dílu, pro přesné údaje doporučujeme konzultovat technickou dokumentaci vašeho spotřebiče.</DESCRIPTION>
     <URL>https://boschino.cz/products/00245457-sklo-do-trouby-bosch-siemens?variant=56264337916235</URL>
     <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00245457-sklo-do-trouby-bosch-siemens.webp?v=1781134581</IMGURL>
-    <PRICE_VAT>2006.00</PRICE_VAT>
+    <PRICE_VAT>2207.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Vaření a ohřívání | Varné desky</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521796241</EAN>
@@ -8062,7 +8062,7 @@
     <DESCRIPTION>Originální náhradní díl: Topná zóna (plotýnka) do sporáku Kód dílu: 00436657 . Jedná se o originální náhradní topnou zónu určenou pro vestavné a samostatné elektrické sporáky. Tento díl řeší situaci, kdy původní plotýnka přestala fungovat, je mechanicky poškozená (např. prasklá), nadměrně opotřebovaná nebo nehřeje správně. Zóna je konstrukčně totožná s originálem od výrobce vašeho spotřebiče. Je navržena pro přímou výměnu starého, nefunkčního dílu. Po instalaci zajišťuje identické tepelné vlastnosti a rozložení tepla jako původní součástka. Kdy uvažovat o výměně topné zóny? Výměnu tohoto dílu obvykle potřebujete, pokud plotýnka vykazuje jeden z těchto problémů: Nerozvíří se nebo hřeje pouze částečně. Je viditelně prasklá nebo má jiné mechanické poškození. Při činnosti jiskří, praská nebo vydává neobvyklý zápach. Úplně nefunguje, i když je sporák zapnutý a ostatní zóny pracují. Před objednáním ověřte kompatibilitu této zóny s konkrétním modelem vašeho sporáku . Přehled kompatibilních spotřebičů naleznete níže na stránce. Vlastnosti a instalace Náhradní zóna 00436657 je vyrobena pro přesné usazení do určeného otvoru v varné desce. Montáž by měla být přímá, bez nutnosti jakýchkoliv úprav. Pro bezpečnou a správnou instalaci doporučujeme, aby výměnu prováděl odborný servisní technik, který zajistí i připojení elektrických konektorů. Po výměně zóna plně obnoví funkčnost vašeho sporáku. Jedná se o originální kvalitu , která garantuje dlouhodobou spolehlivost a správný výkon. Přehled kompatibilních spotřebičů, pro které je tato topná zóna určena, naleznete v sekci pod tímto popisem.</DESCRIPTION>
     <URL>https://boschino.cz/products/00436657-zona-do-sporaku-bosch-siemens?variant=56264340341067</URL>
     <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00436657-zona-do-sporaku-bosch-siemens.webp?v=1781134642</IMGURL>
-    <PRICE_VAT>3199.00</PRICE_VAT>
+    <PRICE_VAT>3519.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Vaření a ohřívání | Varné desky</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521788444</EAN>
@@ -8231,7 +8231,7 @@
     <DESCRIPTION>Originální náhradní díl: Spínač do sporáku Popis a funkce dílu Jedná se o originální náhradní díl s kódem 00496808 . Tento spínač je klíčovou ovládací součástí elektrických sporáků a vařičů, která slouží k zapínání a vypínání jednotlivých plotýnek, regulaci výkonu nebo ovládání trouby. Přesná funkce závisí na konkrétním modelu spotřebiče. Kdy je potřeba výměna spínače? Tento náhradní díl se pořizuje při poruše původní součástky. Mezi typické příznaky patří, že plotýnka nebo trouba přestane fungovat , nereaguje na stisk, zůstává trvale zapnutá či vypnutá, regulace výkonu nefunguje správně nebo je spínač mechanicky poškozený (ulomený knoflík, prasklý kryt). Spínač se také může vyměňovat v rámci opravy po opotřebení kontaktu, což se projevuje jiskřením, přerušovaným chodem nebo zhoršenou odezvou. Vlastnosti a montáž Tento spínač je určen k přímé výměně původního, nefunkčního dílu. Je navržen dle konstrukčního řešení výrobce, což zaručuje přesné usazení do příslušného otvoru na panelu sporáku bez nutnosti jakýchkoliv úprav. Zajišťuje tak plnou funkčnost a bezpečný provoz spotřebiče po opravě. Důležité upozornění před koupí Vzhledem k velkému množství modelů sporáků je nezbytné ověřit kompatibilitu tohoto spínače s vaším konkrétním spotřebičem. Přehled kompatibilních spotřebičů naleznete níže na stránce. Před zahájením montáže vždy odpojte spotřebič od elektrické sítě. Pokud si nejste jisti postupem, doporučujeme svěřit instalaci odbornému servisu.</DESCRIPTION>
     <URL>https://boschino.cz/products/00496808-spinac-do-sporaku-bosch-siemens?variant=56264341356875</URL>
     <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00496808-spinac-do-sporaku-bosch-siemens.webp?v=1781134672</IMGURL>
-    <PRICE_VAT>2011.00</PRICE_VAT>
+    <PRICE_VAT>2212.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Vaření a ohřívání | Varné desky</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521782626</EAN>
@@ -8497,21 +8497,6 @@
     <DELIVERY_DATE>7</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15464950923595</ITEMGROUP_ID>
-  </SHOPITEM>
-  <SHOPITEM>
-    <ITEM_ID>56264348074315</ITEM_ID>
-    <PRODUCTNAME>00642676 Modul do mikrovlnné trouby</PRODUCTNAME>
-    <PRODUCT>00642676 Modul do mikrovlnné trouby</PRODUCT>
-    <DESCRIPTION>Modul do mikrovlnné trouby – originální náhradní díl Tento originální náhradní díl s kódem 00642676 je elektronický modul určený pro opravu mikrovlnných trub různých značek. Jedná se o komponentu, která přímo nahrazuje původní, opotřebovaný nebo defektní modul ve vašem spotřebiči. Modul se obvykle vyměňuje v okamžiku, kdy mikrovlnná trouba přestane správně fungovat. Mezi typické problémy patří: Trouba se nespustí a nereaguje na ovládání. Nedochází k ohřevu potravin, přestože se spotřebič zdánlivě zapne. Na displeji se zobrazují chybové kódy nebo symboly. Spotřebič se sám vypíná, nepravidelně pracuje nebo vydává neobvyklé zvuky. Výměna tohoto modulu je standardním servisním zásahem, který obnoví plnou funkčnost mikrovlnné trouby. Díl je vyroben dle původních specifikací , což zajišťuje jeho přesné mechanické i elektrické usazení do určeného místa bez nutnosti dodatečných úprav. Před zakoupením důrazně doporučujeme ověřit kompatibilitu tohoto modulu s konkrétním modelem vaší mikrovlnné trouby . Přehled kompatibilních spotřebičů naleznete níže na stránce.</DESCRIPTION>
-    <URL>https://boschino.cz/products/00642676-modul-do-mikrovlnne-trouby-bosch-siemens?variant=56264348074315</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00642676-modul-do-mikrovlnne-trouby-bosch-siemens.jpg?v=1781134764</IMGURL>
-    <PRICE_VAT>3791.00</PRICE_VAT>
-    <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Vaření a ohřívání | Mikrovlnné trouby</CATEGORYTEXT>
-    <MANUFACTURER>BSH / Bosch</MANUFACTURER>
-    <EAN>8757521783517</EAN>
-    <DELIVERY_DATE>0</DELIVERY_DATE>
-    <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
-    <ITEMGROUP_ID>15464950989131</ITEMGROUP_ID>
   </SHOPITEM>
   <SHOPITEM>
     <ITEM_ID>56264348107083</ITEM_ID>
@@ -10435,7 +10420,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Náhradní díly k velkým spotřebičům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521786501</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15464961147211</ITEMGROUP_ID>
   </SHOPITEM>
@@ -10642,7 +10627,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Vaření a ohřívání | Mikrovlnné trouby</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>875752171663</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15464962294091</ITEMGROUP_ID>
   </SHOPITEM>
@@ -10845,7 +10830,7 @@
     <CATEGORYTEXT>Heureka.cz | Dům a zahrada | Úklid | Vysavače | Příslušenství k vysavačům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521781285</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15464962851147</ITEMGROUP_ID>
   </SHOPITEM>
@@ -10977,7 +10962,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Příslušenství pro trouby</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521791956</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15464963604811</ITEMGROUP_ID>
   </SHOPITEM>
@@ -10988,7 +10973,7 @@
     <DESCRIPTION>Nádoba Zeolith s topením do myčky Bosch Siemens 12041850 Originální opravná sada nádoby sušicího systému Zeolith Bosch Siemens 12041850 je náhradní sestava určená pro vybrané myčky nádobí vybavené technologií sušení Zeolith. Sada zahrnuje nádobu systému Zeolith 3, topnou část, připojovací hrdlo, matici a krytku. Vhodnost pro konkrétní myčku je nutné ověřit podle úplného E-Nr/modelového označení spotřebiče. K čemu slouží a kdy je potřeba výměna? Nádoba je součástí sušicího systému Zeolith. Při sušení je vlhký vzduch z prostoru myčky veden do nádoby se zeolitem, kde minerál absorbuje vlhkost a uvolňuje tepelnou energii. Při následujícím mycím cyklu se zeolit pomocí tepla regeneruje a připravuje pro další sušení. Výměna sestavy přichází v úvahu při potvrzené závadě nádoby, její topné části nebo dalších součástí tohoto systému. Vlastnosti originální náhradní sestava B/S/H/, objednací kód 12041850 , nádoba sušicího systému Zeolith 3, určena pro vybrané myčky nádobí se sušením Zeolith, sada zahrnuje topnou část, připojovací hrdlo, matici a krytku, náhrada za starší díly 12033242 a 12009783 , balení obsahuje 1 kompletní opravnou sadu. Provedení a rozměry Jde o kompletní opravnou sestavu nádoby systému Zeolith 3 s integrovanými a přiloženými montážními částmi podle specifikace výrobce. Přesné rozměry, materiál nádoby ani elektrické parametry topné části nejsou v ověřených veřejných produktových údajích Bosch a Siemens uvedeny, proto je nedoporučujeme používat k určování kompatibility. Související díly Díl 12041850 je oficiálně veden jako náhrada za starší objednací čísla 12033242 a 12009783 . Výrobce jej dodává jako opravnou sadu obsahující nádobu, topnou část, hrdlo, matici a krytku. Další části systému Zeolith a vzduchového vedení se mohou lišit podle konkrétního provedení myčky. Doporučení k používání a údržbě Systém Zeolith není běžnou uživatelsky servisovatelnou částí myčky. Pokud spotřebič vykazuje problémy se sušením nebo diagnostika ukazuje závadu související se systémem Zeolith, je vhodné nejprve ověřit skutečnou příčinu poruchy. Samotné zhoršení výsledků sušení nemusí automaticky znamenat závadu této nádoby. Kompatibilita a značky Díl 12041850 je v oficiálních katalozích veden pro vybrané myčky nádobí Bosch a Siemens vybavené odpovídající generací systému Zeolith. Nejde o univerzální nádobu pro všechny myčky se sušením Zeolith. Před objednáním vždy ověřte kompatibilitu podle úplného E-Nr spotřebiče včetně indexu za lomítkem. Upozornění Sestava obsahuje elektrickou topnou část a nachází se uvnitř spotřebiče. Před jakýmkoli zásahem musí být myčka odpojena od elektrické sítě. Výměnu doporučujeme svěřit odbornému servisu, který zároveň ověří příčinu závady a správnost dílu pro konkrétní E-Nr. Podobný vzhled nádoby není dostatečným potvrzením kompatibility.</DESCRIPTION>
     <URL>https://boschino.cz/products/12041850-teleso-do-mycky-nadobi-bosch-siemens?variant=56264365539659</URL>
     <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/12041850-teleso-do-mycky-nadobi-bosch-siemens.jpg?v=1781135263</IMGURL>
-    <PRICE_VAT>3846.00</PRICE_VAT>
+    <PRICE_VAT>4231.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Náhradní díly k velkým spotřebičům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8517521593741</EAN>
@@ -16385,7 +16370,7 @@
     <DESCRIPTION>Náhradní modul pro lednici 12022941 Tento originální náhradní díl s kódem 12022941 je elektronický modul určený pro opravu domácích lednic. Zakoupíte jej typicky v situaci, kdy původní modul v lednici přestal fungovat , vykazuje poruchu nebo způsobuje nefunkčnost celého spotřebiče. Řídicí modul je klíčovou součástí moderních lednic. Řídí funkce jako regulace teploty, řízení odmrazovacího cyklu, ovládání displeje nebo ventilátoru. K jeho poruše může dojít v důsledku přepětí v elektrické síti, opotřebení součástek, vlhkosti nebo mechanického poškození. Jaké problémy modul č. 12022941 obvykle řeší? Výměna tohoto modulu je nutná, pokud se u vaší lednice vyskytne některý z těchto problémů: Lednice nemrazí nebo naopak mrazí příliš. Na displeji se zobrazuje chybový kód . Spotřebič nehustí nebo naopak běží nepřetržitě. Ovládací panel nereaguje. Lednice vydává nepřirozené zvuky (cvakání, pípání). Nefungující odmrazovací cyklus vedoucí k nadměrnému namrzání. Modul 12022941 je vyroben jako přesná kopie původního dílu. Je navržen tak, aby odpovídal konstrukčnímu řešení výrobce a umožňoval přímou výměnu bez nutnosti dalších úprav nebo pájení. Po instalaci by měl obnovit plnou funkčnost lednice podle specifikací původního výrobce. Důležité informace před koupí Protože se jedná o náhradní díl , je před nákupem naprosto zásadní ověřit jeho kompatibilitu s vaším konkrétním modelem lednice. Přehled kompatibilních spotřebičů naleznete níže na stránce. Ujistěte se, že kód vašeho původního dílu nebo model lednice odpovídá. Instalaci elektronického modulu doporučujeme svěřit autorizovanému servisnímu technikovi . Jedná se o citlivou součástku, jejíž nesprávná montáž může vést k dalšímu poškození spotřebiče.</DESCRIPTION>
     <URL>https://boschino.cz/products/12022941-modul-do-lednice-bosch-siemens?variant=56264406368587</URL>
     <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/12022941-modul-do-lednice-bosch-siemens.jpg?v=1781136708</IMGURL>
-    <PRICE_VAT>1634.00</PRICE_VAT>
+    <PRICE_VAT>1797.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Příslušenství pro lednice</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521649929</EAN>
@@ -16664,7 +16649,7 @@
     <DESCRIPTION>NTC teplotní čidlo s omezovačem do myčky Bosch Siemens 00165281 Originální NTC teplotní čidlo s bezpečnostním omezovačem Bosch Siemens 00165281 je elektrický náhradní díl určený pro vybrané myčky nádobí. Čidlo sleduje teplotu vody v mycím systému a předává údaj řídicí elektronice; součástí provedení je také vysokoteplotní bezpečnostní omezovač. Vhodnost pro konkrétní spotřebič je nutné ověřit podle přesného E-Nr/modelového označení. K čemu slouží a kdy je potřeba výměna? NTC senzor mění svůj elektrický odpor podle teploty a umožňuje elektronice myčky vyhodnocovat teplotu vody během jednotlivých částí programu. U tohoto dílu je teplotní čidlo kombinováno s funkcí vysokoteplotního omezení. Výměna může být potřebná při diagnostikované chybě měření teploty, nesprávném ohřevu vody nebo při závadě bezpečnostní části senzoru. Protože podobné projevy mohou způsobovat také topné těleso, kabeláž nebo řídicí elektronika, doporučujeme před výměnou odbornou diagnostiku. Vlastnosti originální náhradní díl B/S/H/, objednací kód 00165281 , alternativní označení 165281, NTC teplotní čidlo do myčky nádobí, kombinované provedení NTC + vysokoteplotní omezovač Hi-Limit, katalogové teplotní označení přibližně 55 / 85 °C , bezpečnostní část označovaná NC85°C, celkové rozměry přibližně 50 × 28 × 38 mm , nahrazuje starší kód 00189319 , určeno pro vybrané myčky Bosch a Siemens, balení obsahuje 1 kus. Provedení a rozměry Díl je tvořen NTC teplotním senzorem kombinovaným s bezpečnostním teplotním omezovačem . Odborné katalogy uvádějí celkové rozměry přibližně 50 × 28 × 38 mm a montážní průměr kolem 23–23,5 mm. Na některých provedeních se objevuje označení NC85°C Typ 956 / 5600049491 . Pro výběr je však rozhodující servisní kód 00165281 a přesné E-Nr spotřebiče. Související díly Čidlo spolupracuje s topným systémem a řídicí elektronikou myčky. Podle konstrukce konkrétního spotřebiče je osazeno v oblasti jímky nebo topného systému a elektricky propojeno s řídicím modulem. Díl 00165281 nahrazuje starší originální objednací kód 00189319 . Doporučení k používání a údržbě Teplotní čidlo nevyžaduje běžnou uživatelskou údržbu. Při podezření na jeho závadu je vhodné ověřit elektrické hodnoty senzoru, kabeláž a související topný okruh. Před jakoukoli manipulací musí být myčka odpojena od elektrické sítě a uzavřen přívod vody. Výměnu elektrického senzoru doporučujeme svěřit odbornému servisu. Kompatibilita a značky Díl 00165281 je určen pro vybrané myčky nádobí Bosch a Siemens a stejné originální provedení je doloženo také u některých myček Neff a dalších značek skupiny B/S/H/. Nejde však o univerzální teplotní čidlo pro všechny myčky těchto značek. Před objednáním vždy ověřte kompatibilitu podle úplného E-Nr spotřebiče včetně indexu za lomítkem. Upozornění Podobný vzhled, stejné teplotní označení nebo shodný montážní průměr nejsou dostatečným potvrzením kompatibility. U NTC senzorů se mohou lišit odporové charakteristiky, bezpečnostní teplota i elektrické zapojení. Před objednáním doporučujeme ověřit kód 00165281 podle přesného E-Nr/modelového označení myčky.</DESCRIPTION>
     <URL>https://boschino.cz/products/00165281-senzor-do-mycky-nadobi-bosch-siemens?variant=56264408760651</URL>
     <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00165281-senzor-do-mycky-nadobi-bosch-siemens.webp?v=1781136833</IMGURL>
-    <PRICE_VAT>1479.00</PRICE_VAT>
+    <PRICE_VAT>1627.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Náhradní díly k velkým spotřebičům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521671951</EAN>
@@ -18982,7 +18967,7 @@
     <DESCRIPTION>Originální náhradní police do lednice 00670907 Tato originální náhradní police (kód 00670907 ) je určena k výměně poškozené, zlomené nebo jinak nefunkční police ve vaší lednici. K nákupu tohoto dílu obvykle dochází v momentě, kdy původní komponenta přestane plnit svou funkci kvůli opotřebení, mechanickému poškození nebo havárii. K čemu police slouží a proč ji potřebujete vyměnit Police v lednici jsou klíčové pro organizaci a uskladnění potravin. Původní police mohou v průběhu let prasknout, prohnout se pod tíhou, poškodit se korozí nebo jednoduše přestat držet v držácích. Výsledkem je nejen nepořádek, ale i potenciální riziko rozlití a znehodnocení potravin. Tento originální náhradní díl je konstrukčním řešením výrobce, které přesně odpovídá původní součástce a umožňuje její bezproblémovou výměnu. Vlastnosti a výhody Police je navržena pro přesné usazení do původního místa bez nutnosti jakýchkoliv úprav nebo dodatečného upevňování. Je vyrobena z odolného a snadno čistitelného materiálu, který odolává vlhkosti a nízkým teplotám uvnitř chladničky. Instalace je intuitivní a zvládne ji běžný uživatel bez odborných znalostí. Důležité upozornění před nákupem Protože se jedná o náhradní díl , je naprosto zásadní ověřit kompatibilitu této police s konkrétním modelem vaší lednice . Doporučujeme vám pečlivě zkontrolovat, zda je kód 00670907 uveden v seznamu kompatibilních dílů pro váš spotřebič. Přehled kompatibilních spotřebičů naleznete níže na stránce.</DESCRIPTION>
     <URL>https://boschino.cz/products/00670907-police-do-lednice-bosch-siemens?variant=56264437367115</URL>
     <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00670907-police-do-lednice-bosch-siemens.webp?v=1781137767</IMGURL>
-    <PRICE_VAT>1190.00</PRICE_VAT>
+    <PRICE_VAT>1280.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Příslušenství pro lednice</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521651717</EAN>
@@ -21204,7 +21189,7 @@
     <DESCRIPTION>Originální náhradní sklo do varné desky K čemu slouží toto sklo? Jedná se o originální náhradní díl s kódem 00686183 , který nahrazuje původní skleněnou krycí desku vaší varné desky. Zákazníci jej typicky nakupují v okamžiku, kdy je původní sklo rozbité, prasklé nebo výrazně poškozené mechanickým nárazem, pádem těžkého předmětu nebo v důsledku tepelného šoku. Poškozené sklo může představovat bezpečnostní riziko a znemožňovat další používání varné desky. Klíčové vlastnosti náhradního dílu Toto sklo je vyrobeno jako přímá náhrada za původní komponent. Je navrženo tak, aby přesně odpovídalo konstrukčnímu řešení konkrétních modelů varných desek, garantuje tedy správné usazení a funkčnost. Po výměně obnoví bezpečný a estetický vzhled vašeho spotřebiče. Důrazně doporučujeme před zakoupením ověřit kompatibilitu tohoto dílu s konkrétním modelem vaší varné desky . Přehlédnutí kompatibilních spotřebičů naleznete níže na stránce. Obecný postup při výměně skla Výměnu skla varné desky doporučujeme svěřit autorizovanému servisnímu technikovi . Jedná se o delikátní operaci vyžadující odborné nářadí, znalost konstrukce a dodržení bezpečnostních postupů (odpojení od elektřiny). Následné utěsnění a kalibrace jsou klíčové pro bezpečný a dlouhodobý provoz. Naše obchodní podmínky</DESCRIPTION>
     <URL>https://boschino.cz/products/00686183-sklo-do-varne-desky-bosch-siemens?variant=56264463450443</URL>
     <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00686183-sklo-do-varne-desky-bosch-siemens.jpg?v=1781138395</IMGURL>
-    <PRICE_VAT>9259.00</PRICE_VAT>
+    <PRICE_VAT>10185.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Vaření a ohřívání | Varné desky</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521668708</EAN>
@@ -21733,7 +21718,7 @@
     <DESCRIPTION>11015129 Rošt do varné desky Originální náhradní rošt určený pro varné desky. Tento díl slouží k výměně původního roštu, který mohl být poškozen korozí, mechanickým namáháním nebo opotřebením. K čemu slouží rošt do varné desky? Rošt je nosná konstrukce, na kterou se přímo umisťují hrnce a pánve během vaření. S časem se může opotřebovat , pokroutit vlivem vysokých teplot nebo zrezivět v důsledku vlhkosti a častého mytí. To může vést k nestabilitě nádobí a zhoršenému přenosu tepla. Vlastnosti náhradního roštu Jedná se o originální náhradní díl (kód 11015129 ), který je konstrukčně shodný s původním dílem výrobce varné desky. Je navržen pro přesné usazení bez nutnosti jakýchkoliv úprav. Jeho montáž by měla být přímou výměnou za starý, nefunkční rošt. Kdy zvážit výměnu roštu? Výměnu roštu doporučujeme, pokud je původní díl pokřivený , uvolněný , rezavý nebo pokud se na něm vyskytují praskliny. Tyto vady mohou ohrozit bezpečnost a efektivitu vaření. Před objednáním si prosím ověřte, zda je tento rošt kompatibilní s vaší varnou deskou. Přehled kompatibilních spotřebičů naleznete níže na stránce.</DESCRIPTION>
     <URL>https://boschino.cz/products/11015129-rost-do-varne-desky-bosch-siemens?variant=56264468889931</URL>
     <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/11015129-rost-do-varne-desky-bosch-siemens.jpg?v=1781138606</IMGURL>
-    <PRICE_VAT>2021.00</PRICE_VAT>
+    <PRICE_VAT>2223.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Vaření a ohřívání | Varné desky</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521660108</EAN>
@@ -22541,7 +22526,7 @@
     <DESCRIPTION>Manžeta do pračky – originální náhradní díl Manžeta do pračky, známá také jako těsnění dvířek, je klíčový náhradní díl , který zajišťuje, že během praní nedochází k úniku vody. Jedná se o originální náhradní díl s kódem 23002447 , určený k výměně opotřebované nebo poškozené manžety ve vaší pračce. Kdy je potřeba vyměnit manžetu? Manžeta se postupem času opotřebovává a může prasknout, zkřehnout nebo ztratit pružnost. Mezi typické příznaky patří: Protečení vody z okolí dvířek během praní Vlhkost nebo kaluže pod pračkou Viditelné praskliny nebo trhliny na gumovém těsnění Ztráta těsnosti při zavření dvířek Pokud pozorujete některý z těchto problémů, je na čase vyměnit manžetu za novou, aby nedošlo k dalšímu poškození pračky nebo okolí. Proč zvolit originální náhradní díl? Tato manžeta je originálním náhradním dílem , což znamená, že byla vyrobena podle stejných specifikací jako původní součást ve vaší pračce. Díky tomu zaručuje: Dokonalé těsnění a přesné usazení bez nutnosti úprav Kompatibilitu s konstrukcí vašeho spotřebiče Dlouhou životnost a odolnost vůči pracím prostředkům a teplotám Výměnu manžety doporučujeme svěřit kvalifikovanému servisnímu technikovi , který zajistí správnou instalaci a funkčnost. Ověření kompatibility Před objednáním si prosím ověřte, zda je tento díl kompatibilní s vaším modelem pračky. Přehled kompatibilních spotřebičů naleznete níže na stránce.</DESCRIPTION>
     <URL>https://boschino.cz/products/23002447-manzeta-do-pracky-bosch-siemens?variant=56264475705675</URL>
     <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/23002447-manzeta-do-pracky-bosch-siemens.webp?v=1781138847</IMGURL>
-    <PRICE_VAT>1008.00</PRICE_VAT>
+    <PRICE_VAT>1109.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Pračky a sušičky | Příslušenství k pračkám a sušičkám</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521575709</EAN>
@@ -24920,7 +24905,7 @@
     <DESCRIPTION>Popis produktu Toto originální náhradní madlo (kód 00602024 ) je určeno k výměně poškozeného, opotřebovaného nebo nefunkčního madla dvířek myčky nádobí. Jedná se o přesnou náhradu původního dílu, která obnoví plnohodnotnou funkci otevírání a zavírání dvířek. K čemu slouží a kdy jej potřebujete? Madlo je základním prvkem pro manipulaci s dvířky myčky. Jeho výměnu zvažujte v těchto případech: Madlo je zlomené, prasklé nebo má viditelné mechanické poškození . Je uvolněné, viklá se nebo nedrží pevně v úchopech. Původní madlo je opotřebované, korodované nebo poškozené vlivem častého používání a vlhkosti. Funkce otevírání je ztížená, ztuhlá nebo neplynulá . Vlastnosti originálního náhradního dílu Toto madlo je vyrobeno tak, aby přesně odpovídalo konstrukčnímu řešení výrobce myčky. Zaručuje: Dokonalé usazení bez nutnosti dodatečných úprav nebo broušení. Identický tvar a rozměry jako původní díl. Odolnost vůči vlhkosti a teplotním výkyvům v prostředí myčky. Snadnou výměnu bez poškození dvířek nebo sousedních komponent. Kompatibilita a montáž Tento náhradní díl je kompatibilní s řadou modelů myček nádobí. Před zakoupením důrazně doporučujeme ověřit kompatibilitu s konkrétním modelem vašeho spotřebiče. Přehled kompatibilních spotřebičů naleznete níže na stránce. Montáž je zpravidla jednoduchá a zvládnete ji s běžným nářadím. Postupujte podle návodu k obsluze vaší myčky. Přehled kompatibilních spotřebičů naleznete níže na stránce.</DESCRIPTION>
     <URL>https://boschino.cz/products/00602024-madlo-do-mycky-nadobi-bosch-siemens?variant=56264512536907</URL>
     <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00602024-madlo-do-mycky-nadobi-bosch-siemens.webp?v=1781139624</IMGURL>
-    <PRICE_VAT>880.00</PRICE_VAT>
+    <PRICE_VAT>968.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Náhradní díly k velkým spotřebičům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521641909</EAN>
@@ -26734,7 +26719,7 @@
     <DESCRIPTION>Zásobník do sušičky prádla – originální příslušenství Zásobník do sušičky prádla je důležitým příslušenstvím, které zajišťuje efektivní a bezpečný provoz sušičky. Slouží k zachycování vláken, chlupů a dalších nečistot, které se uvolňují z prádla během sušení. Pravidelná kontrola a čištění zásobníku je nezbytná pro udržení optimálního výkonu sušičky a prevenci možných poruch. Funkce a výhody Originální příslušenství : Tento zásobník je vyroben jako originální náhradní díl, který přesně odpovídá požadavkům výrobce sušičky. Zachytávání nečistot : Efektivně zachycuje vlákna a prach, čímž brání ucpávání ventilace a zlepšuje cirkulaci vzduchu. Jednoduchá údržba : Zásobník je snadno vyjímatelný a čistitelný, což usnadňuje pravidelnou údržbu. Dlouhá životnost : Vyroben z kvalitních materiálů odolných vůči opotřebení. Použití a údržba Pro zajištění správné funkce sušičky doporučujeme zásobník pravidelně kontrolovat a čistit po každém cyklu sušení. Při delším používání se může zásobník zanášet, což snižuje účinnost sušení a zvyšuje spotřebu energie. V případě poškození nebo nadměrného opotřebení je vhodné zásobník vyměnit za nový. Kdy zásobník vyměnit? Zásobník je vhodné vyměnit v případě, že je poškozen (například prasklý) nebo když i po vyčištění nedosahuje sušička původní účinnosti. Opotřebovaný zásobník může způsobit nedostatečné odvádění vlhkosti a vést k přehřívání sušičky. Kompatibilita Tento zásobník je kompatibilní s vybranými modely sušiček prádla. Před objednáním doporučujeme ověřit, zda je tento díl vhodný pro vaši sušičku. Přehled kompatibilních spotřebičů naleznete níže na stránce. Výrobní čísla pro vyhledávání: [&quot;9000008642&quot;]</DESCRIPTION>
     <URL>https://boschino.cz/products/00673226-zasobnik-do-susicky-pradla-bosch-siemens?variant=56264541765963</URL>
     <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00673226-zasobnik-do-susicky-pradla-bosch-siemens.webp?v=1781140425</IMGURL>
-    <PRICE_VAT>950.00</PRICE_VAT>
+    <PRICE_VAT>1045.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Pračky a sušičky | Příslušenství k pračkám a sušičkám</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521630415</EAN>
@@ -27988,7 +27973,7 @@
     <DESCRIPTION>Motor do kuchyňského robotu Originální náhradní díl motor s kódem 00747772 je určen pro opravu kuchyňských robotů. Tento díl se prodává převážně v situacích, kdy původní motor přestal fungovat, je hlučný, má snížený výkon nebo se zcela porouchal. K čemu slouží tento náhradní díl? Motor je srdcem každého kuchyňského robotu. K jeho výměně se přistupuje při typických poruchách, jako jsou: Úplné selhání – robot nereaguje, nefunguje žádný program. Nadměrný hluk, vibrace nebo drhnutí – opotřebená ložiska nebo poškozený rotor. Slabý výkon – motor se točí, ale nemá dostatečnou sílu k hnětení těsta. Přehřívání – motor se po krátké činnosti vypne z důvodu tepelné ochrany. Výměnou tohoto originálního dílu obnovíte plnou funkčnost vašeho spotřebiče. Originální kvalita pro spolehlivý provoz Jedná se o originální náhradní díl , který odpovídá konstrukčnímu řešení výrobce. Zajišťuje tak dokonalé mechanické i elektrické zapojení, stejné otáčky a točivý moment jako původní komponent. Díky tomu nedochází k nežádoucímu zatížení převodovky nebo elektroniky robotu. Snadná a přesná instalace Motor je navržen pro přímou výměnu původního dílu. Při odborné montáži nevyžaduje žádné úpravy a přesně zapadne na určené místo. Pro bezpečnou a správnou instalaci doporučujeme svěřit výměnu autorizovanému servisu. Ověření kompatibility je klíčové Před objednáním si prosím ověřte, že je tento motor kompatibilní s konkrétním modelem vašeho kuchyňského robotu. Přehled kompatibilních spotřebičů naleznete níže na stránce. Ujistěte se, že kód vašeho původního dílu nebo modelový řetězec spotřebiče souhlasí.</DESCRIPTION>
     <URL>https://boschino.cz/products/00747772-motor-do-kuchynskeho-robotu-bosch-siemens?variant=56264550842699</URL>
     <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00747772-motor-do-kuchynskeho-robotu-bosch-siemens.jpg?v=1781140772</IMGURL>
-    <PRICE_VAT>2560.00</PRICE_VAT>
+    <PRICE_VAT>2816.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Domácí a osobní spotřebiče | Kuchyňské spotřebiče | Příslušenství ke kuchyňským spotřebičům | Příslušenství ke kuchyňským robotům | Ostatní příslušenství ke kuchyňským robotům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521662782</EAN>
@@ -32057,7 +32042,7 @@
     <DESCRIPTION>Náhradní díl: Invertorová technologie pro lednice Náhradní díl kód 12040194 je originální invertorový modul určený pro opravu moderních lednic. Tento elektronický komponent řídí činnost kompresoru a zajišťuje efektivní a úsporný chod chladicího systému. Kdy je potřeba výměna invertorového modulu? K výměně tohoto dílu přistupujeme v případě, že lednice vykazuje známky poruchy, jako jsou: nedostatečné chlazení nebo naopak přemrzání, kompresor běží nepřetržitě bez cyklování, spotřebič nevydává žádné známky činnosti (kompresor nespíná), zvýšená hlučnost – neobvyklé hučení, klepání nebo bzučení, náhodné vypínání nebo chybové hlášení na displeji. Tyto příznaky často souvisejí s poruchou invertorové elektroniky , která přestala správně regulovat otáčky kompresoru. Výhody originálního náhradního dílu Použitím originálního náhradního dílu získáte záruku, že: Jak invertorová technologie funguje? Invertorový modul mění střídavý proud na stejnosměrný a následně generuje proměnlivé střídavé napětí, které umožňuje plynule regulovat otáčky kompresoru. Na rozdíl od klasického kompresoru, který se vypíná a zapíná, invertorový systém udržuje stálý chod na nízkých otáčkách, čímž šetří energii a prodlužuje životnost kompresoru. Časté příčiny poruchy K selhání invertorového modulu obvykle dochází v důsledku: přepětí v síti (např. po bouřce), dlouhodobého provozu v náročných podmínkách (vysoká okolní teplota, nedostatečné větrání), opotřebení elektronických součástek (kondenzátorů, tranzistorů) po letech provozu, vniknutí vlhkosti nebo prachu do prostoru modulu. Instalace a kompatibilita Výměnu invertorového modulu by měl provádět kvalifikovaný servisní technik , protože je nutné dodržet bezpečnostní postupy a správné zapojení. Před zakoupením je nezbytné ověřit kompatibilitu dílu s vaším modelem lednice. Přehled kompatibilních spotřebičů naleznete níže na stránce. Tento náhradní díl je kompatibilní s vybranými modely lednic od různých výrobců. Pro přesné určení, zda je vhodný pro váš spotřebič, použijte tabulku kompatibility umístěnou pod tímto popisem.</DESCRIPTION>
     <URL>https://boschino.cz/products/12040194-technologie-inverter-do-lednice-bosch-siemens?variant=56264602517835</URL>
     <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/12040194-technologie-inverter-do-lednice-bosch-siemens.webp?v=1781156442</IMGURL>
-    <PRICE_VAT>1977.00</PRICE_VAT>
+    <PRICE_VAT>2104.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Příslušenství pro lednice</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8517521581007</EAN>
@@ -32871,7 +32856,7 @@
     <DESCRIPTION>Spodní topné těleso do pečicí trouby K čemu slouží spodní topné těleso? Spodní topné těleso je jednou z hlavních topných jednotek v pečicí troubě. Zajišťuje ohřev zespodu, což je nezbytné pro správné pečení, zapékání a gratinování pokrmů. Během dlouhodobého používání může dojít k jeho opotřebení nebo poruše, což se projeví nedostatečným nebo nerovnoměrným ohřevem. Typické příznaky poškození topného tělesa Těleso nehřeje – trouba se nezahřívá, nebo se zahřívá pouze horním tělesem. Viditelné poškození – těleso je prasklé, deformované nebo má přetavenou izolaci. Jiskření nebo zkraty – při zapnutí trouby dochází k jiskření nebo vypadávají pojistky. Nestabilní teplota – trouba nedosahuje nastavené teploty, nebo se přehřívá. Zvukové anomálie – při práci tělesa jsou slyšet neobvyklé zvuky (praskání, bzučení). Proč zvolit originální náhradní díl? Náhradní topné těleso kód 00447436 je originální náhradní díl , který byl vyroben dle specifikací výrobců troub. Zaručuje tak: Přesné rozměry a tvar – těleso perfektně sedne na místo původního bez nutnosti úprav. Správný výkon a odpor – zajišťuje optimální ohřev a nezatěžuje elektroniku trouby. Dlouhou životnost – odolává vysokým teplotám a čestému cyklování. Bezpečnost – kvalitní izolace a kontakty minimalizují riziko zkratu nebo požáru. Obecné informace k instalaci Výměnu topného tělesa by měl provádět odborný servis nebo zkušený uživatel . Před jakoukoli manipulací je nutné troubu odpojit od elektrické sítě . Ujistěte se, že nové těleso je kompatibilní s vaším modelem trouby. Připojovací konektory musí být pevně uchyceny, aby nedošlo k jiskření nebo přehřívání. Kompatibilita Tento díl je určen pro trouby různých značek. Před objednáním si prosím ověřte, zda je kompatibilní s vaším spotřebičem. Přehled kompatibilních spotřebičů naleznete níže na stránce.</DESCRIPTION>
     <URL>https://boschino.cz/products/00447436-spodni-topne-teleso-do-pecici-trouby-bosch-siemens?variant=56264606548299</URL>
     <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00447436-spodni-topne-teleso-do-pecici-trouby-bosch-siemens.webp?v=1781142302</IMGURL>
-    <PRICE_VAT>1190.00</PRICE_VAT>
+    <PRICE_VAT>1267.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Vaření a ohřívání | Varné desky</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8517521589034</EAN>
@@ -35438,7 +35423,7 @@
     <DESCRIPTION>Výsuvné kolejnice do lednice (kód 00432574) Jedná se o originální náhradní díl – výsuvné kolejnice určené k výměně původní, opotřebené nebo poškozené sady v interiéru lednice. Tento díl přesně odpovídá konstrukčnímu řešení výrobce a je navržen pro snadnou montáž bez potřeby úprav. K čemu slouží a jaké problémy řeší Výsuvné kolejnice zajišťují stabilní vedení a hladký pohyb polic nebo boxů uvnitř chladničky. Jejich výměna je často nutná v případě: Mechanického poškození (zlomení, deformace). Významného opotřebení , které se projevuje zadrháváním nebo hlučným chodem. Netěsnost nebo viklání polic, což může vést k nestabilitě uskladněných potravin. Úplné nefunkčnosti výsuvného mechanismu. Nové kolejnice obnoví plnohodnotnou funkci vnitřního uspořádání lednice a zajistí bezpečné vysouvání. Důležitá upozornění před objednávkou Protože se jedná o náhradní díl , je naprosto klíčové ověřit kompatibilitu tęchto kolejnic s konkrétním modelem vaší lednice. Přehled kompatibilních spotřebičů naleznete níže na stránce. Díl je dodáván jako kompletní sada připravená k přímé montáži. Při výměně doporučujeme před instalací pečlivě prostudovat původní konstrukci.</DESCRIPTION>
     <URL>https://boschino.cz/products/00432574-vysuvne-kolejnice-do-lednice-bosch-siemens?variant=56385983250763</URL>
     <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00432574-vysuvne-kolejnice-do-lednice-bosch-siemens.jpg?v=1781142786</IMGURL>
-    <PRICE_VAT>1007.00</PRICE_VAT>
+    <PRICE_VAT>1060.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Příslušenství pro lednice</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8517521582820</EAN>
@@ -37978,7 +37963,7 @@
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/00145688-kompresor-bosch-siemens?variant=56446501257547</URL>
     <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00145688-kompresor-bosch-siemens.png?v=1781150720</IMGURL>
-    <PRICE_VAT>5355.00</PRICE_VAT>
+    <PRICE_VAT>5949.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Příslušenství pro lednice</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521821516</EAN>
@@ -38518,7 +38503,7 @@
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/00687581-sklokeramicka-deska-bosch-siemens?variant=56446675288395</URL>
     <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00687581-sklokeramicka-deska-bosch-siemens.png?v=1781165431</IMGURL>
-    <PRICE_VAT>14140.00</PRICE_VAT>
+    <PRICE_VAT>15710.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Náhradní díly k velkým spotřebičům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521833793</EAN>
@@ -38623,7 +38608,7 @@
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/00445990-zasobnik-na-zeleninu-bosch-siemens?variant=56446698586443</URL>
     <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00445990-zasobnik-na-zeleninu-do-lednice-mrazaku-bosch-siemens.png?v=1781166277</IMGURL>
-    <PRICE_VAT>1992.00</PRICE_VAT>
+    <PRICE_VAT>2097.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Příslušenství pro lednice</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521834837</EAN>
@@ -39407,7 +39392,7 @@
     <DESCRIPTION>Hluboký smaltovaný pečicí plech do trouby Tento hluboký smaltovaný pečicí plech do trouby je originální náhradní díl / příslušenství s kódem 00742279 . Je určen pro vybrané pečicí trouby, sporáky a vestavné trouby Bosch, Siemens, Neff, Balay, Junker, Viva, Blaupunkt a další kompatibilní spotřebiče skupiny BSH. Plech slouží k pečení, zapékání, ohřevu a přípravě pokrmů, u kterých je vhodná vyšší hrana, například masa, zeleniny, buchet, koláčů, zapékaných jídel nebo pokrmů se šťávou. K čemu slouží a kdy je potřeba výměna? Hluboký pečicí plech, často označovaný také jako univerzální pánev nebo hlubší smaltovaný plech, je praktické příslušenství trouby. Díky vyšší hraně lépe zachytává šťávu, tuk, omáčku nebo drobné zbytky z pečených pokrmů. Lze jej používat pro pečení moučníků, masa, zeleniny, gratinovaných jídel, příloh nebo jako záchytný plech pod rošt. Pořízení nebo výměnu tohoto dílu obvykle potřebujete v následujících situacích: Původní hluboký plech je zdeformovaný, prohnutý, promáčknutý nebo jinak mechanicky poškozený. Smaltovaný povrch je poškrábaný, odštípnutý, popraskaný nebo se z něj odlupuje vrchní vrstva. Na plechu se objevuje rez, připáleniny nebo silné znečištění, které již nejde bezpečně odstranit. Plech se špatně zasouvá do bočních vodicích drážek nebo teleskopických výsuvů. Původní hluboký plech chybí a troubu nelze plnohodnotně používat pro pečení se šťávou, tukem nebo větším množstvím pokrmu. Chcete doplnit troubu o další originální hlubší plech pro přípravu více jídel nebo jako záchytný plech pod rošt. Vlastnosti a výhody Toto originální příslušenství Bosch / Siemens je vyrobeno tak, aby odpovídalo konstrukčnímu řešení výrobce kompatibilních trub a sporáků. Díky tomu: Obnovuje plnohodnotné použití trouby při pečení, zapékání a ohřevu pokrmů. Je vhodný jako přímá náhrada za původní poškozený, znečištěný nebo chybějící hluboký pečicí plech. Vyšší okraj pomáhá zachytávat šťávu, tuk a tekutiny při pečení. U kompatibilních modelů umožňuje přesné zasunutí do pečicího prostoru bez nutnosti úprav. Antracitově černé smaltované provedení podporuje dobrou odolnost při běžném pečení a snadnější čištění. Rozměrové provedení 464 × 345 × 40 mm odpovídá katalogovému provedení této originální univerzální pánve Bosch / Siemens. Provedení a použití Díl 00742279 je v katalozích náhradních dílů uváděn jako hluboký pečicí plech , smaltovaný pečicí plech , hlubší plech do trouby , univerzální pánev do trouby , záchytný plech , baking tray enamel , enamel baking tray , universal pan , deep oven tray , Backblech hoch , emailliertes Backblech , Fettpfanne nebo Universalpfanne . Oficiální katalog Bosch / Siemens uvádí označení Baking tray enamel , provedení anthracite black enameled a rozměry 464 × 345 × 40 mm . U dílu se může objevit také příslušenství HEZ362000 , HEZ362000/01 , případně označení 5Z1242X1 , zkrácené označení 742279 a nahrazované označení 00672470 . Související a náhradní díly U dílu 00742279 se v některých katalozích objevuje také nahrazované označení 00672470 a produktové označení HEZ362000 . Při výměně nebo doplnění hlubokého pečicího plechu doporučujeme zkontrolovat také stav mělkého pečicího plechu, roštu, univerzální pánve, bočních vodicích mřížek, teleskopických výsuvů, držáků plechu a čistotu pečicího prostoru. Pokud je problém způsoben deformovanými vodicími drážkami, poškozenými teleskopickými výsuvy, ohnutým roštem nebo znečištěným pečicím prostorem, samotná výměna plechu nemusí zajistit jeho plynulé zasouvání. Doporučení k používání a údržbě Plech používejte podle návodu ke konkrétní troubě a nepřetěžujte jej nadměrně těžkými nádobami nebo pokrmy. Při pečení masa, zeleniny nebo pokrmů s vyšším obsahem tuku může plech sloužit také jako záchytná nádoba pod roštem. Po použití nechte plech vychladnout a čistěte jej jemným prostředkem, měkkou houbičkou nebo hadříkem. Nepoužívejte kovové drátěnky, ostré škrabky ani agresivní abrazivní prostředky, které by mohly poškodit smaltovaný povrch. Prudké ochlazení horkého plechu studenou vodou může způsobit teplotní pnutí a poškození povrchu. Doporučení k montáži U tohoto dílu se neprovádí složitá montáž. Hluboký pečicí plech jednoduše zasuňte do odpovídající úrovně trouby podle vodicích drážek, bočních mřížek nebo teleskopických výsuvů konkrétního modelu. Před použitím zkontrolujte, že plech sedí rovně, nepřekáží zavření dveří a při vysunutí zůstává stabilní. Pokud používáte teleskopické výsuvy, ověřte, že rozměr plechu odpovídá konkrétnímu typu výsuvu a že plech na výsuvech bezpečně drží. Upozornění před objednáním Před objednáním si prosím ověřte kompatibilitu tohoto hlubokého smaltovaného pečicího plechu s konkrétním modelem vaší trouby nebo sporáku . U spotřebičů Bosch, Siemens, Neff, Balay, Junker, Viva, Blaupunkt a dalších značek skupiny BSH doporučujeme ověřovat podle označení modelu E-Nr. , protože rozměry pečicího prostoru, typ vodicích drážek, boční mřížky, teleskopické výsuvy, hloubka trouby a kompatibilní příslušenství se mohou u jednotlivých modelů lišit.</DESCRIPTION>
     <URL>https://boschino.cz/products/00742279-smaltovany-plech-na-peceni-bosch-siemens?variant=56446942413131</URL>
     <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00742279-smaltovany-plech-na-peceni-bosch-siemens-02.png?v=1781172952</IMGURL>
-    <PRICE_VAT>1075.00</PRICE_VAT>
+    <PRICE_VAT>1120.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Příslušenství pro trouby</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521851445</EAN>
@@ -43143,7 +43128,7 @@
     <DESCRIPTION>Popis produktu: Skleněná pánev pro myčka nádobí Tento díl skleněná pánev je originální náhradní díl / příslušenství s kódem 00746660 . Je určen pro vybrané kompatibilní spotřebiče Bosch, Siemens a další spotřebiče skupiny BSH. Slouží k tomu, aby pomáhá obnovit správnou funkci spotřebiče a nahradit původní poškozený nebo opotřebený díl. K čemu slouží a kdy je potřeba výměna? Skleněná pánev je součást, která pomáhá obnovit správnou funkci spotřebiče typu myčka nádobí a nahradit původní poškozený nebo opotřebený díl. Při výběru je důležité řídit se přesným označením dílu a kompatibilitou s konkrétním modelem spotřebiče. Výměnu tohoto dílu obvykle potřebujete v následujících situacích: původní díl je prasklý, ulomený, opotřebený nebo mechanicky poškozený. spotřebič nepracuje správně nebo některá jeho funkce nefunguje podle očekávání. díl chybí po předchozí opravě, čištění nebo údržbě. původní součást nedrží pevně, je deformovaná nebo vykazuje známky opotřebení. chcete zachovat původní konstrukční řešení a kompatibilitu se spotřebičem. Vlastnosti a výhody Tento originální náhradní díl / originální příslušenství je vyroben tak, aby odpovídal konstrukčnímu řešení kompatibilních spotřebičů. Díky tomu: pomáhá obnovit správnou funkci spotřebiče typu myčka nádobí. je vhodný jako přímá náhrada za původní poškozený nebo opotřebený díl. umožňuje opravu bez zbytečné výměny celého spotřebiče. zachovává správné usazení a návaznost na okolní díly. je určen pro servisní opravy i domácí výměnu tam, kde to konstrukce spotřebiče umožňuje. Provedení a použití Díl 00746660 je veden jako Skleněná pánev . Používá se u vybraných modelů spotřebičů Bosch, Siemens a dalších značek skupiny BSH. Při montáži doporučujeme porovnat tvar, uchycení, rozměry a označení původního dílu s novým dílem. Doporučení k používání Díl používejte pouze v souladu s návodem a servisními pokyny ke konkrétnímu spotřebiči. Před montáží vždy odpojte spotřebič od elektrické sítě, případně uzavřete přívod vody nebo plynu, pokud se to daného spotřebiče týká. U složitějších oprav doporučujeme montáž svěřit kvalifikovanému servisu. Upozornění před objednáním Před objednáním si prosím ověřte kompatibilitu tohoto dílu s konkrétním modelem vašeho spotřebiče.</DESCRIPTION>
     <URL>https://boschino.cz/products/00746660-sklenena-panev-bosch-siemens?variant=56448368738635</URL>
     <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00746660-sklenena-panev-bosch-siemens.png?v=1781203411</IMGURL>
-    <PRICE_VAT>2568.00</PRICE_VAT>
+    <PRICE_VAT>2825.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Příslušenství pro trouby</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521936081</EAN>
@@ -43946,7 +43931,7 @@
     <DESCRIPTION>Popis produktu: Vana do myčky nádobí pro myčku nádobí Tento díl vana do myčky nádobí je originální náhradní díl / příslušenství s kódem 00772153 . Je určen pro vybrané kompatibilní spotřebiče Bosch, Siemens a další spotřebiče skupiny BSH. Podle názvu, označení a charakteru dílu je zařazen pro myčka nádobí . Slouží k tomu, aby nahradil původní poškozenou nebo opotřebenou součást spotřebiče. K čemu slouží a kdy je potřeba výměna? Vana do myčky nádobí je součást, která pomáhá obnovit správnou funkci spotřebiče a nahradit původní poškozený nebo opotřebený díl. Při výběru je důležité řídit se přesným označením dílu a kompatibilitou s konkrétním modelem spotřebiče. Výměnu tohoto dílu obvykle potřebujete v následujících situacích: původní díl je prasklý, ulomený nebo opotřebený. spotřebič kvůli závadě nepracuje správně. potřebujete obnovit původní funkci a bezpečné používání spotřebiče. díl chybí po předchozí opravě nebo údržbě. chcete zachovat původní konstrukční řešení výrobce. Vlastnosti a výhody Tento originální náhradní díl / originální příslušenství je vyroben tak, aby odpovídal konstrukčnímu řešení kompatibilních spotřebičů. Díky tomu: pomáhá obnovit správnou funkci spotřebiče typu myčka nádobí. je vhodný jako přímá náhrada za původní poškozený nebo opotřebený díl. umožňuje opravu bez zbytečné výměny celého spotřebiče. zachovává správné usazení a návaznost na okolní díly. je určen pro servisní opravy i domácí výměnu tam, kde to konstrukce spotřebiče umožňuje. Provedení a použití Díl 00772153 je veden jako Vana do myčky nádobí . Používá se u vybraných modelů spotřebičů Bosch, Siemens a dalších značek skupiny BSH. Při montáži doporučujeme porovnat tvar, uchycení, rozměry a označení původního dílu s novým dílem. Doporučení k používání Díl používejte pouze v souladu s návodem a servisními pokyny ke konkrétnímu spotřebiči. Před montáží vždy odpojte spotřebič od elektrické sítě, případně uzavřete přívod vody nebo plynu, pokud se to daného spotřebiče týká. U složitějších oprav doporučujeme montáž svěřit kvalifikovanému servisu. Upozornění před objednáním Před objednáním si prosím ověřte kompatibilitu tohoto dílu s konkrétním modelem vašeho spotřebiče . U spotřebičů Bosch a Siemens doporučujeme kontrolu podle označení modelu E-Nr. , protože kompatibilita se může lišit podle výrobní série a provedení. Přehled kompatibilních spotřebičů naleznete níže na stránce.</DESCRIPTION>
     <URL>https://boschino.cz/products/00772153-vana-bosch-siemens?variant=56448980877643</URL>
     <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00772153_1.png?v=1782907828</IMGURL>
-    <PRICE_VAT>6765.00</PRICE_VAT>
+    <PRICE_VAT>7516.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Příslušenství k myčkám</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521962653</EAN>
@@ -50581,7 +50566,7 @@
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/00773633-sklokeramicka-deska-bosch-siemens?variant=56451924754763</URL>
     <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00773633-sklokeramicka-deska-bosch-siemens.png?v=1781273118</IMGURL>
-    <PRICE_VAT>5459.00</PRICE_VAT>
+    <PRICE_VAT>5687.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Náhradní díly k velkým spotřebičům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757522107664</EAN>
@@ -50671,7 +50656,7 @@
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/00773826-varna-deska-bosch-siemens?variant=56451957719371</URL>
     <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00773826-varna-deska-do-varne-desky-bosch-siemens.png?v=1781274677</IMGURL>
-    <PRICE_VAT>6708.00</PRICE_VAT>
+    <PRICE_VAT>7061.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Bílé zboží | Varné desky | Příslušenství k varným deskám</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757522110947</EAN>
@@ -50806,7 +50791,7 @@
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/00774951-sklokeramicka-deska-bosch-siemens?variant=56451983245643</URL>
     <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00774951-sklokeramicka-deska-bosch-siemens.png?v=1781276278</IMGURL>
-    <PRICE_VAT>5175.00</PRICE_VAT>
+    <PRICE_VAT>5687.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Náhradní díly k velkým spotřebičům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757522111470</EAN>
@@ -51706,7 +51691,7 @@
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/00773038-sklokeramicka-deska-bosch-siemens?variant=56452146135371</URL>
     <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00773038-sklokeramicka-deska-bosch-siemens.png?v=1781284918</IMGURL>
-    <PRICE_VAT>5460.00</PRICE_VAT>
+    <PRICE_VAT>5688.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Náhradní díly k velkým spotřebičům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757522127808</EAN>
@@ -52096,7 +52081,7 @@
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/00773200-sklokeramicka-deska-bosch-siemens?variant=56452152394059</URL>
     <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00773200-sklokeramicka-deska-bosch-siemens.png?v=1781285190</IMGURL>
-    <PRICE_VAT>4948.00</PRICE_VAT>
+    <PRICE_VAT>5443.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Náhradní díly k velkým spotřebičům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757522129444</EAN>
@@ -52141,7 +52126,7 @@
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/00773209-sklokeramicka-deska-bosch-siemens?variant=56452152688971</URL>
     <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00773209-sklokeramicka-deska-bosch-siemens.png?v=1781285208</IMGURL>
-    <PRICE_VAT>5226.00</PRICE_VAT>
+    <PRICE_VAT>5749.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Náhradní díly k velkým spotřebičům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757522129567</EAN>
@@ -53709,7 +53694,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Příslušenství pro trouby</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757522145444</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15510513025355</ITEMGROUP_ID>
   </SHOPITEM>
@@ -54500,7 +54485,7 @@
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/00719012-sklokeramicka-deska-bosch-siemens?variant=56452460380491</URL>
     <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00719012-sklokeramicka-deska-bosch-siemens.png?v=1781304447</IMGURL>
-    <PRICE_VAT>14702.00</PRICE_VAT>
+    <PRICE_VAT>15315.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Náhradní díly k velkým spotřebičům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757522155467</EAN>
@@ -55475,7 +55460,7 @@
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/17003874-bubnovy-krouhac-bosch-siemens?variant=56452644766027</URL>
     <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/17003874-bubnovy-krouhac-bosch-siemens.png?v=1781315973</IMGURL>
-    <PRICE_VAT>860.00</PRICE_VAT>
+    <PRICE_VAT>915.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Domácí a osobní spotřebiče | Kuchyňské spotřebiče | Příslušenství ke kuchyňským spotřebičům | Příslušenství ke kuchyňským robotům | Ostatní příslušenství ke kuchyňským robotům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757522170057</EAN>
@@ -56285,7 +56270,7 @@
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/23001018-sklokeramicka-deska-bosch-siemens?variant=56452817027403</URL>
     <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/23001018-sklokeramicka-deska-bosch-siemens.png?v=1781328417</IMGURL>
-    <PRICE_VAT>12135.00</PRICE_VAT>
+    <PRICE_VAT>12134.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Náhradní díly k velkým spotřebičům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757522183514</EAN>
@@ -57380,7 +57365,7 @@
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/20002390-manzeta-bosch-siemens?variant=56453154931019</URL>
     <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/20002390-manzeta-do-pracky-bosch-siemens.png?v=1781340571</IMGURL>
-    <PRICE_VAT>1046.00</PRICE_VAT>
+    <PRICE_VAT>1151.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Bílé zboží | Pračky a sušičky | Příslušenství k pračkám</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757522189714</EAN>
@@ -57755,7 +57740,7 @@
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/20002387-manzeta-odolna-proti-tuku-bosch-siemens?variant=56453201527115</URL>
     <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/20002387-manzeta-odolna-proti-tuku-do-pracky-bosch-siemens.png?v=1781345308</IMGURL>
-    <PRICE_VAT>3187.00</PRICE_VAT>
+    <PRICE_VAT>3465.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Bílé zboží | Pračky a sušičky | Příslušenství k pračkám</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757522194633</EAN>
@@ -58629,7 +58614,7 @@
     <CATEGORYTEXT>Heureka.cz | Domácí a osobní spotřebiče | Úklidové spotřebiče | Příslušenství pro úklidové spotřebiče | Hubice a kartáče k vysavačům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757522201522</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15511059431755</ITEMGROUP_ID>
   </SHOPITEM>
@@ -59450,7 +59435,7 @@
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/20003357-vana-bosch-siemens?variant=56453454397771</URL>
     <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/20003357-vana-do-pracky-bosch-siemens.png?v=1781364490</IMGURL>
-    <PRICE_VAT>6820.00</PRICE_VAT>
+    <PRICE_VAT>7502.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Bílé zboží | Pračky a sušičky | Příslušenství k pračkám</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757522209436</EAN>
@@ -62315,7 +62300,7 @@
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/20005212-smaltovany-plech-na-peceni-bosch-siemens?variant=56454136332619</URL>
     <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/20005212-smaltovany-plech-na-peceni-bosch-siemens.png?v=1781392749</IMGURL>
-    <PRICE_VAT>2776.00</PRICE_VAT>
+    <PRICE_VAT>2892.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Příslušenství pro trouby</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757522236289</EAN>
