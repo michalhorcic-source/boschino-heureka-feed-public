@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generated at 2026-09-23T16:33:39.040Z; total variants: 51988; included: 4217; skipped: 47771; min price: 499.99; availability: in stock or orderable; categoryText: metafield heureka.categorytext; salesVoucher: metafield custom.sales_voucher -->
+<!-- Generated at 2026-09-23T18:35:53.388Z; total variants: 51988; included: 4218; skipped: 47770; min price: 499.99; availability: in stock or orderable; categoryText: metafield heureka.categorytext; salesVoucher: metafield custom.sales_voucher -->
 <SHOP>
   <SHOPITEM>
     <ITEM_ID>56264259961163</ITEM_ID>
@@ -1614,7 +1614,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Příslušenství k myčkám</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521800351</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15464899019083</ITEMGROUP_ID>
   </SHOPITEM>
@@ -8672,6 +8672,21 @@
     <ITEMGROUP_ID>15464950923595</ITEMGROUP_ID>
   </SHOPITEM>
   <SHOPITEM>
+    <ITEM_ID>56264348074315</ITEM_ID>
+    <PRODUCTNAME>00642676 Modul do mikrovlnné trouby</PRODUCTNAME>
+    <PRODUCT>00642676 Modul do mikrovlnné trouby</PRODUCT>
+    <DESCRIPTION>Modul do mikrovlnné trouby – originální náhradní díl Tento originální náhradní díl s kódem 00642676 je elektronický modul určený pro opravu mikrovlnných trub různých značek. Jedná se o komponentu, která přímo nahrazuje původní, opotřebovaný nebo defektní modul ve vašem spotřebiči. Modul se obvykle vyměňuje v okamžiku, kdy mikrovlnná trouba přestane správně fungovat. Mezi typické problémy patří: Trouba se nespustí a nereaguje na ovládání. Nedochází k ohřevu potravin, přestože se spotřebič zdánlivě zapne. Na displeji se zobrazují chybové kódy nebo symboly. Spotřebič se sám vypíná, nepravidelně pracuje nebo vydává neobvyklé zvuky. Výměna tohoto modulu je standardním servisním zásahem, který obnoví plnou funkčnost mikrovlnné trouby. Díl je vyroben dle původních specifikací , což zajišťuje jeho přesné mechanické i elektrické usazení do určeného místa bez nutnosti dodatečných úprav. Před zakoupením důrazně doporučujeme ověřit kompatibilitu tohoto modulu s konkrétním modelem vaší mikrovlnné trouby . Přehled kompatibilních spotřebičů naleznete níže na stránce.</DESCRIPTION>
+    <URL>https://boschino.cz/products/00642676-modul-do-mikrovlnne-trouby-bosch-siemens?variant=56264348074315</URL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00642676-modul-do-mikrovlnne-trouby-bosch-siemens.jpg?v=1781134764</IMGURL>
+    <PRICE_VAT>3791.00</PRICE_VAT>
+    <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Vaření a ohřívání | Mikrovlnné trouby</CATEGORYTEXT>
+    <MANUFACTURER>BSH / Bosch</MANUFACTURER>
+    <EAN>8757521783517</EAN>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
+    <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
+    <ITEMGROUP_ID>15464950989131</ITEMGROUP_ID>
+  </SHOPITEM>
+  <SHOPITEM>
     <ITEM_ID>56264348107083</ITEM_ID>
     <PRODUCTNAME>00643177 Motor do trouby</PRODUCTNAME>
     <PRODUCT>00643177 Motor do trouby</PRODUCT>
@@ -8851,7 +8866,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Pračky a sušičky | Příslušenství k pračkám a sušičkám</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521796074</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15464952168779</ITEMGROUP_ID>
   </SHOPITEM>
@@ -14921,7 +14936,7 @@
     <CATEGORYTEXT>Heureka.cz | Domácí a osobní spotřebiče | Kuchyňské spotřebiče | Příslušenství ke kuchyňským spotřebičům | Příslušenství ke kuchyňským robotům | Ostatní příslušenství ke kuchyňským robotům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521721298</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15464980545867</ITEMGROUP_ID>
   </SHOPITEM>
@@ -53357,7 +53372,7 @@
     <ITEM_ID>56452185882955</ITEM_ID>
     <PRODUCTNAME>00775102 Dolní koš k myčce nádobí</PRODUCTNAME>
     <PRODUCT>00775102 Dolní koš k myčce nádobí</PRODUCT>
-    <DESCRIPTION>Spodní koš do myčky nádobí Tento spodní koš do myčky nádobí je originální náhradní díl s kódem 00775102 . Je určen pro vybrané myčky nádobí Bosch, Siemens, Neff, Constructa, Viva, Junker, Balay, Zelmer a další kompatibilní spotřebiče skupiny BSH. Koš slouží k ukládání talířů, hrnců, pánví, misek a dalšího většího nádobí ve spodní části myčky. K čemu slouží a kdy je potřeba výměna? Spodní koš tvoří hlavní úložný prostor pro větší a těžší kusy nádobí. Umožňuje správné rozmístění nádobí tak, aby k němu mohla volně proudit voda z ostřikovacích ramen a aby byl zachován účinný výsledek mytí. Výměnu tohoto dílu obvykle potřebujete v následujících situacích: Původní koš je zkorodovaný, popraskaný nebo jinak mechanicky poškozený. Poškozený povrch koše zanechává na nádobí nebo uvnitř myčky stopy rzi. Koš se špatně zasouvá, vypadává z vedení nebo se nepohybuje plynule po kolečkách. Jsou poškozené, ulomené nebo nefunkční sklopné trny pro uložení talířů. Vložky, držáky nebo části koše již nedrží nádobí stabilně během mycího programu. Chcete obnovit původní uspořádání a praktičnost spodního prostoru myčky. Vlastnosti a výhody Tento originální náhradní díl je vyroben tak, aby přesně odpovídal konstrukčnímu řešení výrobce kompatibilních myček nádobí. Díky tomu: Zajišťuje přesné usazení ve spodní části myčky bez nutnosti úprav. Obnovuje pohodlné ukládání talířů, hrnců, pánví a dalšího nádobí. Pomáhá zachovat správné proudění vody a účinné mytí. Je vybaven kolečky pro snadné zasouvání a vysouvání koše. Sklopné trny umožňují variabilnější rozmístění nádobí podle aktuální potřeby. Je vhodný jako přímá náhrada za původní poškozený, zrezivělý nebo opotřebený koš. Provedení a použití Díl 00775102 je v zahraničních katalozích uváděn jako Geschirrkorb , Unterkorb , lower basket , basket/rack nebo spodní koš do myčky . Oficiální popis výrobce uvádí spodní koš ve světle šedé barvě se 2 tmavě šedými sklopnými trny . Některé katalogy doplňují provedení s 8 kolečky , 2 vyjímatelnými vložkami a orientační rozměry přibližně 515 × 525 × 140 mm . Náhrady a označení Díl se může v katalozích objevovat také pod zkráceným označením 775102 . Pokud byl ve vaší myčce původně použit koš s tímto označením, může být díl 00775102 jeho odpovídající originální náhradou. Doporučení k používání Koš nepřetěžujte nadměrně těžkým nádobím a pravidelně kontrolujte stav koleček, sklopných trnů a ochranného povrchu. Poškozený nebo zkorodovaný koš doporučujeme vyměnit, aby nedocházelo k uvolňování rzi, horšímu pohybu koše nebo nestabilnímu uložení nádobí během mytí. Upozornění před objednáním Před objednáním si prosím ověřte kompatibilitu tohoto spodního koše s konkrétním modelem vaší myčky nádobí . U spotřebičů Bosch, Siemens a dalších značek skupiny BSH doporučujeme ověřovat podle označení modelu E-Nr. , protože rozměry koše, tvar vedení, počet koleček a vnitřní uspořádání se mohou u jednotlivých modelů lišit. Přehled kompatibilních spotřebičů naleznete níže na stránce.</DESCRIPTION>
+    <DESCRIPTION>Spodní koš do myčky Bosch Siemens 00775102 – světle šedý, 2 sklopné hroty Originální spodní koš Bosch Siemens 00775102 je náhradní díl určený pro uložení nádobí ve vybraných myčkách nádobí. Má světle šedé provedení a je vybaven dvěma tmavě šedými sklopnými hroty . Vhodnost vždy ověřte podle přesného E-Nr spotřebiče včetně indexu za lomítkem. K čemu slouží a kdy je potřeba výměna? Spodní koš slouží k uložení talířů, hrnců, pánví a dalšího nádobí během mycího programu. Sklopné hroty umožňují přizpůsobit prostor různým tvarům a velikostem nádobí. Výměna je vhodná v případě, že je koš ohnutý, prasklý, mechanicky poškozený nebo se správně neposouvá po pojezdových kolečkách. Vlastnosti originální náhradní díl B/S/H/, objednací kód 00775102 , spodní koš do myčky nádobí, světle šedé provedení, 2 sklopné hroty v tmavě šedé barvě, nahrazuje starší kód 00686540 , balení obsahuje 1 kus . Provedení a rozměry Jde o kompletní spodní koš určený k instalaci do kompatibilní myčky nádobí. Součástí jeho provedení jsou dva sklopné hroty. Výrobce na oficiální produktové stránce neuvádí přesné rozměry, proto není vhodné určovat kompatibilitu pouze podle vzhledu nebo velikosti původního koše. Související díly Spodní koš spolupracuje s pojezdovými kolečky, vodicími prvky, horním košem a dalšími částmi vnitřního prostoru myčky. Košík na příbory, kolečka ani další příslušenství nejsou součástí dodávky, pokud není uvedeno jinak. Doporučení k používání a údržbě Koš pravidelně oplachujte a odstraňujte z něj zbytky jídla a usazeniny. Nádobí vkládejte tak, aby nepřekáželo otáčení ostřikovacích ramen a aby nedocházelo k nadměrnému zatížení jednotlivých částí koše. Při manipulaci se sklopnými hroty nepoužívejte nepřiměřenou sílu. Kompatibilita a značky Díl 00775102 je oficiálně veden jako spodní koš pro vybrané myčky Bosch a Siemens. Před objednáním vždy ověřte kompatibilitu podle úplného E-Nr spotřebiče včetně indexu za lomítkem. Upozornění Spodní koš není univerzální pro všechny myčky Bosch a Siemens. Před objednáním porovnejte objednací kód, uspořádání sklopných hrotů, pojezdové prvky a přesné označení myčky. Balení obsahuje jeden kompletní spodní koš.</DESCRIPTION>
     <URL>https://boschino.cz/products/00775102-kos-mycky-bosch-siemens?variant=56452185882955</URL>
     <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00775102-kos-mycky-bosch-siemens.png?v=1781286748</IMGURL>
     <PRICE_VAT>1749.00</PRICE_VAT>
@@ -64582,7 +64597,7 @@
     <PRICE_VAT>1160.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Bílé zboží | Malé spotřebiče | Mixéry a šlehače | Příslušenství k mixérům a šlehačům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>16578018378119</ITEMGROUP_ID>
   </SHOPITEM>
