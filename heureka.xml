@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generated at 2026-09-24T10:30:40.245Z; total variants: 51989; included: 4227; skipped: 47762; min price: 499.99; availability: in stock or orderable; categoryText: metafield heureka.categorytext; salesVoucher: metafield custom.sales_voucher -->
+<!-- Generated at 2026-09-24T12:41:47.613Z; total variants: 51989; included: 4227; skipped: 47762; min price: 499.99; availability: in stock or orderable; categoryText: metafield heureka.categorytext; salesVoucher: metafield custom.sales_voucher -->
 <SHOP>
   <SHOPITEM>
     <ITEM_ID>56264259961163</ITEM_ID>
@@ -11822,7 +11822,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Náhradní díly k velkým spotřebičům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521644641</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15464965931339</ITEMGROUP_ID>
   </SHOPITEM>
@@ -15765,7 +15765,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Pračky a sušičky | Příslušenství k pračkám a sušičkám</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>7439647996927</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15464988311883</ITEMGROUP_ID>
   </SHOPITEM>
@@ -16036,7 +16036,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Pračky a sušičky | Příslušenství k pračkám a sušičkám</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521629150</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15464990835019</ITEMGROUP_ID>
   </SHOPITEM>
@@ -18878,7 +18878,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Pračky a sušičky | Příslušenství k pračkám a sušičkám</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521629549</EAN>
-    <DELIVERY_DATE>0</DELIVERY_DATE>
+    <DELIVERY_DATE>7</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15465015443787</ITEMGROUP_ID>
   </SHOPITEM>
@@ -26604,7 +26604,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Náhradní díly k velkým spotřebičům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521640711</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <SALES_VOUCHER>
 <CODE>Jaro2026</CODE>
@@ -34905,7 +34905,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Příslušenství k digestořím</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521639418</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15465115582795</ITEMGROUP_ID>
   </SHOPITEM>
@@ -37851,7 +37851,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Příslušenství k digestořím</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521632945</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15493232656715</ITEMGROUP_ID>
   </SHOPITEM>
