@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generated at 2026-09-29T16:36:13.517Z; total variants: 51991; included: 4293; skipped: 47698; min price: 499.99; availability: in stock or orderable; categoryText: metafield heureka.categorytext; salesVoucher: metafield custom.sales_voucher -->
+<!-- Generated at 2026-09-29T18:36:55.787Z; total variants: 51991; included: 4292; skipped: 47699; min price: 499.99; availability: in stock or orderable; categoryText: metafield heureka.categorytext; salesVoucher: metafield custom.sales_voucher -->
 <SHOP>
   <SHOPITEM>
     <ITEM_ID>56264259961163</ITEM_ID>
@@ -13353,21 +13353,6 @@
     <DELIVERY_DATE>7</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15464971534667</ITEMGROUP_ID>
-  </SHOPITEM>
-  <SHOPITEM>
-    <ITEM_ID>56264373797195</ITEM_ID>
-    <PRODUCTNAME>12011684 Elektronika do myčky nádobí</PRODUCTNAME>
-    <PRODUCT>12011684 Elektronika do myčky nádobí</PRODUCT>
-    <DESCRIPTION>Elektronika do myčky nádobí – originální náhradní díl (kód 12011684 ) Tento originální náhradní díl představuje elektronickou součástku, která je určena pro myčky nádobí. Jedná se o přesnou náhradu původního řídicího modulu, senzoru nebo jiné elektronické komponenty, která ve spotřebiči přestala fungovat. Elektronika v myčce nádobí řídí základní funkce, jako je časování programů, regulace teploty, řízení čerpacího systému a detekce chyb. Výměna tohoto dílu je často nutná při poruchách , které se projevují například: nespouštění programu nebo jeho nahodilé přerušování, zobrazení chybových kódů na displeji myčky, nekontrolované chování (např. spontánní spouštění, nepřítomnost), selhávání topného tělesa nebo čerpadla, úpolná nefunkčnost spotřebiče. Díl je vyroben jako přesná kopie původní součásti , čímž zajišťuje dokonalou mechanickou i funkční kompatibilitu. Jeho instalace je koncipována tak, aby proběhla přímo na místo původního dílu, bez nutnosti dodatečných úprav. Důležité informace před objednáním Protože se jedná o náhradní díl , je nezbytné ověřit jeho kompatibilitu s konkrétním modelem vaší myčky nádobí. Přehled kompatibilních spotřebičů naleznete níže na stránce. Pro správnou diagnózu poruchy a instalaci dílu doporučujeme vyhledat odborný servis, pokud si nejste postupem jisti.</DESCRIPTION>
-    <URL>https://boschino.cz/products/12011684-elektronika-do-mycky-nadobi-bosch-siemens?variant=56264373797195</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/12011684-elektronika-do-mycky-nadobi-bosch-siemens.jpg?v=1781135631</IMGURL>
-    <PRICE_VAT>885.00</PRICE_VAT>
-    <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Náhradní díly k velkým spotřebičům</CATEGORYTEXT>
-    <MANUFACTURER>BSH / Bosch</MANUFACTURER>
-    <EAN>8757521642975</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
-    <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
-    <ITEMGROUP_ID>15464971600203</ITEMGROUP_ID>
   </SHOPITEM>
   <SHOPITEM>
     <ITEM_ID>56264373829963</ITEM_ID>
@@ -42213,7 +42198,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Vaření a ohřívání | Varné desky</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521671081</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <SALES_VOUCHER>
 <CODE>Jaro2026</CODE>
