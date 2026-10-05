@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generated at 2026-10-05T04:46:33.719Z; total variants: 51991; included: 4284; skipped: 47707; min price: 499.99; availability: in stock or orderable; categoryText: metafield heureka.categorytext; salesVoucher: metafield custom.sales_voucher -->
+<!-- Generated at 2026-10-05T12:15:40.661Z; total variants: 51991; included: 4283; skipped: 47708; min price: 499.99; availability: in stock or orderable; categoryText: metafield heureka.categorytext; salesVoucher: metafield custom.sales_voucher -->
 <SHOP>
   <SHOPITEM>
     <ITEM_ID>56264259961163</ITEM_ID>
@@ -18565,7 +18565,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Náhradní díly k velkým spotřebičům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521646386</EAN>
-    <DELIVERY_DATE>0</DELIVERY_DATE>
+    <DELIVERY_DATE>7</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <SALES_VOUCHER>
 <CODE>Jaro2026</CODE>
@@ -19165,21 +19165,6 @@
     <DELIVERY_DATE>7</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15465015214411</ITEMGROUP_ID>
-  </SHOPITEM>
-  <SHOPITEM>
-    <ITEM_ID>56264432648523</ITEM_ID>
-    <PRODUCTNAME>00649296 Modul do lednice</PRODUCTNAME>
-    <PRODUCT>00649296 Modul do lednice</PRODUCT>
-    <DESCRIPTION>Náhradní modul do lednice (kód 00649296) Tento originální náhradní díl je určen k výměně nefunkčního nebo poškozeného řídicího modulu ve vaší lednici. Prodává se pod kódem 00649296 a představuje oficiální součástku, která odpovídá konstrukčnímu řešení výrobce. K čemu modul slouží a jaké problémy řeší? Řídicí modul je mozkem lednice. Ovládá klíčové funkce, jako je regulace teploty, řízení kompresoru, ovládání displeje nebo signalizace poruch. K jeho výměně obvykle přistupujete, když: Lednice přestane chladit nebo naopak mrazit. Na displeji se objevuje chybový kód nebo bliká kontrolka poruchy. Kompresor běží nepřetržitě nebo naopak nezačne. Vnitřní teplota se nekontrolovatelně mění . Modul je fyzicky poškozený (např. po zkratu, vlhkosti). Výměna tohoto dílu obnoví správnou funkci celého spotřebiče. Vlastnosti a instalace Modul je přesnou kopií původní součástky. Je navržen pro přímou výměnu – po odpojení starého modulu jej jednoduše nahradíte novým. Pro usazení nejsou potřeba žádné úpravy, díl pasuje na své místo. Instalace vyžaduje základní znalost práce s elektrickými zařízeními a vždy by měla probíhat při odpojeném napájení spotřebiče. Důležité: Před objednáním si prosím ověřte kompatibilitu tohoto modulu (kód 00649296) s konkrétním modelem vaší lednice. Přehled kompatibilních spotřebičů naleznete níže na stránce.</DESCRIPTION>
-    <URL>https://boschino.cz/products/00649296-modul-do-lednice-bosch-siemens?variant=56264432648523</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00649296-modul-do-lednice-bosch-siemens.jpg?v=1781137575</IMGURL>
-    <PRICE_VAT>5949.00</PRICE_VAT>
-    <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Příslušenství pro lednice</CATEGORYTEXT>
-    <MANUFACTURER>BSH / Bosch</MANUFACTURER>
-    <EAN>8757521653650</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
-    <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
-    <ITEMGROUP_ID>15465015247179</ITEMGROUP_ID>
   </SHOPITEM>
   <SHOPITEM>
     <ITEM_ID>56264432714059</ITEM_ID>
@@ -31797,7 +31782,7 @@
     <CATEGORYTEXT>Heureka.cz | Domácí a osobní spotřebiče | Úklidové spotřebiče | Příslušenství pro úklidové spotřebiče | Filtry do vysavačů</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521574863</EAN>
-    <DELIVERY_DATE>0</DELIVERY_DATE>
+    <DELIVERY_DATE>7</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15465090941259</ITEMGROUP_ID>
   </SHOPITEM>
@@ -46297,7 +46282,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Příslušenství pro trouby</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521982743</EAN>
-    <DELIVERY_DATE>0</DELIVERY_DATE>
+    <DELIVERY_DATE>7</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15508571357515</ITEMGROUP_ID>
   </SHOPITEM>
@@ -65635,9 +65620,9 @@
     <ITEM_ID>57207939170635</ITEM_ID>
     <PRODUCTNAME>00312528 Odvápňovací tablety do trouby</PRODUCTNAME>
     <PRODUCT>00312528 Odvápňovací tablety do trouby</PRODUCT>
-    <DESCRIPTION></DESCRIPTION>
+    <DESCRIPTION>Odvápňovací tablety Gaggenau 00312528 – CL S30, 4 × 120 g Originální odvápňovací tablety Gaggenau 00312528 jsou určeny pro vybrané parní a kombinované parní trouby Gaggenau vybavené automatickým odvápňovacím programem. Tablety CL S30 odstraňují usazeniny vodního kamene z hydraulického systému spotřebiče. Balení obsahuje 4 tablety po 120 g a na jeden kompletní odvápňovací cyklus se používá jedna tableta. Vhodnost vždy ověřte podle přesného E-Nr spotřebiče včetně indexu za lomítkem. K čemu slouží a kdy je potřeba použití? Tablety slouží k odstranění vodního kamene z vodního systému parní trouby, zejména z nádržky, přívodních a odvodních cest. Pravidelné odvápňování pomáhá udržovat správnou funkci parního systému. Potřeba odvápnění závisí na tvrdosti používané vody a četnosti používání parních funkcí; kompatibilní spotřebič upozorní na nutnost spuštění odvápňovacího programu na displeji. Vlastnosti originální prostředek pro péči o spotřebiče Gaggenau, objednací kód 00312528 , označení CL S30 , odvápňovací tablety pro vybrané parní a kombinované parní trouby, určeny pro spotřebiče s automatickým odvápňovacím programem, jedna tableta o hmotnosti 120 g je určena pro jeden odvápňovací cyklus, balení obsahuje 4 × 120 g , odstraňují usazeniny vodního kamene z hydraulického systému, odvápňovací program následně systém automaticky odvápní, propláchne a vysuší, nahrazují starší kódy 17002490, 00312248 a 00312132 . Provedení a obsah balení Balení obsahuje čtyři samostatné odvápňovací tablety, každou o hmotnosti 120 g . Jedna tableta představuje dávku pro jeden odvápňovací program kompatibilního spotřebiče. Související produkty Odvápnění odstraňuje minerální usazeniny z vodního systému, nenahrazuje však běžné čištění pečicího prostoru od mastnoty a zbytků potravin. Pro kompatibilní parní trouby mohou být určeny také samostatné čisticí prostředky nebo čisticí kartuše; jejich vhodnost je nutné ověřit podle konkrétního E-Nr. Doporučení k používání a údržbě Při spuštění odvápňovacího programu postupujte podle návodu konkrétní trouby. U odpovídajících spotřebičů se z nádržky na čistou vodu nejprve odstraní voda, vloží se jedna 120g tableta a nádržka se doplní přibližně 1,7 l studené vody až po značku Max . Před spuštěním programu vyjměte z pečicího prostoru příslušenství a po dokončení programu vyprázdněte a důkladně vypláchněte nádržku na odpadní vodu. Kompatibilita a značky Produkt 00312528 je výrobcem určen pro vybrané parní a kombinované parní trouby Gaggenau s odpovídajícím odvápňovacím programem. Nejde o univerzální odvápňovací tablety pro všechny parní trouby B/S/H/. Před objednáním vždy ověřte kompatibilitu podle úplného E-Nr spotřebiče včetně indexu za lomítkem. Upozornění Používejte tablety pouze prostřednictvím výrobcem určeného odvápňovacího programu. Nevkládejte odvápňovací tabletu přímo do horkého pečicího prostoru. Dodržujte návod spotřebiče a bezpečnostní informace na obalu výrobku. Použití nevhodného odvápňovacího prostředku může způsobit poruchu nebo poškození spotřebiče.</DESCRIPTION>
     <URL>https://boschino.cz/products/00312528-odvapnovci-tablety-cls30-pro-kombinovane-parni-trouby-sada-4-ks-bosch-siemens?variant=57207939170635</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00312528-odvapnovaci-tablety-do-trouby-bosch-siemens.png?v=1781401185</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00312528-odvapnovaci-tablety-do-trouby-bosch-siemens-03.png?v=1781401198</IMGURL>
     <PRICE_VAT>1976.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Příslušenství pro trouby</CATEGORYTEXT>
     <MANUFACTURER>Boschino.cz</MANUFACTURER>
