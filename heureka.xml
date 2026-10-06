@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generated at 2026-10-06T14:32:06.580Z; total variants: 51991; included: 4285; skipped: 47706; min price: 499.99; availability: in stock or orderable; categoryText: metafield heureka.categorytext; salesVoucher: metafield custom.sales_voucher -->
+<!-- Generated at 2026-10-06T16:35:12.897Z; total variants: 51991; included: 4286; skipped: 47705; min price: 499.99; availability: in stock or orderable; categoryText: metafield heureka.categorytext; salesVoucher: metafield custom.sales_voucher -->
 <SHOP>
   <SHOPITEM>
     <ITEM_ID>56264259961163</ITEM_ID>
@@ -26012,6 +26012,21 @@
     <ITEMGROUP_ID>15465052307787</ITEMGROUP_ID>
   </SHOPITEM>
   <SHOPITEM>
+    <ITEM_ID>56264512536907</ITEM_ID>
+    <PRODUCTNAME>00602024 Madlo do myčky nádobí</PRODUCTNAME>
+    <PRODUCT>00602024 Madlo do myčky nádobí</PRODUCT>
+    <DESCRIPTION>Popis produktu Toto originální náhradní madlo (kód 00602024 ) je určeno k výměně poškozeného, opotřebovaného nebo nefunkčního madla dvířek myčky nádobí. Jedná se o přesnou náhradu původního dílu, která obnoví plnohodnotnou funkci otevírání a zavírání dvířek. K čemu slouží a kdy jej potřebujete? Madlo je základním prvkem pro manipulaci s dvířky myčky. Jeho výměnu zvažujte v těchto případech: Madlo je zlomené, prasklé nebo má viditelné mechanické poškození . Je uvolněné, viklá se nebo nedrží pevně v úchopech. Původní madlo je opotřebované, korodované nebo poškozené vlivem častého používání a vlhkosti. Funkce otevírání je ztížená, ztuhlá nebo neplynulá . Vlastnosti originálního náhradního dílu Toto madlo je vyrobeno tak, aby přesně odpovídalo konstrukčnímu řešení výrobce myčky. Zaručuje: Dokonalé usazení bez nutnosti dodatečných úprav nebo broušení. Identický tvar a rozměry jako původní díl. Odolnost vůči vlhkosti a teplotním výkyvům v prostředí myčky. Snadnou výměnu bez poškození dvířek nebo sousedních komponent. Kompatibilita a montáž Tento náhradní díl je kompatibilní s řadou modelů myček nádobí. Před zakoupením důrazně doporučujeme ověřit kompatibilitu s konkrétním modelem vašeho spotřebiče. Přehled kompatibilních spotřebičů naleznete níže na stránce. Montáž je zpravidla jednoduchá a zvládnete ji s běžným nářadím. Postupujte podle návodu k obsluze vaší myčky. Přehled kompatibilních spotřebičů naleznete níže na stránce.</DESCRIPTION>
+    <URL>https://boschino.cz/products/00602024-madlo-do-mycky-nadobi-bosch-siemens?variant=56264512536907</URL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00602024-madlo-do-mycky-nadobi-bosch-siemens.webp?v=1781139624</IMGURL>
+    <PRICE_VAT>1100.00</PRICE_VAT>
+    <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Náhradní díly k velkým spotřebičům</CATEGORYTEXT>
+    <MANUFACTURER>BSH / Bosch</MANUFACTURER>
+    <EAN>8757521641909</EAN>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
+    <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
+    <ITEMGROUP_ID>15465052701003</ITEMGROUP_ID>
+  </SHOPITEM>
+  <SHOPITEM>
     <ITEM_ID>56264512700747</ITEM_ID>
     <PRODUCTNAME>00602819 Průtokoměr do pračky</PRODUCTNAME>
     <PRODUCT>00602819 Průtokoměr do pračky</PRODUCT>
@@ -31865,7 +31880,7 @@
     <CATEGORYTEXT>Heureka.cz | Domácí a osobní spotřebiče | Úklidové spotřebiče | Příslušenství pro úklidové spotřebiče | Hubice a kartáče k vysavačům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521664557</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15465091268939</ITEMGROUP_ID>
   </SHOPITEM>
@@ -34752,7 +34767,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Police a šuplíky do lednic</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521656125</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <SALES_VOUCHER>
 <CODE>Jaro2026</CODE>
