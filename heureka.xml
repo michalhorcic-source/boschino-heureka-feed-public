@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generated at 2026-10-13T08:43:06.922Z; total variants: 51991; included: 4276; skipped: 47715; min price: 499.99; availability: in stock or orderable; categoryText: metafield heureka.categorytext; salesVoucher: metafield custom.sales_voucher -->
+<!-- Generated at 2026-10-13T10:33:27.418Z; total variants: 51991; included: 4276; skipped: 47715; min price: 499.99; availability: in stock or orderable; categoryText: metafield heureka.categorytext; salesVoucher: metafield custom.sales_voucher -->
 <SHOP>
   <SHOPITEM>
     <ITEM_ID>56264259961163</ITEM_ID>
@@ -1993,7 +1993,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Příslušenství k digestořím</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8517521589720</EAN>
-    <DELIVERY_DATE>0</DELIVERY_DATE>
+    <DELIVERY_DATE>7</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15464901607755</ITEMGROUP_ID>
   </SHOPITEM>
@@ -62231,7 +62231,7 @@
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/17007503-cleanair-plus-pachovy-filtr-nahradni-bosch-siemens?variant=56453651530059</URL>
     <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/17007503-cleanair-plus-pachovy-filtr-do-sporaku-bosch-siemens.png?v=1781374770</IMGURL>
-    <PRICE_VAT>2287.00</PRICE_VAT>
+    <PRICE_VAT>2516.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Příslušenství ke sporákům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757522219114</EAN>
@@ -65276,7 +65276,7 @@
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/17009006-spojovaci-sada-wtz2800-do-susicky-pradla-bosch-siemens?variant=56462712013131</URL>
     <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/17009006-spojovaci-sada-bosch-siemens.png?v=1781400348</IMGURL>
-    <PRICE_VAT>2846.00</PRICE_VAT>
+    <PRICE_VAT>2965.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Pračky a sušičky | Příslušenství k pračkám a sušičkám</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757522247162</EAN>
