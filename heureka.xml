@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generated at 2026-10-20T14:30:31.943Z; total variants: 51993; included: 4292; skipped: 47701; min price: 499.99; availability: in stock or orderable; categoryText: metafield heureka.categorytext; salesVoucher: metafield custom.sales_voucher -->
+<!-- Generated at 2026-10-20T16:32:29.349Z; total variants: 51993; included: 4293; skipped: 47700; min price: 499.99; availability: in stock or orderable; categoryText: metafield heureka.categorytext; salesVoucher: metafield custom.sales_voucher -->
 <SHOP>
   <SHOPITEM>
     <ITEM_ID>56264259961163</ITEM_ID>
@@ -11912,7 +11912,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Náhradní díly k velkým spotřebičům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521644627</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15464965865803</ITEMGROUP_ID>
   </SHOPITEM>
@@ -21945,7 +21945,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Police a šuplíky do lednic</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521656996</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15465028911435</ITEMGROUP_ID>
   </SHOPITEM>
@@ -27024,6 +27024,21 @@
     <DELIVERY_DATE>7</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15465061089611</ITEMGROUP_ID>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>56264533082443</ITEM_ID>
+    <PRODUCTNAME>00644363 Madlo do sušičky  prádla</PRODUCTNAME>
+    <PRODUCT>00644363 Madlo do sušičky  prádla</PRODUCT>
+    <DESCRIPTION>Madlo do sušičky prádla Popis produktu Toto originální náhradní madlo (kód: 00644363 ) je určeno k výměně původní součásti u sušiček prádla. Jedná se o přesnou kopii dílu od významných výrobců, která je navržena tak, aby dokonale odpovídala konstrukci a funkci původního madla. Kdy je třeba madlo vyměnit? Náhradní madlo se obvykle pořizuje v případě, že původní součást přestala plnit svou funkci. Nejčastějšími důvody pro výměnu jsou: Mechanické poškození – prasknutí, zlomení nebo deformace madla vlivem nárazu nebo přetížení. Opotřebení – výsledkem dlouhodobého používání se madlo může uvolnit, vrátit nebo ztratit stabilitu. Porucha závěsu – madlo přestane držet ve výsuvné pozici nebo naopak ztuhne a nelze jej vysunout. Chybějící díl – původní madlo mohlo být dodáno poškozené nebo se ztratilo při převozu nebo instalaci spotřebiče. Vlastnosti madla Výrobek je originální náhradní díl , který odpovídá konstrukčnímu řešení a materiálovém provedení původních dílů. Je navržen pro přesné usazení bez nutnosti dodatečných úprav a zajišťuje stabilní držení prádla během sušení. Instalace je přímá a nenáročná, většinou nevyžaduje žádné speciální náčiní ani nástroje. Ověření kompatibility Před objednávkou je nutné ověřit kompatibilitu tohoto madla se konkrétním typem sušičky . Ne všechna madla jsou univerzální a jejich tvar, rozestup uchycení a mechanismus se mohou u různých modelů a značek lišit. Přehled kompatibilních spotřebičů naleznete níže na stránce. Pokud si nejste jistí, doporučujeme před příkazem zkontrolovat návod k obsluze vašeho spotřebiče nebo nám napsat s dotazem.</DESCRIPTION>
+    <URL>https://boschino.cz/products/00644363-madlo-do-susicky-pradla-bosch-siemens?variant=56264533082443</URL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00644363-madlo-do-susicky-pradla-bosch-siemens.webp?v=1781140099</IMGURL>
+    <PRICE_VAT>862.00</PRICE_VAT>
+    <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Pračky a sušičky | Příslušenství k pračkám a sušičkám</CATEGORYTEXT>
+    <MANUFACTURER>BSH / Bosch</MANUFACTURER>
+    <EAN>8757521629914</EAN>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
+    <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
+    <ITEMGROUP_ID>15465061122379</ITEMGROUP_ID>
   </SHOPITEM>
   <SHOPITEM>
     <ITEM_ID>56264533115211</ITEM_ID>
@@ -35092,7 +35107,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Police a šuplíky do lednic</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521656538</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <SALES_VOUCHER>
 <CODE>Jaro2026</CODE>
@@ -48793,7 +48808,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Příslušenství k digestořím</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521638954</EAN>
-    <DELIVERY_DATE>0</DELIVERY_DATE>
+    <DELIVERY_DATE>7</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <SALES_VOUCHER>
 <CODE>Jaro2026</CODE>
