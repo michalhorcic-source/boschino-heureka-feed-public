@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generated at 2026-10-21T12:39:56.825Z; total variants: 51993; included: 4295; skipped: 47698; min price: 499.99; availability: in stock or orderable; categoryText: metafield heureka.categorytext; salesVoucher: metafield custom.sales_voucher -->
+<!-- Generated at 2026-10-21T14:32:31.715Z; total variants: 51993; included: 4295; skipped: 47698; min price: 499.99; availability: in stock or orderable; categoryText: metafield heureka.categorytext; salesVoucher: metafield custom.sales_voucher -->
 <SHOP>
   <SHOPITEM>
     <ITEM_ID>56264259961163</ITEM_ID>
@@ -303,8 +303,8 @@
   </SHOPITEM>
   <SHOPITEM>
     <ITEM_ID>56264263565643</ITEM_ID>
-    <PRODUCTNAME>00312327 Utěrky z mikrovlákna k domácím spotřebičům</PRODUCTNAME>
-    <PRODUCT>00312327 Utěrky z mikrovlákna k domácím spotřebičům</PRODUCT>
+    <PRODUCTNAME>00312327 Utěrky z mikrovlákna k různým domácím spotřebičům</PRODUCTNAME>
+    <PRODUCT>00312327 Utěrky z mikrovlákna k různým domácím spotřebičům</PRODUCT>
     <DESCRIPTION>Sada utěrek z mikrovlákna na nerez, sklo a keramiku Bosch Siemens 00312327 – 2 ks Originální sada utěrek z mikrovlákna Bosch Siemens 00312327 obsahuje dvě opakovaně použitelné utěrky určené k čištění, sušení a leštění různých kuchyňských povrchů. Zelená utěrka je určena především pro nerezovou ocel a žulu , modrá pro sklo a keramické povrchy . Utěrky lze používat suché nebo vlhké a pro běžné čištění postačuje voda. K čemu slouží a kdy je vhodné použití? Sada je určena pro pravidelnou péči o povrchy domácích spotřebičů a kuchyňského vybavení. Mikrovlákno zachycuje nečistoty, absorbuje rozlité kapaliny a pomáhá odstranit mastné stopy, otisky prstů a další běžné nečistoty. Utěrky lze použít také společně s vhodným čisticím prostředkem, pokud je potřeba intenzivnější čištění. Vlastnosti originální čisticí příslušenství B/S/H/, objednací kód 00312327 , sada obsahuje 2 utěrky z mikrovlákna , zelená utěrka je určena zejména pro nerezovou ocel a žulu, modrá utěrka je určena zejména pro sklo a keramické povrchy, vhodné pro čištění, sušení a leštění povrchů, lze používat suché i vlhké, pro běžné čištění není nutný chemický čisticí prostředek, součástí provedení je čisticí roh pro odolnější nečistoty, lze prát v pračce a opakovaně používat až přibližně 300krát, nahrazuje starší kódy 00466148 a 00311755 . Provedení a rozměry Sada obsahuje jednu zelenou a jednu modrou utěrku. Bosch uvádí rozměr zelené utěrky přibližně 30,5 × 33 cm a modré přibližně 49,5 × 39,4 cm . Utěrky nepouštějí vlákna a jsou určeny k opakovanému praní a používání. Související prostředky Utěrky lze používat pouze s vodou nebo je podle typu povrchu kombinovat s vhodným čisticím prostředkem Bosch Siemens. U nerezu, sklokeramiky, skla nebo jiných citlivých povrchů vždy respektujte doporučení výrobce konkrétního spotřebiče a zvoleného čisticího prostředku. Doporučení k používání a údržbě Pro běžné čištění utěrku navlhčete vodou a povrch otřete; pro leštění lze použít suchou utěrku. Po použití ji vyperte a nechte důkladně vyschnout. Vyztužený čisticí roh používejte pouze na površích, pro které je vhodný, a před intenzivnějším mechanickým čištěním doporučujeme postup nejprve vyzkoušet na méně viditelném místě. Kompatibilita a značky Sada 00312327 je oficiálně nabízena značkami Bosch a Siemens a stejné originální příslušenství je dostupné také u dalších značek skupiny B/S/H/. Nejde o náhradní díl vázaný na konkrétní E-Nr spotřebiče. Rozhodující je vhodnost utěrky pro materiál a povrchovou úpravu čištěné plochy. Upozornění Před použitím na citlivé, lakované nebo speciálně povrchově upravené plochy zkontrolujte pokyny výrobce spotřebiče. Nepoužívejte znečištěnou utěrku s tvrdými částicemi, které by mohly povrch poškrábat. Při kombinaci s čisticím prostředkem vždy ověřte jeho vhodnost pro daný materiál.</DESCRIPTION>
     <URL>https://boschino.cz/products/00312327-uterky-z-mikrovlakna-do-domacich-spotrebicu-bosch-siemens?variant=56264263565643</URL>
     <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00312327-uterky-z-mikrovlakna-bosch-siemens.webp?v=1781133062</IMGURL>
@@ -3855,7 +3855,7 @@
     <CATEGORYTEXT>Heureka.cz | Bílé zboží | Malé spotřebiče | Mixéry a šlehače | Příslušenství k mixérům a šlehačům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8517521582455</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <SALES_VOUCHER>
 <CODE>Jaro2026</CODE>
@@ -8344,7 +8344,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Police a šuplíky do lednic</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521789342</EAN>
-    <DELIVERY_DATE>0</DELIVERY_DATE>
+    <DELIVERY_DATE>7</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15464946958667</ITEMGROUP_ID>
   </SHOPITEM>
@@ -34899,7 +34899,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Police a šuplíky do lednic</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521650499</EAN>
-    <DELIVERY_DATE>0</DELIVERY_DATE>
+    <DELIVERY_DATE>7</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <SALES_VOUCHER>
 <CODE>Jaro2026</CODE>
@@ -37641,7 +37641,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Pračky a sušičky | Příslušenství k pračkám a sušičkám</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8517521594700</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <SALES_VOUCHER>
 <CODE>Jaro2026</CODE>
