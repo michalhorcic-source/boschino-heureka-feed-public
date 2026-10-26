@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generated at 2026-10-26T07:47:38.470Z; total variants: 51993; included: 4303; skipped: 47690; min price: 499.99; availability: in stock or orderable; categoryText: metafield heureka.categorytext; salesVoucher: metafield custom.sales_voucher -->
+<!-- Generated at 2026-10-26T09:41:48.729Z; total variants: 51993; included: 4302; skipped: 47691; min price: 499.99; availability: in stock or orderable; categoryText: metafield heureka.categorytext; salesVoucher: metafield custom.sales_voucher -->
 <SHOP>
   <SHOPITEM>
     <ITEM_ID>56264259961163</ITEM_ID>
@@ -26875,7 +26875,7 @@
     <CATEGORYTEXT>Heureka.cz | Domácí a osobní spotřebiče | Kuchyňské spotřebiče | Příslušenství ke kuchyňským spotřebičům | Příslušenství ke kuchyňským robotům | Ostatní příslušenství ke kuchyňským robotům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521662416</EAN>
-    <DELIVERY_DATE>0</DELIVERY_DATE>
+    <DELIVERY_DATE>7</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <SALES_VOUCHER>
 <CODE>Jaro2026</CODE>
@@ -29185,7 +29185,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Police a šuplíky do lednic</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521651359</EAN>
-    <DELIVERY_DATE>0</DELIVERY_DATE>
+    <DELIVERY_DATE>7</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15465071608139</ITEMGROUP_ID>
   </SHOPITEM>
@@ -34278,21 +34278,6 @@
     <DELIVERY_DATE>7</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15465106833739</ITEMGROUP_ID>
-  </SHOPITEM>
-  <SHOPITEM>
-    <ITEM_ID>56264605270347</ITEM_ID>
-    <PRODUCTNAME>17006185 Pánev do varné desky</PRODUCTNAME>
-    <PRODUCT>17006185 Pánev do varné desky</PRODUCT>
-    <DESCRIPTION>Popis produktu Tento produkt s kódem 17006185 je originální náhradní pánev určená pro varné desky. Jedná se o kritickou součást, která zajišťuje rovnoměrný přenos tepla z topných těles na nádobí. Pánev se nachází uvnitř varné desky a je vystavena vysokým teplotám a mechanické zátěži. Časem může dojít k jejímu opotřebení, prasknutí nebo deformaci , což se projevuje nerovnoměrným vařením, delší dobou ohřevu nebo úplným selháním funkce topného okruhu. Výměna této pánve je standardním servisním zákrokem pro obnovení plné funkčnosti varné desky. Vlastnosti a použití Originální náhradní díl 17006185 je vyroben tak, aby přesně odpovídal konstrukci, rozměrům a vlastnostem původní součástky. Je navržen pro přímou výměnu bez nutnosti jakýchkoliv úprav nebo složitého seřizování. Po instalaci zaručuje bezpečný a efektivní provoz. Před zakoupením je nezbytné ověřit kompatibilitu tohoto dílu s konkrétním modelem vaší varné desky . Přehled kompatibilních spotřebičů naleznete níže na stránce.</DESCRIPTION>
-    <URL>https://boschino.cz/products/17006185-panev-do-varne-desky-bosch-siemens?variant=56264605270347</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/12056797-panev-do-varne-desky-bosch-siemens-02.webp?v=1781401300</IMGURL>
-    <PRICE_VAT>2229.00</PRICE_VAT>
-    <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Vaření a ohřívání | Varné desky</CATEGORYTEXT>
-    <MANUFACTURER>BSH / Bosch</MANUFACTURER>
-    <EAN>4242005304431</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
-    <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
-    <ITEMGROUP_ID>15465106866507</ITEMGROUP_ID>
   </SHOPITEM>
   <SHOPITEM>
     <ITEM_ID>56264605335883</ITEM_ID>
