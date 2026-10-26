@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generated at 2026-10-26T15:17:23.657Z; total variants: 51993; included: 4302; skipped: 47691; min price: 499.99; availability: in stock or orderable; categoryText: metafield heureka.categorytext; salesVoucher: metafield custom.sales_voucher -->
+<!-- Generated at 2026-10-26T17:28:37.445Z; total variants: 51993; included: 4303; skipped: 47690; min price: 499.99; availability: in stock or orderable; categoryText: metafield heureka.categorytext; salesVoucher: metafield custom.sales_voucher -->
 <SHOP>
   <SHOPITEM>
     <ITEM_ID>56264259961163</ITEM_ID>
@@ -17140,7 +17140,7 @@
     <CATEGORYTEXT>Heureka.cz | Domácí a osobní spotřebiče | Kuchyňské spotřebiče | Příprava nápojů | Kávovary a příprava kávy | Příslušenství ke kávovarům | Ostatní příslušenství pro kávovary</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521632372</EAN>
-    <DELIVERY_DATE>0</DELIVERY_DATE>
+    <DELIVERY_DATE>7</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <SALES_VOUCHER>
 <CODE>Jaro2026</CODE>
@@ -34098,6 +34098,21 @@
     <DELIVERY_DATE>7</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15465106276683</ITEMGROUP_ID>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>56264604582219</ITEM_ID>
+    <PRODUCTNAME>17005349 Redukce do varné desky HEZ9VDSI0</PRODUCTNAME>
+    <PRODUCT>17005349 Redukce do varné desky HEZ9VDSI0</PRODUCT>
+    <DESCRIPTION>Redukce do varné desky Tato redukce do varné desky je originální náhradní díl s kódem 17005349 . Používá se u plynových varných desek pro připojení plynového hořáku k plynovému potrubí. Redukce zajišťuje bezpečné a těsné spojení, které odolává vysokým teplotám a tlakům. Redukce se typicky vyměňuje v případě opotřebení závitu , netěsnosti nebo mechanického poškození . Pokud připojení propouští plyn, nebo je redukce korodovaná, je nutné ji vyměnit za novou, aby nedocházelo k úniku plynu a zajistila se bezpečnost provozu. Jedná se o originální díl, který je konstrukčně shodný s původní součástkou. Díky tomu do sebe přesně zapadne a nevyžaduje žádné úpravy při instalaci. Redukce je vyrobena z kvalitní mosazi, která zaručuje dlouhou životnost a odolnost vůči korozi. Redukce je navržena pro snadnou montáž. Při výměně starého dílu je důležité použít správný klíč, abyste nepoškodili závit. Doporučujeme také použít těsnicí materiál vhodný pro plynová spojení, například těsnicí pásku nebo pastu. Před prvním použitím varné desky po výměně redukce vždy zkontrolujte těsnost spojení pomocí mýdlové vody nebo detektoru úniku plynu. Před zakoupením ověřte kompatibilitu této redukce s vaší varnou deskou. Přehled kompatibilních spotřebičů naleznete níže na stránce.</DESCRIPTION>
+    <URL>https://boschino.cz/products/17005349-redukce-do-varne-desky-bosch-siemens?variant=56264604582219</URL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/17005349-redukce-do-varne-desky-bosch-siemens.jpg?v=1781142241</IMGURL>
+    <PRICE_VAT>810.00</PRICE_VAT>
+    <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Vaření a ohřívání | Varné desky</CATEGORYTEXT>
+    <MANUFACTURER>BSH / Bosch</MANUFACTURER>
+    <EAN>4242005254231</EAN>
+    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
+    <ITEMGROUP_ID>15465106309451</ITEMGROUP_ID>
   </SHOPITEM>
   <SHOPITEM>
     <ITEM_ID>56264604614987</ITEM_ID>
