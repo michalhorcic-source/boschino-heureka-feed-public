@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generated at 2026-10-26T19:27:58.779Z; total variants: 51993; included: 4302; skipped: 47691; min price: 499.99; availability: in stock or orderable; categoryText: metafield heureka.categorytext; salesVoucher: metafield custom.sales_voucher -->
+<!-- Generated at 2026-10-26T21:28:51.757Z; total variants: 51993; included: 4300; skipped: 47693; min price: 499.99; availability: in stock or orderable; categoryText: metafield heureka.categorytext; salesVoucher: metafield custom.sales_voucher -->
 <SHOP>
   <SHOPITEM>
     <ITEM_ID>56264259961163</ITEM_ID>
@@ -1644,7 +1644,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Příslušenství k myčkám</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521800351</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15464899019083</ITEMGROUP_ID>
   </SHOPITEM>
@@ -1843,7 +1843,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Police a šuplíky do lednic</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8517521583049</EAN>
-    <DELIVERY_DATE>0</DELIVERY_DATE>
+    <DELIVERY_DATE>7</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15464900231499</ITEMGROUP_ID>
   </SHOPITEM>
@@ -5656,7 +5656,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Příslušenství pro lednice</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>4242005310647</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15464931295563</ITEMGROUP_ID>
   </SHOPITEM>
@@ -6215,7 +6215,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Vaření a ohřívání | Varné desky</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>4242006241698</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15464936276299</ITEMGROUP_ID>
   </SHOPITEM>
@@ -11475,21 +11475,6 @@
     <ITEMGROUP_ID>15464964358475</ITEMGROUP_ID>
   </SHOPITEM>
   <SHOPITEM>
-    <ITEM_ID>56264366358859</ITEM_ID>
-    <PRODUCTNAME>20002384 Těsnění dveří k pračce</PRODUCTNAME>
-    <PRODUCT>20002384 Těsnění dveří k pračce</PRODUCT>
-    <DESCRIPTION>Manžeta dveří pračky Bosch Siemens 20002384 – šedá, s přípojkami Originální manžeta dveří Bosch Siemens 20002384 je těsnění plnicího otvoru určené pro vybrané předem plněné pračky. Šedá manžeta utěsňuje prostor mezi vanou pračky a přední částí spotřebiče kolem dveří. Toto provedení je vybaveno přípojkou pro osvětlení a přípojkou pro cirkulační hadici . Vhodnost vždy ověřte podle přesného E-Nr spotřebiče včetně indexu za lomítkem. K čemu slouží a kdy je potřeba výměna? Manžeta vytváří pružné vodotěsné spojení mezi prací vanou a dveřním otvorem pračky a zabraňuje úniku vody během praní. Výměna je vhodná v případě, že je původní manžeta natržená, prodřená, deformovaná, mechanicky poškozená nebo pokud je prokázán únik vody právě v oblasti těsnění dveří. Vlastnosti originální náhradní díl B/S/H/, objednací kód 20002384 , manžeta / těsnění dveří pračky, barva šedá , provedení s přípojkou pro osvětlení, provedení s přípojkou pro cirkulační hadici, dodávána včetně předního a zadního upínacího kruhu, určena pro vybrané pračky Bosch a Siemens, nahrazuje starší kód 20000422 , balení obsahuje 1 kompletní sadu manžety . Provedení a rozměry Jde o tvarovanou pružnou dveřní manžetu se samostatnými přípojkami pro osvětlení a cirkulační systém pračky. Součástí dodávky jsou také upevňovací kruhy pro správné sevření manžety na příslušných dosedacích plochách. Přesné rozměry nejsou na oficiální produktové stránce Bosch uvedeny, proto není vhodné určovat kompatibilitu pouze podle průměru otvoru nebo vzhledu původního těsnění. Související díly Manžeta navazuje na vanu pračky, přední rám dveřního otvoru, cirkulační hadici a u příslušných modelů také na část související s osvětlením. Při úniku vody je vhodné zkontrolovat nejen samotnou manžetu, ale také její správné usazení, upínací kruhy a připojené hadice. Doporučení k používání a údržbě Po praní ponechte dveře pračky pootevřené a pravidelně čistěte záhyby manžety od vláken, nečistot a zbytků pracího prostředku. Před zavřením dveří zkontrolujte, zda mezi manžetou a sklem nezůstal tvrdý nebo ostrý předmět, který by mohl těsnění poškodit. Kompatibilita a značky Díl 20002384 je určen pro vybrané pračky Bosch a Siemens a nahrazuje starší originální díl 20000422 . Nejde o univerzální manžetu pro všechny pračky těchto značek. Před objednáním vždy ověřte kompatibilitu podle úplného E-Nr spotřebiče včetně indexu za lomítkem. Upozornění Před výměnou odpojte pračku od elektrické sítě a uzavřete přívod vody. Manžeta musí být při montáži správně orientována a rovnoměrně usazena po celém obvodu; přípojky musí odpovídat konstrukci konkrétního spotřebiče. Nesprávné usazení nebo upevnění může způsobit únik vody.</DESCRIPTION>
-    <URL>https://boschino.cz/products/20002384-manzeta-do-pracky-bosch-siemens?variant=56264366358859</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/20002384-manzeta-do-pracky-bosch-siemens.webp?v=1781135294</IMGURL>
-    <PRICE_VAT>1275.00</PRICE_VAT>
-    <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Pračky a sušičky | Příslušenství k pračkám a sušičkám</CATEGORYTEXT>
-    <MANUFACTURER>BSH / Bosch</MANUFACTURER>
-    <EAN>8757521741456</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
-    <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
-    <ITEMGROUP_ID>15464964424011</ITEMGROUP_ID>
-  </SHOPITEM>
-  <SHOPITEM>
     <ITEM_ID>56264366489931</ITEM_ID>
     <PRODUCTNAME>20004292 Police k lednici</PRODUCTNAME>
     <PRODUCT>20004292 Police k lednici</PRODUCT>
@@ -14192,21 +14177,6 @@
     <ITEMGROUP_ID>15464976613707</ITEMGROUP_ID>
   </SHOPITEM>
   <SHOPITEM>
-    <ITEM_ID>56264382513483</ITEM_ID>
-    <PRODUCTNAME>00660557 Šuplík do lednice</PRODUCTNAME>
-    <PRODUCT>00660557 Šuplík do lednice</PRODUCT>
-    <DESCRIPTION>Náhradní šuplík do lednice – originální díl kód 00660557 Šuplík s kódem 00660557 je originální náhradní díl určený k výměně poškozeného nebo nefunkčního šuplíku v lednici. Tento díl je konstrukčně totožný s původní součástí a zajišťuje bezproblémové vracení spotřebiče do plné funkčnosti. K čemu tento šuplík slouží a proč je potřeba? Plastový šuplík v lednici, typicky umístěný ve spodní části chladničky, slouží k uskladnění ovoce, zeleniny nebo jiných potravin. Časem nebo vlivem nešetrného zacházení může prasknout, poškodit se na pantu, zlomit se držadlo nebo přestat hladce vysouvat. Takové mechanické poškození znemožňuje jeho další použití a kompromituje celkovou hygienu i funkčnost lednice. Vlastnosti originálního náhradního dílu Přesná shoda s původním dílem: Je navržen výrobcem spotřebiče, proto dokonale pasuje na určené místo bez nutnosti jakýchkoli úprav. Zachování vlastností: Zajišťuje stejnou odolnost, snadné vysouvání a kompatibilitu s ostatními komponentami jako původní šuplík. Jednoduchá instalace: Výměnu zvládne většinou uživatel sám podle návodu k obsluze spotřebiče. Spočívá ve vyjmutí starého a zasunutí nového šuplíku do vodících lišt. Proč volit originální náhradní díl? Použití originálního náhradního dílu je klíčové pro zachování bezpečnosti, životnosti a správné funkce celého spotřebiče. Napodobeniny často nepasují dokonale, mohou mít odlišné rozměry nebo nižší kvalitu materiálu, což vede k dalším komplikacím. Tento díl je vyroben tak, aby eliminoval problémy s netěsností, špatným vedením nebo předčasným opotřebením . Před zakoupením si ověřte kompatibilitu tohoto šuplíku s konkrétním modelem vaší lednice . Přehled kompatibilních spotřebičů naleznete níže na stránce.</DESCRIPTION>
-    <URL>https://boschino.cz/products/00660557-suplik-do-lednice-bosch-siemens?variant=56264382513483</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00660557-suplik-do-lednice-bosch-siemens.webp?v=1781135856</IMGURL>
-    <PRICE_VAT>1748.00</PRICE_VAT>
-    <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Police a šuplíky do lednic</CATEGORYTEXT>
-    <MANUFACTURER>BSH / Bosch</MANUFACTURER>
-    <EAN>8757521719592</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
-    <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
-    <ITEMGROUP_ID>15464976646475</ITEMGROUP_ID>
-  </SHOPITEM>
-  <SHOPITEM>
     <ITEM_ID>56264382546251</ITEM_ID>
     <PRODUCTNAME>00660568 Šuplík do lednice</PRODUCTNAME>
     <PRODUCT>00660568 Šuplík do lednice</PRODUCT>
@@ -15590,7 +15560,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Pračky a sušičky | Příslušenství k pračkám a sušičkám</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521629433</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <SALES_VOUCHER>
 <CODE>Jaro2026</CODE>
@@ -17106,7 +17076,7 @@
     <CATEGORYTEXT>Heureka.cz | Domácí a osobní spotřebiče | Kuchyňské spotřebiče | Příprava jídla | Malé kuchyňské spotřebiče | Krájení a strouhání | Elektrické kuchyňské mlýnky</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521715808</EAN>
-    <DELIVERY_DATE>0</DELIVERY_DATE>
+    <DELIVERY_DATE>7</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <SALES_VOUCHER>
 <CODE>Jaro2026</CODE>
@@ -25385,7 +25355,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Police a šuplíky do lednic</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521657054</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15465048801611</ITEMGROUP_ID>
   </SHOPITEM>
@@ -26860,7 +26830,7 @@
     <CATEGORYTEXT>Heureka.cz | Domácí a osobní spotřebiče | Kuchyňské spotřebiče | Příslušenství ke kuchyňským spotřebičům | Příslušenství ke kuchyňským robotům | Ostatní příslušenství ke kuchyňským robotům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521662416</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <SALES_VOUCHER>
 <CODE>Jaro2026</CODE>
@@ -29260,7 +29230,7 @@
     <CATEGORYTEXT>Heureka.cz | Domácí a osobní spotřebiče | Kuchyňské spotřebiče | Příslušenství ke kuchyňským spotřebičům | Příslušenství ke kuchyňským robotům | Mísy ke kuchyňským robotům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521662119</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15465072197963</ITEMGROUP_ID>
   </SHOPITEM>
@@ -37093,7 +37063,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Pračky a sušičky | Příslušenství k pračkám a sušičkám</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521597886</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <SALES_VOUCHER>
 <CODE>Jaro2026</CODE>
@@ -38065,7 +38035,7 @@
     <CATEGORYTEXT>Heureka.cz | Bílé zboží | Malé spotřebiče | Mixéry a šlehače | Příslušenství k mixérům a šlehačům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521598814</EAN>
-    <DELIVERY_DATE>0</DELIVERY_DATE>
+    <DELIVERY_DATE>7</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15493149098315</ITEMGROUP_ID>
   </SHOPITEM>
@@ -38834,7 +38804,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Police a šuplíky do lednic</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521597787</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <SALES_VOUCHER>
 <CODE>Jaro2026</CODE>
@@ -65951,7 +65921,7 @@
     <PRICE_VAT>2191.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Příslušenství pro trouby</CATEGORYTEXT>
     <MANUFACTURER>Boschino.cz</MANUFACTURER>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15710674747723</ITEMGROUP_ID>
   </SHOPITEM>
