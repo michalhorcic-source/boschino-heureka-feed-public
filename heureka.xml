@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generated at 2026-11-16T07:53:26.255Z; total variants: 51993; included: 4085; skipped: 47908; min price: 499.99; availability: in stock or orderable; categoryText: metafield heureka.categorytext; salesVoucher: metafield custom.sales_voucher -->
+<!-- Generated at 2026-11-17T19:49:27.456Z; total variants: 51993; included: 4084; skipped: 47909; min price: 499.99; availability: in stock or orderable; categoryText: metafield heureka.categorytext; salesVoucher: metafield custom.sales_voucher -->
 <SHOP>
   <SHOPITEM>
     <ITEM_ID>56264259961163</ITEM_ID>
@@ -3393,7 +3393,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Pračky a sušičky | Příslušenství k pračkám a sušičkám</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521800054</EAN>
-    <DELIVERY_DATE>0</DELIVERY_DATE>
+    <DELIVERY_DATE>7</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15464914092363</ITEMGROUP_ID>
   </SHOPITEM>
@@ -5641,7 +5641,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Vaření a ohřívání | Varné desky</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>4242005362851</EAN>
-    <DELIVERY_DATE>0</DELIVERY_DATE>
+    <DELIVERY_DATE>7</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15464932344139</ITEMGROUP_ID>
   </SHOPITEM>
@@ -10439,7 +10439,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Vaření a ohřívání | Mikrovlnné trouby</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>875752171663</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15464962294091</ITEMGROUP_ID>
   </SHOPITEM>
@@ -10672,7 +10672,7 @@
     <CATEGORYTEXT>Heureka.cz | Domácí a osobní spotřebiče | Kuchyňské spotřebiče | Příprava jídla | Malé kuchyňské spotřebiče | Krájení a strouhání | Elektrické kuchyňské mlýnky</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521739811</EAN>
-    <DELIVERY_DATE>0</DELIVERY_DATE>
+    <DELIVERY_DATE>7</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <SALES_VOUCHER>
 <CODE>Jaro2026</CODE>
@@ -10864,21 +10864,6 @@
 <DESC>Sleva 10 % na Vámi oblíbené produkty po zadání kódu na pokladně do 31.5.2026!</DESC>
 </SALES_VOUCHER>
     <ITEMGROUP_ID>15464963866955</ITEMGROUP_ID>
-  </SHOPITEM>
-  <SHOPITEM>
-    <ITEM_ID>56264365801803</ITEM_ID>
-    <PRODUCTNAME>17006613 Skleněný mixér MUZ9MX2 ke kuchyňskému robotu</PRODUCTNAME>
-    <PRODUCT>17006613 Skleněný mixér MUZ9MX2 ke kuchyňskému robotu</PRODUCT>
-    <DESCRIPTION>Skleněný mixér Bosch OptiMUM MUZ9MX2 17006613 Originální skleněný mixovací nástavec Bosch 17006613 / MUZ9MX2 je příslušenství pro vybrané kuchyňské roboty Bosch OptiMUM / MUM Serie 8. Kompletní mixér je určen pro přípravu smoothie, koktejlů, polévek, pomazánek, omáček a dalších směsí a umožňuje také drcení ledu. Vhodnost pro konkrétní kuchyňský robot je nutné ověřit podle přesného E-Nr/modelového označení. K čemu slouží? Mixovací nástavec rozšiřuje kuchyňský robot o funkci stolního mixéru. Lze jej použít pro mixování ovoce a zeleniny, přípravu nápojů, krémových polévek, pomazánek nebo dalších směsí a také pro drcení ledu. Skleněná nádoba ThermoSafe je výrobcem určena pro studené nápoje i horké polévky. Vlastnosti originální příslušenství Bosch, objednací kód 17006613 , obchodní označení MUZ9MX2 , kompletní skleněný mixovací nástavec, ThermoSafe skleněná nádoba, užitný objem 1,5 l , odnímatelná nožová jednotka ProEdge, nerezové nože vyráběné v německém Solingenu, 3D Dynamic Flow Booster pro cirkulaci surovin během mixování, měrka na nádobě pro dávkování surovin, nádoba, víko a odměrka jsou vhodné do myčky nádobí. Provedení a rozměry Mixér používá silnostěnnou skleněnou nádobu ThermoSafe s užitným objemem 1,5 l. Nožová jednotka je odnímatelná a vybavená nerezovými noži ProEdge. Přesné vnější rozměry samotného nástavce nejsou v ověřeném českém produktovém záznamu výrobce uvedeny, proto je neuvádíme jako rozhodující parametr. Související díly Aktuální mixér MUZ9MX2 / 17006613 je výrobcem veden jako náhrada za starší provedení MUZ9MX1 a za objednací kód 00579565 . Samostatnou náhradní skleněnou nádobu s víkem pro tuto skupinu mixérů lze nalézt také pod příslušným samostatným servisním kódem, proto při poškození pouze nádoby není vždy nutné měnit celý mixovací nástavec. Doporučení k používání a údržbě Před použitím zkontrolujte správné sestavení nádoby, nožové jednotky a víka. Při manipulaci s vyjmutou nožovou jednotkou postupujte opatrně, protože nože jsou ostré. Výrobce uvádí možnost mytí nádoby, víka a odměrky v myčce nádobí; odnímatelná konstrukce nožů usnadňuje samostatné čištění. Kompatibilita a značky Díl 17006613 / MUZ9MX2 je oficiálně doložen jako příslušenství Bosch pro vybrané kuchyňské roboty řady OptiMUM / MUM Serie 8. Nejde o univerzální mixovací nástavec pro všechny kuchyňské roboty Bosch. Před objednáním vždy ověřte kompatibilitu podle úplného E-Nr spotřebiče včetně indexu za lomítkem. Upozornění Kód 17006613 označuje kompletní mixovací nástavec, nikoli pouze samostatnou skleněnou nádobu. Pokud je poškozena pouze nádoba, víko nebo jiná jednotlivá část, doporučujeme nejprve ověřit, zda je dostupná samostatně pod vlastním servisním kódem.</DESCRIPTION>
-    <URL>https://boschino.cz/products/17006613-skleneny-mixer-do-kuchynskeho-robotu-bosch-siemens?variant=56264365801803</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/17006613-skleneny-mixer-do-kuchynskeho-robotu-bosch-siemens.webp?v=1781135263</IMGURL>
-    <PRICE_VAT>1569.00</PRICE_VAT>
-    <CATEGORYTEXT>Heureka.cz | Domácí a osobní spotřebiče | Kuchyňské spotřebiče | Příslušenství ke kuchyňským spotřebičům | Příslušenství ke kuchyňským robotům | Ostatní příslušenství ke kuchyňským robotům</CATEGORYTEXT>
-    <MANUFACTURER>BSH / Bosch</MANUFACTURER>
-    <EAN>4242005318346</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
-    <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
-    <ITEMGROUP_ID>15464963932491</ITEMGROUP_ID>
   </SHOPITEM>
   <SHOPITEM>
     <ITEM_ID>56264365834571</ITEM_ID>
@@ -13649,7 +13634,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Vaření a ohřívání | Varné desky</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521717994</EAN>
-    <DELIVERY_DATE>0</DELIVERY_DATE>
+    <DELIVERY_DATE>7</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <SALES_VOUCHER>
 <CODE>Jaro2026</CODE>
@@ -21023,7 +21008,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Příslušenství k myčkám</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521645402</EAN>
-    <DELIVERY_DATE>0</DELIVERY_DATE>
+    <DELIVERY_DATE>7</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <SALES_VOUCHER>
 <CODE>Jaro2026</CODE>
@@ -25622,7 +25607,7 @@
     <CATEGORYTEXT>Heureka.cz | Domácí a osobní spotřebiče | Kuchyňské spotřebiče | Příslušenství ke kuchyňským spotřebičům | Příslušenství ke kuchyňským robotům | Metly a háky ke kuchyňským robotům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521661990</EAN>
-    <DELIVERY_DATE>0</DELIVERY_DATE>
+    <DELIVERY_DATE>7</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <SALES_VOUCHER>
 <CODE>Jaro2026</CODE>
@@ -28197,7 +28182,7 @@
     <CATEGORYTEXT>Heureka.cz | Domácí a osobní spotřebiče | Úklidové spotřebiče | Příslušenství pro úklidové spotřebiče | Hubice a kartáče k vysavačům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521723827</EAN>
-    <DELIVERY_DATE>0</DELIVERY_DATE>
+    <DELIVERY_DATE>7</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <SALES_VOUCHER>
 <CODE>Jaro2026</CODE>
@@ -28855,7 +28840,7 @@
     <CATEGORYTEXT>Heureka.cz | Domácí a osobní spotřebiče | Úklidové spotřebiče | Příslušenství pro úklidové spotřebiče | Trubky a tyče k vysavačům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521574290</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15465082323275</ITEMGROUP_ID>
   </SHOPITEM>
@@ -32176,7 +32161,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Pračky a sušičky | Příslušenství k pračkám a sušičkám</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521782138</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15465109029195</ITEMGROUP_ID>
   </SHOPITEM>
@@ -32399,7 +32384,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Vaření a ohřívání | Varné desky</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521670213</EAN>
-    <DELIVERY_DATE>0</DELIVERY_DATE>
+    <DELIVERY_DATE>7</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15465111093579</ITEMGROUP_ID>
   </SHOPITEM>
@@ -39226,7 +39211,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Vaření a ohřívání | Varné desky</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521671081</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <SALES_VOUCHER>
 <CODE>Jaro2026</CODE>
@@ -52616,7 +52601,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Příslušenství pro trouby</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757522148773</EAN>
-    <DELIVERY_DATE>0</DELIVERY_DATE>
+    <DELIVERY_DATE>7</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15510519578955</ITEMGROUP_ID>
   </SHOPITEM>
@@ -55646,7 +55631,7 @@
     <CATEGORYTEXT>Heureka.cz | Domácí a osobní spotřebiče | Úklidové spotřebiče | Příslušenství pro úklidové spotřebiče | Hubice a kartáče k vysavačům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757522185921</EAN>
-    <DELIVERY_DATE>0</DELIVERY_DATE>
+    <DELIVERY_DATE>7</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15510891266379</ITEMGROUP_ID>
   </SHOPITEM>
