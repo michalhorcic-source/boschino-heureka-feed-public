@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generated at 2026-11-19T11:24:27.072Z; total variants: 51995; included: 4292; skipped: 47703; min price: 499.99; availability: in stock or orderable; categoryText: metafield heureka.categorytext; salesVoucher: metafield custom.sales_voucher -->
+<!-- Generated at 2026-11-20T10:05:51.027Z; total variants: 51995; included: 4292; skipped: 47703; min price: 499.99; availability: in stock or orderable; categoryText: metafield heureka.categorytext; salesVoucher: metafield custom.sales_voucher -->
 <SHOP>
   <SHOPITEM>
     <ITEM_ID>56264259961163</ITEM_ID>
@@ -4260,7 +4260,7 @@
     <DESCRIPTION>Popis produktu: Náhon do tyčového mixéru Tento náhon do mixéru je originální náhradní díl s kódem 12041977 . Používá se u vybraných tyčových a ponorných mixérů Bosch, Siemens a dalších kompatibilních spotřebičů skupiny BSH. Díl je v zahraničních katalozích uváděn také jako pohonná jednotka , drive unit , Antrieb , motor nebo spojka / unašeč pohonu . K čemu slouží a kdy je potřeba výměna? Náhon zajišťuje přenos výkonu z motorové části mixéru na nasazené příslušenství, například mixovací nohu, šlehací metlu, sekací nástavec nebo další kompatibilní nástavce. Správně fungující pohonná jednotka je důležitá pro plynulý chod mixéru, stabilní otáčky a bezpečné používání při přípravě polévek, omáček, pyré, koktejlů, krémů nebo dalších pokrmů. Výměnu tohoto dílu obvykle potřebujete v následujících situacích: Mixér se spustí, ale nástavec se neotáčí nebo se otáčí nepravidelně. Při provozu je slyšet prokluzování, chrastění, skřípání nebo jiné nezvyklé zvuky. Nástavec nedrží pevně v pohonné části nebo se během používání uvolňuje. Došlo k poškození unašeče, spojky, převodu nebo připojovací části náhonu. Mixér ztrácí výkon při zátěži, zastavuje se nebo nezvládá běžné zpracování surovin. Původní pohonná jednotka byla poškozena přetížením, pádem, vlhkostí nebo dlouhodobým používáním. Vlastnosti a výhody Tento originální náhradní díl je vyroben tak, aby odpovídal konstrukčnímu řešení výrobce kompatibilních tyčových mixérů. Díky tomu: Zajišťuje správný přenos výkonu mezi motorovou částí a nasazeným příslušenstvím. Pomáhá obnovit původní funkčnost tyčového mixéru. Umožňuje bezpečné a pevné uchycení kompatibilních nástavců. Je vhodný jako přímá náhrada za původní poškozený nebo nefunkční náhon. U kompatibilních modelů umožňuje montáž bez nutnosti mechanických úprav. Provedení a použití Díl 12041977 je uváděn jako náhon / pohonná jednotka pro tyčové a ponorné mixéry . Některé katalogy jej popisují také jako motorovou část nebo spojkový díl pohonu . Použití je uváděno například pro vybrané modelové řady Bosch MSM6, Bosch MSM7, Siemens MQ5 a Siemens MQ6 . Přesná kompatibilita se však vždy řídí konkrétním modelem spotřebiče. Doporučení k používání Při používání mixéru nepřekračujte doporučenou dobu provozu a nezpracovávejte suroviny, které výrobce pro daný model nepovoluje. Přetěžování spotřebiče, příliš tuhé směsi nebo zablokovaný nástavec mohou způsobit poškození pohonné jednotky, unašeče nebo navazujících převodových částí. Upozornění před objednáním Před objednáním si prosím ověřte kompatibilitu tohoto náhonu s konkrétním modelem vašeho tyčového mixéru . U spotřebičů Bosch a Siemens doporučujeme ověřovat podle označení modelu E-Nr. , protože tvar uchycení, výkonové provedení a kompatibilita s nástavci se mohou u jednotlivých modelových řad lišit. Přehled kompatibilních spotřebičů naleznete níže na stránce.</DESCRIPTION>
     <URL>https://boschino.cz/products/12041977-nahon-do-mixeru-bosch-siemens?variant=56264307605835</URL>
     <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/12041977-nahon-do-mixeru-bosch-siemens.webp?v=1781133844</IMGURL>
-    <PRICE_VAT>1820.00</PRICE_VAT>
+    <PRICE_VAT>1565.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Bílé zboží | Malé spotřebiče | Mixéry a šlehače | Příslušenství k mixérům a šlehačům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521799631</EAN>
@@ -7795,7 +7795,7 @@
     <CATEGORYTEXT>Heureka.cz | Dům a zahrada | Úklid | Vysavače | Příslušenství k vysavačům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8517521591518</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15464943845707</ITEMGROUP_ID>
   </SHOPITEM>
@@ -9816,7 +9816,7 @@
     <DESCRIPTION>Spínač do mikrovlnné trouby – originální náhradní díl K čemu slouží tento spínač? Tento originální náhradní díl (kód: 00754697 ) je mechanický nebo elektronický spínač určený pro mikrovlnné trouby . Slouží k ovládání základních funkcí spotřebiče, jako je zapnutí, vypnutí nebo výběr režimu ohřevu. V praxi se jedná o klíčovou součástku ovládacího panelu. Typické příznaky poruchy Spínač se obvykle vyměňuje v okamžiku, kdy přestane plnit svou funkci. Mezi nejčastější příznaky patří: Nefunkčnost – tlačítko nereaguje na stisk, spotřebič se nezapíná. Opotřebení – po letech intenzivního používání dojde k mechanickému opotřebení kontaktů. Částečná funkčnost – některé funkce nejsou aktivovány, například trouba nezačne ohřívat. Netěsnost – spínač může propouštět vlhkost nebo nečistoty, což vede ke zkratům. O produktu Jedná se o originální náhradní díl , který je konstrukčně i rozměrově shodný s dílem, který výrobce použil při výrobě spotřebiče. Je navržen pro přesné usazení na místo původní součástky, což zjednodušuje a urychluje výměnu. Díl je určen výhradně k výměně za původní, poškozený nebo nefunkční spínač . Důležité upozornění Protože se jedná o náhradní díl, je nezbytné ověřit kompatibilitu tohoto spínače s konkrétním modelem vaší mikrovlnné trouby . Ne všechny spínače jsou univerzální. Přehled kompatibilních spotřebičů naleznete níže na stránce.</DESCRIPTION>
     <URL>https://boschino.cz/products/00754697-spinac-do-mikrovlnne-trouby-bosch-siemens?variant=56264356299083</URL>
     <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00754697-spinac-do-mikrovlnne-trouby-bosch-siemens.webp?v=1781134962</IMGURL>
-    <PRICE_VAT>1010.00</PRICE_VAT>
+    <PRICE_VAT>868.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Vaření a ohřívání | Mikrovlnné trouby</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521786518</EAN>
@@ -10589,7 +10589,7 @@
     <DESCRIPTION>Originální náhradní výsuv do trouby 11049024 Výsuv do trouby 11049024 je originální náhradní díl určený k výměně poškozeného, zkorodovaného nebo deformovaného původního výsuvu v troubě. Jedná se o konstrukční prvek, na který se vkládají pečicí plechy, grilovací rošty nebo jiné příslušenství. K čemu výsuv slouží a proč jej vyměnit? Výsuv je klíčovou součástí vnitřního vybavení trouby. Během let intenzivního používání může dojít k jeho opotřebení , deformaci vlivem vysokých teplot nebo korozivnímu poškození . Mezi typické příznaky patří: Zapadávání nebo naopak vypadávání výsuvu z vodítek. Neklidné a vratké uložení plechu. Viditelná deformace, koroze nebo ulomení částí. Znesnadněné vysouvání a zasouvání. Výměna za nový originální díl obnoví plnou funkčnost trouby a zajistí bezpečné a stabilní uložení příslušenství. Vlastnosti originálního náhradního dílu Náhradní výsuv 11049024 je vyroben tak, aby přesně odpovídal konstrukčnímu řešení a rozměrům původního dílu. Z toho důvodu je určen k přímé výměně bez nutnosti jakýchkoliv úprav. Je navržen pro přesné usazení do vodítek v troubě. Před objednáním a instalací je nezbytné ověřit kompatibilitu tohoto dílu s konkrétním modelem vaší trouby . Přehled kompatibilních spotřebičů naleznete níže na stránce.</DESCRIPTION>
     <URL>https://boschino.cz/products/11049024-vysuv-do-trouby-bosch-siemens?variant=56264361541963</URL>
     <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/11049024-vysuv-do-trouby-bosch-siemens.webp?v=1781135133</IMGURL>
-    <PRICE_VAT>4344.00</PRICE_VAT>
+    <PRICE_VAT>3648.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Vaření a ohřívání | Varné desky</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521781186</EAN>
@@ -14014,7 +14014,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Pračky a sušičky | Příslušenství k pračkám a sušičkám</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521719257</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15464976187723</ITEMGROUP_ID>
   </SHOPITEM>
@@ -14698,7 +14698,7 @@
     <DESCRIPTION>Spodní koš do myčky nádobí Tento spodní koš do myčky nádobí je originální náhradní díl s kódem 00773587 . Je určen pro vybrané myčky nádobí Bosch, Siemens, Neff, Constructa, Balay, Gaggenau, Küppersbusch a další kompatibilní spotřebiče skupiny BSH. Koš slouží k bezpečnému uložení talířů, hrnců, misek a dalšího nádobí ve spodní části myčky během mycího cyklu. K čemu slouží a kdy je potřeba výměna? Spodní koš je základní úložnou částí myčky nádobí. Umožňuje správně rozmístit nádobí tak, aby mezi jednotlivými kusy mohl proudit proud vody ze spodního ostřikovacího ramene. Nepoškozený a správně pojízdný koš je důležitý pro pohodlné vkládání nádobí, stabilní držení talířů a dobrý výsledek mytí. Výměnu tohoto dílu obvykle potřebujete v následujících situacích: Původní spodní koš je zkorodovaný, popraskaný, zdeformovaný nebo jinak mechanicky poškozený. Z koše se odlupuje ochranný povrch a kovová část začíná rezivět. Poškozené hroty nedrží talíře stabilně nebo překážejí při vkládání nádobí. Koš špatně zajíždí do myčky, drhne, vypadává z pojezdů nebo má poškozená kolečka. Došlo k poškození sklopných řad hrotů, držáků, ložisek nebo plastových vodicích prvků. Původní koš chybí nebo je jeho stav nevyhovující pro bezpečné každodenní používání myčky. Vlastnosti a výhody Tento originální náhradní díl Bosch / Siemens je vyroben tak, aby odpovídal konstrukčnímu řešení výrobce kompatibilních myček nádobí. Díky tomu: Obnovuje plnohodnotný úložný prostor ve spodní části myčky. Je vhodný jako přímá náhrada za původní rezavý, poškozený nebo špatně pojízdný spodní koš. U kompatibilních modelů umožňuje jednoduché zasunutí do pojezdových ližin bez nutnosti úprav. Pomáhá správně rozmístit talíře, hrnce, pokličky, misky a další větší nádobí. Dodává se jako kompletní spodní koš s kolečky a vybranými držáky podle katalogového provedení. Originální provedení podporuje správný průtok vody a bezpečné držení nádobí během mycího programu. Provedení a použití Díl 00773587 je v katalozích náhradních dílů uváděn jako spodní koš , koš do myčky nádobí , spodní koš na nádobí , koš s kolečky , lower basket , lower dish basket , lower crockery basket , dishwasher basket , Geschirrkorb unten , Unterkorb nebo Unterer Geschirrkorb . Některé katalogy uvádějí provedení v šedé nebo kovově šedé barvě, materiál kov , rozměry přibližně 515 × 375 × 230 mm a šířku košových koleček přibližně 37 × 16 mm . U dílu se může objevit také EAN 8757521718861 , zkrácené označení 773587 a náhradní nebo související označení 00478183 , 00472925 , 00686603 nebo Küppersbusch 436311 . Související a náhradní díly U dílu 00773587 se v některých katalozích objevují také související nebo náhradní označení 00478183 , 00472925 , 00686603 a Küppersbusch 436311 . Součástí katalogového provedení mohou být také košová kolečka 00611475 , ložiska 00625000 , sklopné řady hrotů 00655552 , držák 00611981 a ložisko 00623638 . Při poškození spodního koše doporučujeme zkontrolovat také stav pojezdů, koleček, držáků talířů, sklopných hrotů, spodního ostřikovacího ramene, filtrační sestavy, těsnění dveří a vnitřního nerezového prostoru myčky. Pokud je problém způsoben poškozenými pojezdy, uvolněnými kolečky, deformovanou vanou nebo špatně usazeným spodním ostřikovacím ramenem, samotná výměna koše nemusí závadu plně odstranit. Doporučení k používání a údržbě Spodní koš nepřetěžujte nadměrně těžkým nádobím a talíře ukládejte tak, aby byly stabilně opřené o hroty a neblokovaly otáčení spodního ostřikovacího ramene. Pravidelně kontrolujte stav povrchové úpravy, koleček a sklopných částí. Pokud se na koši objeví poškození ochranného povrchu nebo koroze, doporučujeme díl včas vyměnit, aby rez nepoškozovala nádobí ani vnitřní prostor myčky. K čištění nepoužívejte ostré nástroje ani abrazivní prostředky, které by mohly poškodit ochrannou vrstvu kovových částí. Doporučení k montáži Výměna spodního koše je obvykle jednoduchá a nevyžaduje speciální nářadí. Otevřete dvířka myčky, vysuňte původní koš z pojezdových ližin a nový koš 00773587 zasuňte do stejné pozice. Zkontrolujte, že kolečka správně sedí v dráze, koš se pohybuje plynule a při zasunutí neblokuje spodní ostřikovací rameno. Po vložení nádobí ověřte, že nic nepřekáží zavření dveří ani otáčení ostřikovacího ramene. Upozornění před objednáním Před objednáním si prosím ověřte kompatibilitu tohoto spodního koše s konkrétním modelem vaší myčky nádobí . U spotřebičů Bosch, Siemens, Neff, Constructa, Balay, Gaggenau, Küppersbusch a dalších značek skupiny BSH doporučujeme ověřovat podle označení modelu E-Nr. , protože rozměry koše, výška bočnic, typ koleček, provedení držáků, uspořádání sklopných hrotů, šířka myčky a konstrukce pojezdů se mohou u jednotlivých modelů lišit.</DESCRIPTION>
     <URL>https://boschino.cz/products/00773587-kos-do-mycky-nadobi-bosch-siemens?variant=56264385429835</URL>
     <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00773587-kos-do-mycky-nadobi-bosch-siemens.webp?v=1781135985</IMGURL>
-    <PRICE_VAT>2802.00</PRICE_VAT>
+    <PRICE_VAT>2242.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Náhradní díly k velkým spotřebičům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521718861</EAN>
@@ -19707,7 +19707,7 @@
     <DESCRIPTION>Jímka čerpadla do myčky nádobí Tato jímka čerpadla do myčky nádobí je originální náhradní díl s kódem 00668102 . Je určena pro vybrané myčky nádobí Bosch, Siemens, Neff, Constructa, Balay, Gaggenau a další kompatibilní spotřebiče skupiny BSH. Jímka je součástí spodní vodní části myčky a slouží k vedení mycí vody směrem k čerpadlům, filtrům a dalším částem vodního okruhu. Součástí sady je i zpětná klapka a těsnění. K čemu slouží a kdy je potřeba výměna? Jímka čerpadla se nachází ve spodní části myčky pod filtračním systémem. Shromažďuje mycí vodu, vede ji k oběhovému a vypouštěcímu čerpadlu a pomáhá správné funkci vodního okruhu spotřebiče. U tohoto provedení je uváděno kompletní provedení s těsněním a zpětným ventilem, které pomáhá správnému proudění vody a omezuje nežádoucí zpětný tok. Výměnu tohoto dílu obvykle potřebujete v následujících situacích: Ze spodní části myčky uniká voda. Jímka je prasklá, deformovaná nebo mechanicky poškozená. Došlo k poškození těsnění, zpětného ventilu nebo dosedacích ploch jímky. Myčka špatně vypouští vodu nebo se voda vrací zpět do prostoru vany. Ve spodní části myčky se hromadí nečistoty, mastnota nebo zbytky jídla a jímku již nelze spolehlivě vyčistit. Servisní diagnostika potvrdila závadu jímky čerpadla nebo související části vodního okruhu. Vlastnosti a výhody Tento originální náhradní díl Bosch / Siemens je vyroben tak, aby odpovídal konstrukčnímu řešení výrobce kompatibilních myček nádobí. Díky tomu: Pomáhá obnovit správné vedení vody ve spodní části myčky. Je vhodná jako přímá náhrada za původní prasklou, netěsnící nebo poškozenou jímku. Obsahuje provedení s těsněním a zpětným ventilem podle katalogového označení výrobce. U kompatibilních modelů umožňuje přesné usazení bez nutnosti úprav. Podporuje správnou návaznost na filtr, čerpadla, hadice a spodní vodní systém myčky. Pomáhá omezit problémy s únikem vody, špatným vypouštěním nebo zpětným tokem vody. Provedení a použití Díl 00668102 je v katalozích náhradních dílů uváděn jako jímka čerpadla , jímka myčky nádobí , jímka pro čerpadlo a zpětný ventil , spodní jímka myčky , sump , pump sump , dishwasher sump , Pumpentopf nebo Pumpentopf und Rückschlagventil . Oficiální katalog Siemens uvádí provedení kompletní s těsněním a zpětným ventilem . U některých prodejců se objevují také související nebo alternativní označení 668102 , 11024647 a 436673 . Související díly Při problémech s únikem vody, vypouštěním nebo cirkulací doporučujeme zkontrolovat také stav filtračního systému, těsnění jímky, zpětného ventilu, vypouštěcího čerpadla, oběhového čerpadla, hadic, svorek, tlakové komory, hladinových senzorů a spodní vany myčky. Pokud je závada v čerpadle, hadici nebo elektronice, samotná výměna jímky nemusí problém plně odstranit. Doporučení k montáži Výměnu jímky čerpadla doporučujeme svěřit kvalifikovanému servisnímu technikovi . Před jakýmkoli zásahem vždy odpojte myčku od elektrické sítě a uzavřete přívod vody. Při montáži je nutné správně usadit těsnění, zpětný ventil, hadice, svorky a navazující čerpadla. Po dokončení opravy proveďte zkušební program a zkontrolujte, zda nikde neuniká voda. Doporučení k používání a údržbě Pro správnou funkci jímky pravidelně čistěte filtry ve spodní části myčky a odstraňujte zbytky jídla, skla, pecek nebo jiných tvrdých nečistot. Zanesený filtr nebo nečistoty v jímce mohou zhoršit cirkulaci vody, zatížit čerpadla a způsobovat zápach nebo problémy s vypouštěním. Pravidelná údržba myčky pomáhá prodloužit životnost vodního systému. Upozornění před objednáním Před objednáním si prosím ověřte kompatibilitu této jímky čerpadla s konkrétním modelem vaší myčky nádobí . U spotřebičů Bosch, Siemens, Neff, Constructa a Balay doporučujeme ověřovat podle označení modelu E-Nr. , protože tvar jímky, těsnění, zpětný ventil, napojení čerpadel a provedení spodní části myčky se mohou u jednotlivých modelů lišit. Přehled kompatibilních spotřebičů naleznete níže na stránce.</DESCRIPTION>
     <URL>https://boschino.cz/products/00668102-jimka-do-mycky-nadobi-bosch-siemens?variant=56264436678987</URL>
     <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00668102-jimka-do-mycky-nadobi-bosch-siemens-02.jpg?v=1781137734</IMGURL>
-    <PRICE_VAT>1416.00</PRICE_VAT>
+    <PRICE_VAT>1189.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Náhradní díly k velkým spotřebičům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521645570</EAN>
@@ -21225,7 +21225,7 @@
     <DESCRIPTION>Mixovací nástavec do kuchyňského robotu – originální náhradní díl Tento originální náhradní díl s kódem 00572476 je mixovací nástavec určený pro výměnu v kuchyňských robotech. Zakoupíte jej typicky ve chvíli, kdy je původní nástavec opotřebovaný, poškozený, zlomený nebo se ztratil. Jde o totožnou náhradu, která plně obnoví funkci míchání a šlehání vašeho přístroje. K čemu slouží a kdy jej potřebujete? Mixovací nástavec je klíčová součástka kuchyňského robotu, která přenáší pohyb z hřídele motoru do mísy. Jeho opotřebení nebo selhání se projevuje několika způsoby: Neobvyklý hluk, drnčení nebo vibrace během provozu. Snižující se kvalita a homogenita míchaných směsí. Viditelné mechanické poškození – ohnutí, prasklina či ulomení části nástavce. Úplná nefunkčnost míchací funkce robota. V takových případech je výměna tohoto dílů jediným řešením pro obnovení plné funkčnosti vašeho kuchyňského pomocníka. Vlastnosti a výhody tohoto náhradního dílu Tento nástavec je originální výrobek , který přesně odpovídá konstrukčnímu řešení a materiálové specifikaci původního dílu od výrobce robota. Zajišťuje tak: Přesné usazení – díky shodným rozměrům a tvaru nedochází k vůli nebo nekvalitnímu záběru. Dokonalý přenos otáček – obnoví optimální výkon míchání a šlehání. Dlouhou životnost – je vyroben z odolných materiálů, které odolávají běžnému provoznímu zatížení. Bezpečný provoz – nedochází k nežádoucímu opotřebení dalších součástek robota. Instalace je zpravidla jednoduchá a nevyžaduje speciální nářadí. Nástavec se nasadí na příslušnou hřídel a zajistí podle návodu k obsluze daného modelu robota. Kompatibilita a důležité upozornění před koupí Náhradní díl kód 00572476 je určen pro konkrétní modely a řady kuchyňských robotů. Vzhledem k velkému množství variant důrazně doporučujeme ověřit si kompatibilitu tohoto nástavce s vaším konkrétním spotřebičem . Před objednáním si prosím zkontrolujte, zda je tento kód uveden v návodu k obsluze, na štítku vašeho robota nebo v seznamu kompatibilních dílů u výrobce. Přehled kompatibilních spotřebičů naleznete níže na stránce.</DESCRIPTION>
     <URL>https://boschino.cz/products/00572476-mixovaci-nastavec-do-kuchynskeho-robotu-bosch-siemens?variant=56264456077643</URL>
     <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00572476-mixovaci-nastavec-do-kuchynskeho-robotu-bosch-siemens.jpg?v=1781138166</IMGURL>
-    <PRICE_VAT>2561.00</PRICE_VAT>
+    <PRICE_VAT>2125.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Domácí a osobní spotřebiče | Kuchyňské spotřebiče | Příslušenství ke kuchyňským spotřebičům | Příslušenství ke kuchyňským robotům | Mísy ke kuchyňským robotům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521633508</EAN>
@@ -21564,7 +21564,7 @@
     <DESCRIPTION>Spodní koš do myčky Bosch / Siemens / Neff 20003053 – 525 × 515 × 190 mm, 8 koleček Originální spodní koš do myčky nádobí 20003053 je kompletní náhradní koš určený pro vybrané 60cm myčky Bosch, Siemens, Neff, Gaggenau a Balay. Slouží k uložení talířů, hrnců, pánví, mís, sklenic a dalšího nádobí ve spodní části mycího prostoru. Koš se dodává jako kompletně vybavená sestava . Výrobce potvrzuje šest řad sklopných trnů pro talíře, podpěry pro sklenice, odkládací police na šálky a osm pojezdových koleček. Není tedy nutné tyto základní prvky při výměně původního koše samostatně přendávat. Rozměry koše jsou 525 × 515 × 190 mm a povrchové provedení je stříbrné. Odborné katalogy uvádějí hmotnost kompletního koše přibližně 2,44 kg. Aktuální servisní číslo 20003053 nahrazuje původní díly 20002577, 00771609, 00685770 a 00680380 . Tuto návaznost potvrzují přímo Bosch, Siemens, Neff, Gaggenau i Balay. Před objednáním vždy ověřte kompatibilitu podle úplného E-Nr myčky včetně indexu za lomítkem. Stejná šířka myčky 60 cm sama o sobě nestačí, protože jednotlivé konstrukční generace používají rozdílné koše, kolečka a vnitřní uspořádání. K čemu slouží a kdy je potřeba výměna? Spodní koš tvoří hlavní úložný prostor pro větší a těžší nádobí . Jeho konstrukce umožňuje rozložit nádobí tak, aby mezi jednotlivými kusy mohl během programu proudit proud vody z ostřikovacích ramen. Sklopné řady trnů umožňují přizpůsobit vnitřní prostor typu náplně. Při mytí talířů mohou zůstat vztyčené, zatímco při vkládání větších hrnců, pánví nebo mís lze příslušné části sklopit a vytvořit větší rovnou plochu. Výměna celého koše je vhodná zejména tehdy, pokud je jeho drátěná konstrukce výrazně zkorodovaná, deformovaná, prasklá nebo má rozsáhle poškozený ochranný povrch . Důvodem může být také větší počet současně poškozených sklopných prvků nebo jejich držáků. Pokud je poškozeno pouze jedno kolečko, nemusí být nutná výměna kompletního koše. Pojezdová kolečka jsou u této konstrukce dostupná také jako samostatné servisní díly. U staršího koše věnujte pozornost zejména místům, kde je ochranná povrchová vrstva mechanicky porušena a kovová konstrukce začíná korodovat. Rozsáhlejší poškození může postupně zhoršovat mechanickou pevnost koše a jeho vzhled. Vlastnosti originální náhradní díl B/S/H/ objednací číslo: 20003053 typ: kompletní spodní koš do myčky nádobí pozice: spodní část mycího prostoru barva: stříbrná rozměry: 525 × 515 × 190 mm hmotnost přibližně 2,44 kg 6 řad sklopných trnů pro talíře integrované podpěry pro sklenice odkládací police na šálky 8 pojezdových koleček určeno pro vybrané 60cm myčky odpovídající konstrukce obsah balení: 1 kompletní spodní koš nahrazuje 20002577 nahrazuje 00771609 nahrazuje 00685770 nahrazuje 00680380 Provedení a rozměry 20003053 je kompletní drátěný spodní koš s ochranným povrchem . Konstrukce je doplněna plastovými funkčními prvky, sklápěcími mechanismy a pojezdovými kolečky. Výrobce uvádí následující rozměry: délka: 525 mm šířka: 515 mm výška: 190 mm barva: stříbrná Odborný katalog originálních B/S/H/ dílů uvádí hmotnost přibližně 2 443 g a kovové provedení hlavní konstrukce. Koš má na spodní části celkem osm pojezdových koleček . Jejich rozmístění odpovídá vodicím plochám konkrétních myček a umožňuje celý koš vysouvat přes otevřené dveře pro pohodlné plnění a vykládání. Rozměry používejte jako pomocný kontrolní údaj. Dva koše podobné velikosti se mohou lišit polohou koleček, tvarem rámu, sklápěcími držáky nebo návazností na ostatní části myčky. Související díly Koš 20003053 obsahuje osm samostatných pojezdových koleček. Specializované katalogy pro tuto sestavu potvrzují originální kolečko dolního koše 00611475 . Pokud je původní koš konstrukčně v pořádku a problém způsobuje pouze jedno nebo několik poškozených koleček, může být ekonomičtější vyměnit jednotlivá kolečka 00611475 místo celého koše. Výrobce oficiálně potvrzuje následující náhrady: 20002577 → 20003053 00771609 → 20003053 00685770 → 20003053 00680380 → 20003053 Některé neoficiální katalogy uvádějí ještě další starší čísla. Protože je však Bosch a Siemens na aktuálních produktových stránkách neuvádějí mezi přímými předchůdci 20003053, nepovažujeme je bez kontroly podle E-Nr za automaticky potvrzené náhrady. Příborový košík nebo samostatná horní příborová zásuvka nejsou automaticky součástí 20003053, pokud nejsou konstrukčně integrovány do konkrétní varianty spotřebiče. Doporučení k používání a údržbě Při ukládání nádobí využívejte sklopné řady podle velikosti jednotlivých kusů. Velké hrnce a mísy umístěte tak, aby neblokovaly volný pohyb spodního ostřikovacího ramene. Před spuštěním programu je vhodné ručně zkontrolovat, že se spodní ostřikovací rameno může volně otáčet a žádný dlouhý předmět z koše do jeho dráhy nezasahuje. Těžké nádobí rozkládejte po ploše koše rovnoměrně. Výrazné jednostranné zatížení zvyšuje mechanické namáhání koleček a může zhoršit plynulé vysouvání. Pojezdová kolečka udržujte čistá a odstraňujte z jejich okolí zbytky potravin, úlomky skla, etikety nebo jiné cizí předměty, které by mohly bránit jejich otáčení. Pokud se poškodí ochranná vrstva kovových drátů a začne se objevovat rozsáhlejší koroze, pravidelně kontrolujte její další postup. U silně poškozeného koše je vhodnější kompletní výměna. Sklopné prvky ovládejte bez nadměrné síly. Pokud některá řada nejde sklopit, nejprve zkontrolujte, zda není její mechanismus blokovaný nádobím nebo nečistotami. Kompatibilita a značky Originální číslo 20003053 je přímo potvrzeno v oficiálních katalozích Bosch, Siemens, Neff, Gaggenau a Balay . Bosch a Siemens uvádějí tento koš pro vybrané 60cm myčky nádobí odpovídající konstrukční generace . Neznamená to však, že je kompatibilní se všemi 60cm myčkami uvedených značek. V průběhu výroby se měnilo uspořádání pojezdů, košů a vnitřního vybavení, takže vhodnost nelze bezpečně určit pouze podle rozměru nebo vzhledu původního koše. Kompatibilitu vždy ověřte podle úplného E-Nr myčky včetně indexu za lomítkem. Pokud servisní dokumentace vašeho spotřebiče uvádí některé z čísel 20002577, 00771609, 00685770 nebo 00680380 , výrobce potvrzuje 20003053 jako aktuální náhradu. Upozornění Před objednáním ověřte, že potřebujete právě kompletní spodní koš 20003053 . Nejde o samotný kovový rám bez výbavy – výrobce jej dodává včetně šesti řad sklopných trnů, podpěr pro sklenice, polic na šálky a osmi koleček. Pokud je na původním koši poškozeno pouze kolečko, zvažte nejprve výměnu odpovídajícího samostatného pojezdového dílu. Při prvním vložení nového koše zkontrolujte, že všech osm koleček správně dosedá do vedení, koš lze volně vysunout a zasunout a neomezuje pohyb spodního ostřikovacího ramene. Koš nepřizpůsobujte násilným ohýbáním nebo úpravou koleček. Pokud se do myčky neusadí správně, znovu ověřte úplné E-Nr spotřebiče včetně indexu za lomítkem.</DESCRIPTION>
     <URL>https://boschino.cz/products/20003053-kos-do-mycky-nadobi-bosch-siemens?variant=56264459092299</URL>
     <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/20003053-kos-do-mycky-nadobi-bosch-siemens-03.jpg?v=1781138264</IMGURL>
-    <PRICE_VAT>3257.00</PRICE_VAT>
+    <PRICE_VAT>2606.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Náhradní díly k velkým spotřebičům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521598050</EAN>
@@ -22448,7 +22448,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Náhradní díly k velkým spotřebičům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521645846</EAN>
-    <DELIVERY_DATE>0</DELIVERY_DATE>
+    <DELIVERY_DATE>7</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15465032384843</ITEMGROUP_ID>
   </SHOPITEM>
@@ -22568,7 +22568,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Příslušenství k myčkám</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521645402</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <SALES_VOUCHER>
 <CODE>Jaro2026</CODE>
@@ -23406,7 +23406,7 @@
     <DESCRIPTION>Montážní sada pro provoz s cirkulací vzduchu, do odsavače par K čemu slouží tato montážní sada? Originální montážní sada 17006838 je určena pro přestavbu odsavače par z režimu odtahu do režimu cirkulace (recirkulace) vzduchu . Tento systém umožňuje, aby byl vzduch nasávaný odsavačem čištěn přes uhlíkové filtry a poté vracen zpět do kuchyně, aniž by bylo nutné vést odtahové potrubí mimo budovu. Proč je potřeba výměna nebo doplnění? Tuto sadu zákazníci nejčastěji pořizují v několika situacích: Původní montážní sada pro cirkulaci je poškozená, ztracená nebo opotřebovaná (např. netěsní, prasklá těsnění, chybí ventily). Při pozdější rozhodnutí změnit způsob odsávání z odtahu na recirkulaci, pokud tato sada nebyla součástí původní dodávky spotřebiče. Při výměně uhlových filtrů , kdy je vhodné zkontrolovat a případně vyměnit i součásti přestavovací sady, která zajišťuje správné proudění vzduchu. Co sadu tvoří a jak funguje? Sada typicky obsahuje potřebné přepínací ventily, adaptéry, těsnění a montážní prvky . Jejím účelem je přesměrovat vzduchový tok z odtahového vývodu do komory s uhlíkovým filtrem uvnitř odsavače. Tím se změní funkce spotřebiče bez nutnosti složitých stavebních úprav. Jedná se o originální náhradní díl , který je konstrukčně přizpůsoben příslušným modelům odsavačů, což zaručuje přesné usazení a funkčnost . Na co si dát pozor při výběru? Protože se jedná o součástku pro konkrétní modely spotřebičů, je klíčové ověřit kompatibilitu . Sada 17006838 nemusí být univerzální. Před objednáním doporučujeme zkontrolovat, zda je tento kód uveden v návodu vašeho odsavače jako příslušná montážní sada pro recirkulaci. Přehled kompatibilních spotřebičů naleznete níže na stránce.</DESCRIPTION>
     <URL>https://boschino.cz/products/17006838-montazni-sada-pro-provoz-s-cirkulaci-vzduchu-do-odsavace-par-bosch-siemens?variant=56264474984779</URL>
     <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/17006838-montazni-sada-pro-provoz-s-cirkulaci-vzduchu-do-odsavace-par-bosch-siemens.webp?v=1781138815</IMGURL>
-    <PRICE_VAT>1783.00</PRICE_VAT>
+    <PRICE_VAT>1533.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Vaření a ohřívání | Varné desky</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521639838</EAN>
@@ -25444,7 +25444,7 @@
     <DESCRIPTION>Originální náhradní díl – zásuvka do lednice (kód 00471196) Tento originální náhradní díl je určen k výměně poškozené nebo nefunkční zásuvky ve vaší lednici. Zásuvky (šuplíky) v chladicí části lednice jsou často namáhány opakovaným otevíráním, zavíráním a zatížením potravinami, což může vést k jejich prasknutí, ulomení pantů nebo celkovému znehodnocení. Pokud je vaše původní zásuvka rozbitá, prasklá, má poškozené vedení nebo neposkytuje správnou izolaci , je tento díl přesně tím, co potřebujete. Jedná se o věrnou kopii originálního dílu od výrobce, která je navržena tak, aby přesně pasovala na určené místo a obnovila plnou funkčnost vašeho spotřebiče. Zásuvka je vyrobena z kvalitního plastu, který odolává nízkým teplotám a vlhkosti prostředí v lednici. Její výměna je obvykle jednoduchá a nevyžaduje složité nástroje – starý poškozený díl vyjmete a nový zasunete do příslušných drážek. Před objednáním důrazně doporučujeme ověřit kompatibilitu tohoto dílu s konkrétním modelem a výrobcem vaší lednice. Přehled kompatibilních spotřebičů naleznete níže na stránce. Správná instalace originálního náhradního dílu zajišťuje, že lednice bude opět řádně těsnit a udržovat nastavenou teplotu, čímž se vyhnete zbytečným ztrátám energie a zajistíte optimální podmínky pro skladování potravin.</DESCRIPTION>
     <URL>https://boschino.cz/products/00471196-zasuvka-do-lednice-bosch-siemens?variant=56264501133643</URL>
     <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00471196-zasuvka-do-lednice-bosch-siemens.webp?v=1781139439</IMGURL>
-    <PRICE_VAT>1312.00</PRICE_VAT>
+    <PRICE_VAT>1075.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Police a šuplíky do lednic</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521651342</EAN>
@@ -27457,7 +27457,7 @@
     <CATEGORYTEXT>Heureka.cz | Domácí a osobní spotřebiče | Kuchyňské spotřebiče | Příslušenství ke kuchyňským spotřebičům | Příslušenství ke kuchyňským robotům | Ostatní příslušenství ke kuchyňským robotům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521662737</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15465063973195</ITEMGROUP_ID>
   </SHOPITEM>
@@ -27795,7 +27795,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Náhradní díly k velkým spotřebičům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521645037</EAN>
-    <DELIVERY_DATE>0</DELIVERY_DATE>
+    <DELIVERY_DATE>7</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <SALES_VOUCHER>
 <CODE>Jaro2026</CODE>
@@ -30306,7 +30306,7 @@
     <CATEGORYTEXT>Heureka.cz | Domácí a osobní spotřebiče | Úklidové spotřebiče | Příslušenství pro úklidové spotřebiče | Hubice a kartáče k vysavačům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521723827</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <SALES_VOUCHER>
 <CODE>Jaro2026</CODE>
@@ -31606,7 +31606,7 @@
     <DESCRIPTION>Hadice do vysavače Originální náhradní díl pro váš vysavač Náhradní hadice do vysavače (kód 00570336 ) je originální díl určený k výměně opotřebované, prasklé nebo jinak poškozené původní hadice. K její koupi zákazníky obvykle vede ztráta sání , viditelné poškození hadice nebo její netěsnost , která znemožňuje správnou funkci vysavače. K čemu slouží a kdy je výměna nutná Hadice je klíčovým prvkem pro přenos sání od motorové jednotky k čisticí hlavici nebo nástavcům. Její poškození se typicky projevuje: Znatelným poklesem sací síly – vysavač „netáhne“. Viditelnými prasklinami, dírkami nebo přetržením na těle hadice. Nadměrnou hlučností způsobenou nasáváním vzduchu netěsnostmi. Ohýbáním nebo zlomením hadice v místech častého ohybu, což blokuje průchod vzduchu. Tento originální náhradní díl je konstrukčně totožný s dílem použitým výrobcem v původním vysavači. Zajišťuje tedy přesné usazení do držáků a konektorů bez nutnosti jakýchkoliv úprav a obnovuje plnou funkčnost zařízení. Na co si dát pozor při výběru Před objednáním je zásadní ověřit kompatibilitu tohoto dílu (kód 00570336) s konkrétním modelem vašeho vysavače. I když jsou hadice obecně univerzální součástí, jejich délka, průměr, typ koncovek a způsob upevnění se mohou u různých značek a modelů lišit. Přehled kompatibilních spotřebičů naleznete níže na stránce. Kompatibilita Tato náhradní hadice je určena pro vybrané modely vysavačů. Důrazně doporučujeme ověřit si kompatibilitu dílu s vaším konkrétním spotřebičem před samotnou objednávkou. Seznam podporovaných modelů naleznete v technické specifikaci pod tímto popisem.</DESCRIPTION>
     <URL>https://boschino.cz/products/00570336-hadice-do-vysavace-bosch-siemens?variant=56264574501195</URL>
     <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00570336-hadice-do-vysavace-bosch-siemens.webp?v=1781141534</IMGURL>
-    <PRICE_VAT>1152.00</PRICE_VAT>
+    <PRICE_VAT>990.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Domácí a osobní spotřebiče | Úklidové spotřebiče | Příslušenství pro úklidové spotřebiče | Hadice na vysavače</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521572869</EAN>
@@ -34831,7 +34831,7 @@
     <DESCRIPTION>Dvířka mrazicí přihrádky do chladničky Tato dvířka mrazicí přihrádky do chladničky jsou originální náhradní díl s kódem 00447344 . Jsou určena pro vybrané chladničky a kombinované chladničky Bosch, Siemens, Neff a další kompatibilní spotřebiče skupiny BSH. Dvířka uzavírají vnitřní mrazicí přihrádku ve spotřebiči a pomáhají udržet správnou teplotu v mrazicím prostoru. K čemu slouží a kdy je potřeba výměna? Dvířka mrazicí přihrádky jsou vnitřní uzavírací část chladničky s malým mrazicím prostorem. Oddělují mrazicí část od chladicího prostoru, omezují pronikání teplejšího vzduchu do přihrádky a pomáhají udržet stabilnější podmínky pro zmrazené potraviny. Pokud jsou dvířka poškozená nebo nedoléhají, může se v mrazicí přihrádce rychleji tvořit námraza a spotřebič může hůře udržovat požadovanou teplotu. Výměnu tohoto dílu obvykle potřebujete v následujících situacích: Původní dvířka mrazicí přihrádky jsou prasklá, ulomená, zdeformovaná nebo mechanicky poškozená. Dvířka nejdou správně zavřít, nedoléhají nebo se samovolně otevírají. Je poškozený pant, čep, madlo, západka nebo dosedací hrana dvířek. V mrazicí přihrádce se tvoří nadměrná námraza kvůli špatnému dovírání dvířek. Dvířka byla poškozena při odmrazování, čištění, nárazu nebo neopatrné manipulaci. Původní dvířka chybí a mrazicí přihrádku nelze plnohodnotně používat. Vlastnosti a výhody Tento originální náhradní díl Bosch / Siemens je vyroben tak, aby odpovídal konstrukčnímu řešení výrobce kompatibilních chladniček. Díky tomu: Obnovuje správné uzavření vnitřní mrazicí přihrádky. Je vhodný jako přímá náhrada za původní prasklá, ulomená nebo chybějící dvířka. U kompatibilních modelů umožňuje přesné usazení do původního uchycení bez nutnosti úprav. Pomáhá omezit únik chladu z mrazicí přihrádky do chladicí části. Podporuje správné skladování zmrazených potravin a omezuje nadměrnou tvorbu námrazy. U tohoto provedení se uvádí rozměr přibližně 465 × 182 × 50 mm . Provedení a použití Díl 00447344 je v katalozích náhradních dílů uváděn jako dvířka mrazicí přihrádky , dveře mrazicího prostoru , dvířka výparníku chladničky , vnitřní dveře mrazáku , dveře mrazicího boxu , freezer compartment door , freezer flap , evaporator door , compartment door , Gefrierfachtür , Verdampferfachtür , Klappe Gefrierfach nebo Tür für Gefrierfach . U dílu se může objevit také zkrácené označení 447344 a související nebo nahrazované označení 00709009 . Součástí provedení může být podle dodávky také madlo, těsnicí část a čep pantu. Související a náhradní díly Při výměně dvířek mrazicí přihrádky doporučujeme zkontrolovat také stav pantu, čepu, západky, madla, těsnicí hrany, vnitřního plastového obložení chladničky, police pod mrazicí přihrádkou a případných dorazů. Pokud je poškozené uchycení v těle chladničky, prasklé vnitřní obložení nebo deformovaný protikus zámku, samotná výměna dvířek nemusí zajistit správné zavírání. Doporučení k používání a údržbě Dvířka mrazicí přihrádky otevírejte a zavírejte opatrně, bez kroucení a nadměrné síly. Při ukládání potravin zkontrolujte, že žádný sáček, krabička ani vrstva námrazy nebrání úplnému dovření. Při odmrazování nepoužívejte nože, šroubováky ani jiné ostré předměty, které by mohly poškodit plastová dvířka, výparník nebo vnitřní obložení chladničky. Dvířka čistěte vlažnou vodou, měkkým hadříkem a jemným čisticím prostředkem. Nepoužívejte horkou vodu, abrazivní houbičky, rozpouštědla ani agresivní chemii. Před opětovným zavřením zkontrolujte, že jsou dosedací plochy čisté, bez ledu a zbytků potravin. Doporučení k montáži Montáž dvířek je obvykle mechanická a nevyžaduje zásah do elektrické ani chladicí části spotřebiče. Původní poškozená dvířka opatrně uvolněte z pantu nebo čepů podle konstrukce konkrétní chladničky. Zkontrolujte stav uchycení a dosedacích ploch. Nová dvířka nasaďte do původní polohy, ověřte plynulé otevírání a zavírání a zkontrolujte, že dvířka rovně dosedají po celé hraně mrazicí přihrádky. Upozornění před objednáním Před objednáním si prosím ověřte kompatibilitu těchto dvířek mrazicí přihrádky s konkrétním modelem vaší chladničky Bosch / Siemens / Neff . Doporučujeme ověřovat podle označení modelu E-Nr. , protože rozměr dvířek, tvar pantu, čep, západka, směr otevírání, těsnicí plocha a návaznost na vnitřní mrazicí přihrádku se mohou u jednotlivých modelů lišit.</DESCRIPTION>
     <URL>https://boschino.cz/products/00447344-dvere-do-lednice-bosch-siemens?variant=56264608547147</URL>
     <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00447344-dvere-do-lednice-bosch-siemens.webp?v=1781142388</IMGURL>
-    <PRICE_VAT>1444.00</PRICE_VAT>
+    <PRICE_VAT>1212.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Police a šuplíky do lednic</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521650499</EAN>
@@ -34963,7 +34963,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Police a šuplíky do lednic</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521673696</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15465111617867</ITEMGROUP_ID>
   </SHOPITEM>
@@ -36101,7 +36101,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Příslušenství k digestořím</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521640070</EAN>
-    <DELIVERY_DATE>0</DELIVERY_DATE>
+    <DELIVERY_DATE>7</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <SALES_VOUCHER>
 <CODE>Jaro2026</CODE>
@@ -37339,7 +37339,7 @@
     <CATEGORYTEXT>Heureka.cz | Domácí a osobní spotřebiče | Úklidové spotřebiče | Příslušenství pro úklidové spotřebiče | Hubice a kartáče k vysavačům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521801501</EAN>
-    <DELIVERY_DATE>0</DELIVERY_DATE>
+    <DELIVERY_DATE>7</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <SALES_VOUCHER>
 <CODE>Jaro2026</CODE>
@@ -37732,7 +37732,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Pračky a sušičky | Příslušenství k pračkám a sušičkám</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>4242005209231</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <SALES_VOUCHER>
 <CODE>Jaro2026</CODE>
@@ -37899,7 +37899,7 @@
     <CATEGORYTEXT>Heureka.cz | Bílé zboží | Malé spotřebiče | Mixéry a šlehače | Příslušenství k mixérům a šlehačům</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521598814</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15493149098315</ITEMGROUP_ID>
   </SHOPITEM>
@@ -38273,7 +38273,7 @@
     <CATEGORYTEXT>Heureka.cz | Domácí a osobní spotřebiče | Kuchyňské spotřebiče | Příprava nápojů | Kávovary a příprava kávy | Příslušenství ke kávovarům | Ostatní příslušenství pro kávovary</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521637070</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15493154079051</ITEMGROUP_ID>
   </SHOPITEM>
@@ -38789,7 +38789,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Příslušenství k digestořím</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521639432</EAN>
-    <DELIVERY_DATE>0</DELIVERY_DATE>
+    <DELIVERY_DATE>7</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15493232558411</ITEMGROUP_ID>
   </SHOPITEM>
@@ -43432,7 +43432,7 @@
     <DESCRIPTION>Popis produktu: Spojovací souprava se zásuvkou pro sušička Tento díl spojovací souprava se zásuvkou je originální náhradní díl / příslušenství s kódem 00244044 . Je určen pro vybrané kompatibilní spotřebiče Bosch, Siemens a další spotřebiče skupiny BSH. Slouží k tomu, aby pomáhá obnovit správnou funkci spotřebiče a nahradit původní poškozený nebo opotřebený díl. K čemu slouží a kdy je potřeba výměna? Spojovací souprava se zásuvkou je součást, která pomáhá obnovit správnou funkci spotřebiče typu sušička a nahradit původní poškozený nebo opotřebený díl. Při výběru je důležité řídit se přesným označením dílu a kompatibilitou s konkrétním modelem spotřebiče. Výměnu tohoto dílu obvykle potřebujete v následujících situacích: původní díl je prasklý, ulomený, opotřebený nebo mechanicky poškozený. spotřebič nepracuje správně nebo některá jeho funkce nefunguje podle očekávání. díl chybí po předchozí opravě, čištění nebo údržbě. původní součást nedrží pevně, je deformovaná nebo vykazuje známky opotřebení. chcete zachovat původní konstrukční řešení a kompatibilitu se spotřebičem. Vlastnosti a výhody Tento originální náhradní díl / originální příslušenství je vyroben tak, aby odpovídal konstrukčnímu řešení kompatibilních spotřebičů. Díky tomu: pomáhá obnovit správnou funkci spotřebiče typu sušička. je vhodný jako přímá náhrada za původní poškozený nebo opotřebený díl. umožňuje opravu bez zbytečné výměny celého spotřebiče. zachovává správné usazení a návaznost na okolní díly. je určen pro servisní opravy i domácí výměnu tam, kde to konstrukce spotřebiče umožňuje. Provedení a použití Díl 00244044 je veden jako Spojovací souprava se zásuvkou . Používá se u vybraných modelů spotřebičů Bosch, Siemens a dalších značek skupiny BSH. Při montáži doporučujeme porovnat tvar, uchycení, rozměry a označení původního dílu s novým dílem. Doporučení k používání Díl používejte pouze v souladu s návodem a servisními pokyny ke konkrétnímu spotřebiči. Před montáží vždy odpojte spotřebič od elektrické sítě, případně uzavřete přívod vody nebo plynu, pokud se to daného spotřebiče týká. U složitějších oprav doporučujeme montáž svěřit kvalifikovanému servisu. Upozornění před objednáním Před objednáním si prosím ověřte kompatibilitu tohoto dílu s konkrétním modelem vašeho spotřebiče.</DESCRIPTION>
     <URL>https://boschino.cz/products/00244044-spojovaci-souprava-se-zasuvkou-bosch-siemens?variant=56447431770443</URL>
     <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/00244044-spojovaci-souprava-se-zasuvkou-bosch-siemens.png?v=1781186042</IMGURL>
-    <PRICE_VAT>2767.00</PRICE_VAT>
+    <PRICE_VAT>2379.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Pračky a sušičky | Příslušenství k pračkám a sušičkám</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521886331</EAN>
@@ -44914,7 +44914,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Příslušenství k digestořím</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521590078</EAN>
-    <DELIVERY_DATE>0</DELIVERY_DATE>
+    <DELIVERY_DATE>7</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <SALES_VOUCHER>
 <CODE>Jaro2026</CODE>
@@ -51655,7 +51655,7 @@
     <CATEGORYTEXT>Heureka.cz | Domácí a osobní spotřebiče | Kuchyňské spotřebiče | Příprava jídla | Malé kuchyňské spotřebiče | Mixování a šlehání | Mixéry</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757522093455</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15510038774091</ITEMGROUP_ID>
   </SHOPITEM>
@@ -55364,7 +55364,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Vaření a ohřívání | Varné desky</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521801143</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15510465642827</ITEMGROUP_ID>
   </SHOPITEM>
@@ -56710,7 +56710,7 @@
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/20002051-horni-kos-na-nadobi-bosch-siemens?variant=56452476305739</URL>
     <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/20002051-horni-kos-na-nadobi-do-mycky-nadobi-bosch-siemens.png?v=1781305868</IMGURL>
-    <PRICE_VAT>4206.00</PRICE_VAT>
+    <PRICE_VAT>3448.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Příslušenství k myčkám</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757522156815</EAN>
@@ -56815,7 +56815,7 @@
     <DESCRIPTION></DESCRIPTION>
     <URL>https://boschino.cz/products/10008816-sifon-na-kondenzat-do-susicky-pradla-bosch-siemens?variant=56452487971147</URL>
     <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/10008816-sifon-na-kondenzat-bosch-siemens.png?v=1781306779</IMGURL>
-    <PRICE_VAT>1798.00</PRICE_VAT>
+    <PRICE_VAT>1510.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Pračky a sušičky | Příslušenství k pračkám a sušičkám</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757522156761</EAN>
