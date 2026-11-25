@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generated at 2026-11-25T09:48:20.412Z; total variants: 51995; included: 4282; skipped: 47713; min price: 499.99; availability: in stock or orderable; categoryText: metafield heureka.categorytext; salesVoucher: metafield custom.sales_voucher -->
+<!-- Generated at 2026-11-25T19:58:09.527Z; total variants: 51995; included: 4282; skipped: 47713; min price: 499.99; availability: in stock or orderable; categoryText: metafield heureka.categorytext; salesVoucher: metafield custom.sales_voucher -->
 <SHOP>
   <SHOPITEM>
     <ITEM_ID>56264259961163</ITEM_ID>
@@ -3299,7 +3299,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Vaření a ohřívání | Mikrovlnné trouby</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8517521596360</EAN>
-    <DELIVERY_DATE>0</DELIVERY_DATE>
+    <DELIVERY_DATE>7</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15464913502539</ITEMGROUP_ID>
   </SHOPITEM>
@@ -25230,7 +25230,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Police a šuplíky do lednic</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521651427</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <ITEMGROUP_ID>15465048998219</ITEMGROUP_ID>
   </SHOPITEM>
@@ -36886,7 +36886,7 @@
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Pračky a sušičky | Příslušenství k pračkám a sušičkám</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
     <EAN>8757521580024</EAN>
-    <DELIVERY_DATE>7</DELIVERY_DATE>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
     <SPECIAL_SERVICE>Nákup s jistotou podle modelu spotřebiče. Kompletní databáze BSH - Bosch Siemens Gaggenau Constructa Neff Balay atd.</SPECIAL_SERVICE>
     <SALES_VOUCHER>
 <CODE>Jaro2026</CODE>
@@ -57563,11 +57563,11 @@
   </SHOPITEM>
   <SHOPITEM>
     <ITEM_ID>56452682481995</ITEM_ID>
-    <PRODUCTNAME>17006334 Plný výsuv 1násobný k troubě</PRODUCTNAME>
-    <PRODUCT>17006334 Plný výsuv 1násobný k troubě</PRODUCT>
-    <DESCRIPTION>Teleskopické plně výsuvné pojezdy do trouby Bosch Siemens Neff 17006334 Originální teleskopické pojezdy B/S/H/ 17006334 jsou sada levé a pravé plně výsuvné kolejnice pro jednu úroveň pečicího prostoru vybraných trub Bosch, Siemens a Neff. Umožňují vysunout plech, rošt nebo jiný kompatibilní pečicí prvek před prostor trouby a usnadňují tak kontrolu a manipulaci s připravovaným pokrmem. Maximální povolené zatížení sady je 15 kg . Před objednáním vždy ověřte kompatibilitu podle úplného E-Nr spotřebiče včetně indexu za lomítkem. K čemu slouží? Teleskopické kolejnice vytvářejí jednu plně výsuvnou úroveň v troubě. Při vysunutí nesou pečicí plech, rošt nebo odpovídající příslušenství a umožňují jeho vytažení směrem ven bez nutnosti celý díl okamžitě vyjmout z trouby. To usnadňuje například kontrolu, obracení nebo doplňování připravovaného pokrmu. Vlastnosti originální příslušenství B/S/H/, objednací kód 17006334 , jednoúrovňové teleskopické pojezdy, plný výsuv, sada levé a pravé kolejnice, maximální zatížení 15 kg , určeno pro vybrané trouby Bosch, Siemens a Neff, náhrada za starší kód 17002061 . Provedení a rozměry Jde o pár teleskopických kolejnic pro jednu výsuvnou úroveň. Výrobce je určuje pro vybrané trouby standardního 60cm provedení, avšak samotný rozměr spotřebiče nestačí k určení kompatibility. Přesné konstrukční rozměry nejsou v ověřených oficiálních údajích uvedeny jako výběrový parametr. Související díly Aktuální sada 17006334 nahrazuje starší originální provedení 17002061 . S teleskopickými kolejnicemi se používají odpovídající pečicí plechy, rošty a další příslušenství konkrétní trouby; tyto části nejsou součástí kódu 17006334. Doporučení k používání a údržbě Nepřekračujte maximální zatížení 15 kg a před použitím zkontrolujte správné uchycení levé i pravé kolejnice. Pojezdy udržujte čisté od zbytků potravin a mastnoty. Postup montáže, čištění a případné ponechání kolejnic v troubě při samočisticích programech vždy ověřte v návodu konkrétního spotřebiče. Kompatibilita a značky Díl 17006334 je oficiálně doložen pro vybrané trouby Bosch, Siemens a Neff . Nejde o univerzální teleskopické pojezdy pro všechny 60cm trouby těchto značek. Před objednáním vždy ověřte kompatibilitu podle úplného E-Nr spotřebiče včetně indexu za lomítkem. Upozornění Kód 17006334 označuje pár plně výsuvných teleskopických kolejnic – levou a pravou – pro jednu úroveň trouby. Nejde o sadu pro všechny úrovně pečicího prostoru. Vhodnost pro pyrolýzu se může lišit podle konkrétního spotřebiče, proto se v tomto bodě řiďte jeho návodem a E-Nr.</DESCRIPTION>
+    <PRODUCTNAME>17006334 Plný výsuv 1-násobný k troubě</PRODUCTNAME>
+    <PRODUCT>17006334 Plný výsuv 1-násobný k troubě</PRODUCT>
+    <DESCRIPTION>Plný teleskopický výsuv do trouby Bosch Siemens 17006334 – sada levý + pravý, 15 kg Originální teleskopický výsuv Bosch Siemens 17006334 je příslušenství určené pro vybrané trouby standardního 60cm provedení. Jedná se o sadu levé a pravé kolejnice s plným výsuvem pro jednu úroveň trouby. Maximální povolené zatížení je 15 kg . Vhodnost vždy ověřte podle přesného E-Nr spotřebiče včetně indexu za lomítkem. K čemu slouží a kdy je potřeba? Teleskopické kolejnice umožňují bezpečně vysunout plech nebo rošt výrazně před pečicí prostor trouby. Usnadňují kontrolu, obracení a vyjímání připravovaných pokrmů. Výměna nebo doplnění je vhodné v případě, že jsou původní pojezdy poškozené, deformované, zadrhávají se nebo již nedrží plech či rošt ve stabilní poloze. Vlastnosti originální příslušenství B/S/H/, objednací kód 17006334 , jednoúrovňový teleskopický výsuv, plný výsuv, sada obsahuje levou a pravou kolejnici, maximální zatížení 15 kg , určeno pro vybrané trouby standardního 60cm provedení, není určeno pro použití během pyrolytického čištění, nahrazuje starší kód 17002061 . Provedení a rozměry Jde o pár teleskopických kolejnic pro jednu výsuvnou úroveň trouby. Výrobce uvádí použití pro spotřebiče o šířce 60 cm, samotná šířka trouby však nestačí k potvrzení kompatibility. Přesné konstrukční rozměry kolejnic nejsou v dostupných oficiálních údajích uvedeny. Související díly Teleskopické kolejnice se používají s odpovídajícími pečicími plechy a rošty konkrétní trouby. Plech, rošt ani jiné pečicí příslušenství nejsou součástí sady 17006334. Při montáži ověřte také stav bočních nosičů a upevňovacích míst v troubě. Doporučení k používání a údržbě Dodržujte maximální zatížení 15 kg a plech nebo rošt vkládejte na obě kolejnice rovnoměrně. Pojezdy udržujte čisté a odstraňujte z nich zbytky potravin. Teleskopické kolejnice před spuštěním pyrolytického čištění z trouby vyjměte, pokud návod ke konkrétnímu spotřebiči výslovně nestanoví jinak. Kompatibilita a značky Díl 17006334 je určen pro vybrané trouby Bosch a Siemens; dostupné katalogy jej uvádějí také u některých spotřebičů Neff. Kompatibilita je uvedena například pro Bosch HBG633NB1/64 . Před objednáním vždy ověřte kompatibilitu podle úplného E-Nr spotřebiče včetně indexu za lomítkem. Upozornění Jedná se o sadu dvou kolejnic – levé a pravé , nikoli o jeden samostatný pojezd. Shoda šířky trouby nebo podobný vzhled kolejnic není dostatečným potvrzením kompatibility. Kolejnice nepřetěžujte a nepoužívejte je při pyrolytickém čištění, pokud to výrobce konkrétní trouby nepovoluje.</DESCRIPTION>
     <URL>https://boschino.cz/products/17006334-plny-vysuv-1nasobny-bosch-siemens?variant=56452682481995</URL>
-    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/17006334-plny-vysuv-1nasobny-bosch-siemens.png?v=1781319571</IMGURL>
+    <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/17006334-plny-vysuv-1nasobny-bosch-siemens-03.png?v=1781319584</IMGURL>
     <PRICE_VAT>2433.00</PRICE_VAT>
     <CATEGORYTEXT>Heureka.cz | Velké spotřebiče | Spotřebiče do kuchyně | Příslušenství k velkým kuchyňským spotřebičům | Příslušenství pro trouby</CATEGORYTEXT>
     <MANUFACTURER>BSH / Bosch</MANUFACTURER>
@@ -62858,9 +62858,9 @@
   </SHOPITEM>
   <SHOPITEM>
     <ITEM_ID>56453728928075</ITEM_ID>
-    <PRODUCTNAME>20005418 Prodloužení komínu</PRODUCTNAME>
-    <PRODUCT>20005418 Prodloužení komínu</PRODUCT>
-    <DESCRIPTION></DESCRIPTION>
+    <PRODUCTNAME>20005418 Prodloužení komínu k digestoři</PRODUCTNAME>
+    <PRODUCT>20005418 Prodloužení komínu k digestoři</PRODUCT>
+    <DESCRIPTION>Prodloužení komínu odsavače par Bosch Siemens 20005418 Originální prodloužení komínu Bosch Siemens 20005418 je příslušenství určené pro vybrané nástěnné odsavače par. Slouží k prodloužení komínové části digestoře při instalaci do vyššího prostoru nebo při úpravě výšky odtahu. Vhodnost vždy ověřte podle přesného E-Nr odsavače par včetně indexu za lomítkem. K čemu slouží a kdy je potřeba výměna? Prodloužení komínu umožňuje přizpůsobit výšku komínové sestavy konkrétní instalační situaci. Používá se zejména tehdy, když standardní komín odsavače par nedosahuje ke stropu nebo je při montáži potřeba delší zakrytování odtahového potrubí. Výměna nebo doplnění je vhodné také při poškození, promáčknutí nebo deformaci původního dílu. Vlastnosti originální příslušenství B/S/H/, objednací kód 20005418 , prodloužení komínu pro nástěnný odsavač par, kovové provedení, určeno pro vybrané odsavače par Bosch a Siemens, slouží k prodloužení komínové části digestoře, nejde o univerzální díl pro všechny odsavače par. Provedení a rozměry Jde o kovový díl komínové sestavy odsavače par, který se montuje podle konstrukce konkrétní digestoře. Přesné rozměry nejsou v dostupných produktových údajích uvedeny, proto je před objednáním nutné ověřit nejen objednací kód, ale také kompatibilitu s konkrétním modelem a instalační výškou. Související díly Prodloužení komínu se používá společně s nástěnným odsavačem par, vnitřním komínem, montážní sadou a odtahovým potrubím. Samotné prodloužení nemusí obsahovat montážní materiál ani další části komínové sestavy; rozsah dodávky si před objednáním ověřte u konkrétní nabídky. Doporučení k používání a údržbě Před montáží porovnejte rozměry, tvar a způsob upevnění prodloužení s původní komínovou sestavou. Při instalaci postupujte podle montážního návodu k odsavači par. Povrch čistěte měkkým hadříkem a prostředkem vhodným pro materiál konkrétního provedení; nepoužívejte abrazivní prostředky, které by mohly povrch poškrábat. Kompatibilita a značky Díl 20005418 je veden pro vybrané nástěnné odsavače par Bosch a Siemens. Katalogy náhradních dílů jej uvádějí například pro Bosch DWK65DK60/01 , DWK65DK60/02 a DWK85DK60/01 nebo Siemens LC65KDK60/01 a LC85KDK60/01 . U některých katalogů je uvedena také kompatibilita s vybranými odsavači Neff a Junker. Před objednáním vždy ověřte kompatibilitu podle úplného E-Nr spotřebiče včetně indexu za lomítkem. Upozornění Samotná shoda vzhledu, barvy nebo přibližné výšky není dostatečným potvrzením kompatibility. Prodloužení komínu musí odpovídat konkrétnímu modelu odsavače par a jeho montážnímu systému. Před vrtáním nebo úpravou instalace ověřte také požadovanou výšku komínu a vedení odtahového potrubí.</DESCRIPTION>
     <URL>https://boschino.cz/products/20005418-prodlouzeni-kominu-bosch-siemens?variant=56453728928075</URL>
     <IMGURL>https://cdn.shopify.com/s/files/1/1001/0741/9979/files/20005418-prodlouzeni-kominu-bosch-siemens.png?v=1781380245</IMGURL>
     <PRICE_VAT>3129.00</PRICE_VAT>
